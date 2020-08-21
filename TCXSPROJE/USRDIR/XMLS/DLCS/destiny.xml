@@ -1,0 +1,86 @@
+<XMBML version="1.0">
+	<View id="destiny_items">
+		<Attributes>
+			<Table key="destiny_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - The Taken King</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31181</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS31181_00/UP0002-BLUS31181_00-DESTINYTAKENKING_bg_1_c8ddc10ba12b5daa6f85e66ccacebc04c6ebb867.pkg</String></Pair>
+      </Table>
+			<Table key="destiny_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Liberar Expansão</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31181</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS31181_00/ytvGMWgRXTKWqmyHnZyofJLckCQDYqWEoAbFpVBfKuENWovAoNnOplWoAYjmvelozBqVxpSvAzpwldwigjChZOMjsLUVUWOyEtvPn.pkg</String></Pair>
+      </Table>
+			<Table key="destiny_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Tema Destiny</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31181</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS31181_00/mjJcBUZEFqLdwBFBdgkaZFBDLUgHuyAnapSRAPiwHLQAlxbmatXVCnaaPJEYQZNJ.pkg</String></Pair>
+      </Table>
+			<Table key="destiny_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Pack 1</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31181</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ares.dl.playstation.net/cdn/UP0002/BLUS31181_00/gvzqCisQjvZZIUQohXJHIJzTIFPBONwjzrlrNiqXUhJHwIrYqsIUXJRHPyxsTfHH.pkg</String></Pair>
+      </Table>
+			<Table key="destiny_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Pack 2</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31181</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ares.dl.playstation.net/cdn/UP0002/BLUS31181_00/LNYnQbFzSyEOpQljUaJNkaBdravrLkvIHmeWrwVRChWNURcbKwyylRxrGfTSTikd.pkg</String></Pair>
+      </Table>
+			<Table key="destiny_item_5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Pack 3</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31181</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ares.dl.playstation.net/cdn/UP0002/BLUS31181_00/UP0002-BLUS31181_00-DSTCOMPATPACK003_bg_1_3273b59ef93d07efee3eb716fe6743661e725602.pkg</String></Pair>
+      </Table>
+			<Table key="destiny_item_6">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - FIX All DLC</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31181</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/sh/jol9r0qtlsvj9kn/AABty6EhKdGjd46olMxnFmCMa/BLUS31181%20DLC?dl=0&preview=BLUS31181_DESTINY_ALL_DLC_FIX_v5.pkg&subfolder_nav_tracking=1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="destiny_item_0"
+        attr="destiny_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="destiny_item_1"
+        attr="destiny_item_1"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="destiny_item_2"
+        attr="destiny_item_2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="destiny_item_3"
+        attr="destiny_item_3"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="destiny_item_4"
+        attr="destiny_item_4"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="destiny_item_5"
+        attr="destiny_item_5"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="destiny_item_6"
+        attr="destiny_item_6"/>
+		</Items>
+	</View>
+
+</XMBML>

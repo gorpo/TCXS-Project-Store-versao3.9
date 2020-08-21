@@ -1,0 +1,108 @@
+<XMBML version="1.0">
+	<View id="re6_items">
+		<Attributes>
+			<Table key="re6_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - High Seas Fortress</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30855</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS30855_00/PTHvFTWprQdPmheMHVXybuJdnOdRbjMSFCoodkxFhmkRWGfgQYQlvVrhzntuUieD.pkg</String></Pair>
+      </Table>
+			<Table key="re6_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Modo de jogo Onslaught</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30855</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS30855_00/tLrUDjQPKrFHjthSrbBAthBxlsGPiMsKELXgYbeMmqBGQvYwOwNQwnIEVBRgemfP.pkg</String></Pair>
+      </Table>
+			<Table key="re6_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Modo de jogo Predator</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30855</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS30855_00/tjhbqSxHSLUZGgZtkmoRlmqJHaDtEDNQNezwIKBYMumkHeFyEjGMpMtjvgcJpODy.pkg</String></Pair>
+      </Table>
+			<Table key="re6_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Rail Yard</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30855</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS30855_00/QgpyCBWXAcMTrJoxNiAoBwkpNAnUpcAaYPNJouRQVeKDXvWZwKQYsNpzkDwsxiBU.pkg</String></Pair>
+      </Table>
+			<Table key="re6_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Modo de jogo Siege</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30855</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS30855_00/YcygmACwXpPkCjoKyrcxkEbxCeqxFkHhuqclDxcDIgmZskBPsPcsibsxBCHodwmt.pkg</String></Pair>
+      </Table>
+			<Table key="re6_item_5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Stage Map Pack A</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30855</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS30855_00/vSGokGjXJHUPehdWxYgfwReVhCiteBBPqvmCDTvPsGOEboCuGfxIDXWdksmAXCOs.pkg</String></Pair>
+      </Table>
+			<Table key="re6_item_6">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Stage Map Pack B</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30855</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS30855_00/wxArFKScPMxJVwLQZOkXmFTbPFsDgRRNbAtUbVISzrgSTCGrpVgABfwhhHYTIBgK.pkg</String></Pair>
+			</Table>
+			<Table key="re6_item_7">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Modo de jogo Survivors</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30855</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS30855_00/RqPPaeEauxIaGYChvEiMevHnFKmahAgnrhofVFEXvUOaXhuMzFFSwuGRNKBqngvK.pkg</String></Pair>
+      </Table>
+			<Table key="re6_item_8">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - The Catacombs</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30855</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS30855_00/DhaqsIKzfwMNPfTgCpEqrYHJXmHdhdvMNTfrlpeXvSTEtkiQOlfAdEOoLDFvvpZY.pkg</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="re6_item_0"
+        attr="re6_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="re6_item_1"
+        attr="re6_item_1"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="re6_item_2"
+        attr="re6_item_2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="re6_item_3"
+        attr="re6_item_3"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="re6_item_4"
+        attr="re6_item_4"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="re6_item_5"
+        attr="re6_item_5"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="re6_item_6"
+        attr="re6_item_6"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="re6_item_7"
+        attr="re6_item_7"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="re6_item_8"
+        attr="re6_item_8"/>
+		</Items>
+	</View>
+
+</XMBML>

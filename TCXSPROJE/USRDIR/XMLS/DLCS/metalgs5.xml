@@ -1,0 +1,39 @@
+<XMBML version="1.0">
+		<View id="mgs5_items">
+        <Attributes>
+            <Table key="mgs5_item_0">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/DLC/mgs5.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Metal Gear Online</String></Pair>
+                <Pair key="info"><String>NPUB31594 - 429.18 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+        </Attributes>
+        <Items>
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="mgs5_item_0"
+                attr="mgs5_item_0"
+                src="#mgs5_item_0_link"
+            />
+       </Items>
+    </View>
+
+	<View id="mgs5_item_0_link">
+        <Attributes>
+            <Table key="mgs5_item_0">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0101/NPUB31594_00/UP0101-NPUB31594_00-MGOGAMEDATAVER01_bg_2_122a828e5a257a6ca322a802005d0047ab2fdac3.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0101/NPUB31594_00/UP0101-NPUB31594_00-MGOGAMEDATAVER01_bg_2_122a828e5a257a6ca322a802005d0047ab2fdac3.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0101-NPUB31594_00-MGOGAMEDATAVER01</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/DLC/download.png</String></Pair>
+         </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="mgs5_item_0" attr="mgs5_item_0"/>
+        </Items>
+    </View>
+
+
+</XMBML>

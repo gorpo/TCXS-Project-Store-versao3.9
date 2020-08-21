@@ -1,0 +1,108 @@
+<XMBML version="1.0">
+	<View id="battlefield4_items">
+		<Attributes>
+			<Table key="battlefield4_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Night Operations</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31162</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0006/BLUS31162_00/UP0006-BLUS31162_00-XPACK05000000000_bg_1_b9fd7039013f237a1b0b44723b9ea33d9c68ce27.pkg</String></Pair>
+      </Table>
+			<Table key="battlefield4_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Community Operations</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31162</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0006/BLUS31162_00/UP0006-BLUS31162_00-XPACK06000000000_bg_1_2c54285327c75893c1d58a908dd88cf1b0674ed1.pkg</String></Pair>
+      </Table>
+			<Table key="battlefield4_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Premium</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31162</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0006/BLUS31162_00/yvhMkUcdWmTFFYhONWajZqJimqlokqNBZfmyKtZuTswWbCeRLgpGzWWebkapaHOA.pkg</String></Pair>
+      </Table>
+			<Table key="battlefield4_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - SCWPN GRENADES</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31162</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0006/BLUS31162_00/ePJMioZqBrPdRlgbBLLnnhvvGBSiGqxhUEpfpkLANVPswkUydwCHuklExuaCSrAM.pkg</String></Pair>
+      </Table>
+			<Table key="battlefield4_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - SCWPN PISTOLS</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31162</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0006/BLUS31162_00/ZCNFmVlFYaeKJYANmiHQTHIEHCIOYZQNBKmMpjsMYCGJgjkcRizYXkZLtHIEfhMb.pkg</String></Pair>
+      </Table>
+			<Table key="battlefield4_item_5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Second Assault</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31162</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0006/BLUS31162_00/MGIOdOKxPzEkMYmcxydxySQBSgcZqVdFISXlwNRJNVdVpBufboDEYFcbrUJtruBN.pkg</String></Pair>
+      </Table>
+			<Table key="battlefield4_item_6">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - SWCPN SHOTGUNS</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31162</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0006/BLUS31162_00/tflaxjtNStpYCeSZePjPcMFLWodCBqsnTaRqzFnbSLTAsjFzlXfYLHvHBMqPLpvR.pkg</String></Pair>
+			   </Table>
+			<Table key="battlefield4_item_7">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Pack 01</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31162</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0006/BLUS31162_00/otoIaerMNEoMGJttkrdgsvMqPGscEHrusNKjtjCdTKRWjzMxqTDAwhKqRzZsSYWu.pkg</String></Pair>
+      </Table>
+			<Table key="battlefield4_item_8">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Pack 02</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31162</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0006/BLUS31162_00/AemkzLStdsxLPFYxTCzLMjUsrVxNpalVPMOxSxJASrioeXVjaRbiWXRZIIsFnmtg.pkg</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="battlefield4_item_0"
+        attr="battlefield4_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="battlefield4_item_1"
+        attr="battlefield4_item_1"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="battlefield4_item_2"
+        attr="battlefield4_item_2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="battlefield4_item_3"
+        attr="battlefield4_item_3"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="battlefield4_item_4"
+        attr="battlefield4_item_4"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="battlefield4_item_5"
+        attr="battlefield4_item_5"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="battlefield4_item_6"
+        attr="battlefield4_item_6"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="battlefield4_item_7"
+        attr="battlefield4_item_7"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="battlefield4_item_8"
+        attr="battlefield4_item_8"/>
+		</Items>
+	</View>
+
+</XMBML>

@@ -1,0 +1,16 @@
+<XMBML version="1.0">
+	<View id="updategames_items">
+		<Attributes>
+		 <Table key="updategames_items">
+			<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+			<Pair key="title"><String>TCXS - Star Wars Pinball UPDATE</String></Pair>
+			<Pair key="info"><String>TCXS -  Game id: id:UP4042-NPUB31132 </String></Pair>
+			<Pair key="module_name"><String>webrender_plugin</String></Pair>
+			<Pair key="module_action"><String>http://b0.ww.np.dl.playstation.net/tppkg/np/NPUB31132/NPUB31132_T4/2155f73d70f556a5/UP4042-NPUB31132_00-SWPINBALL0000001-A0105-V0100-PE.pkg</String></Pair>
+         </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="updategames_items" attr="updategames_items"/>
+		</Items>
+	</View>
+</XMBML>

@@ -1,0 +1,16 @@
+<XMBML version="1.0">
+	<View id="updategames_items">
+		<Attributes>
+		 <Table key="updategames_items">
+			<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+			<Pair key="title"><String>TCXS - Tiny Troopers Joint Ops UPDATE</String></Pair>
+			<Pair key="info"><String>TCXS -  Game id: id:UP4382-NPUB31483 </String></Pair>
+			<Pair key="module_name"><String>webrender_plugin</String></Pair>
+			<Pair key="module_action"><String>http://b0.ww.np.dl.playstation.net/tppkg/np/NPUB31483/NPUB31483_T0/d630b4e700b73694/UP4382-NPUB31483_00-TTSPECOPS0000013-A0101-V0102-PE.pkg</String></Pair>
+         </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="updategames_items" attr="updategames_items"/>
+		</Items>
+	</View>
+</XMBML>

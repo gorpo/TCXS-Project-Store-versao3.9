@@ -1,0 +1,16 @@
+<XMBML version="1.0">
+	<View id="updategames_items">
+		<Attributes>
+		 <Table key="updategames_items">
+			<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+			<Pair key="title"><String>TCXS - Call of Juarez® Gunslinger UPDATE</String></Pair>
+			<Pair key="info"><String>TCXS -  Game id: id:EP0001-NPEB01214 </String></Pair>
+			<Pair key="module_name"><String>webrender_plugin</String></Pair>
+			<Pair key="module_action"><String>http://b0.ww.np.dl.playstation.net/tppkg/np/NPEB01214/NPEB01214_T2/5ec8a970035b0c1c/EP0001-NPEB01214_00-COJ4TRIALVERSION-A0101-V0100-PE.pkg</String></Pair>
+         </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="updategames_items" attr="updategames_items"/>
+		</Items>
+	</View>
+</XMBML>

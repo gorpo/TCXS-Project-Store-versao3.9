@@ -1,0 +1,16 @@
+<XMBML version="1.0">
+	<View id="updategames_items">
+		<Attributes>
+		 <Table key="updategames_items">
+			<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+			<Pair key="title"><String>TCXS - Madden NFL 15 UPDATE</String></Pair>
+			<Pair key="info"><String>TCXS -  Game id: id:UP0006-BLUS31428 </String></Pair>
+			<Pair key="module_name"><String>webrender_plugin</String></Pair>
+			<Pair key="module_action"><String>http://b0.ww.np.dl.playstation.net/tppkg/np/BLUS31428/BLUS31428_T27/c1da177ac776c3f0/UP0006-BLUS31428_00-MADDENNFL1500000-A0103-V0100-PE.pkg</String></Pair>
+         </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="updategames_items" attr="updategames_items"/>
+		</Items>
+	</View>
+</XMBML>

@@ -1,0 +1,64 @@
+ <XMBML version="1.0">
+	<View id="borderlands_items">
+		<Attributes>
+			<Table key="borderlands_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - DLC  FIX</String></Pair>
+				<Pair key="info"><String>TCXS - BLES00697</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP1001/BLES00697_00/vorCT3yQdsMT0vmrjq9cu3ER7LT0FoukjqWvxHIQloNqc97q3HM3RO7T7nq58rMQMqRDMaurIOqx7j7ipCyWvXhP44hiJue1OYGlQ.pkg</String></Pair>
+      </Table>
+			<Table key="borderlands_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - The Zombie Island of Dr.Ned</String></Pair>
+				<Pair key="info"><String>TCXS - BLES00697</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP1001/BLES00697_00/90IXxpOW75H4mtPBHAu25TWsfaMNyx5G7M9VaNQt1xGoxqsBLmxcjy3HryaauwoUatvPnO2XNQ0JashCYqaYx2lJPSfjIQiy9bOx3.pkg</String></Pair>
+      </Table>
+			<Table key="borderlands_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Mad Moxxi's Underdome Riot</String></Pair>
+				<Pair key="info"><String>TCXS - BLES00697</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP1001/BLES00697_00/cjlEtvEyR7kS08qXUkPqcCREwTDx8eN6pfOiV9xTFsy9OkJl1EYeaKNPNsMiSl3iBOGqttksWdGKIFe1Y7iUvixsP41s9Vs3Udhn7.pkg</String></Pair>
+      </Table>
+			<Table key="borderlands_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - The Secret Armory of General Knoxx</String></Pair>
+				<Pair key="info"><String>TCXS - BLES00697</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP1001/BLES00697_00/g0M3I2oyFq5kklWKhVGb3glXnO6Rq6OFDpOc7EaGgk6Slp8qFduWUA4KmInY6tfq.pkg</String></Pair>
+      </Table>
+			<Table key="borderlands_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Claptrap's New Robot Revolution</String></Pair>
+				<Pair key="info"><String>TCXS - BLES00697</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/sh/r1hyqdwzcflw9hu/AACVDGbNis7sux4ga3ALb19da/BLES00697%20-%20DLC%20FIX?dl=0&preview=BLES00697_BORDERLANDS_ALL_DLC_FIX.pkg&subfolder_nav_tracking=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="borderlands_item_0"
+        attr="borderlands_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="borderlands_item_1"
+        attr="borderlands_item_1"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="borderlands_item_2"
+        attr="borderlands_item_2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="borderlands_item_3"
+        attr="borderlands_item_3"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="borderlands_item_4"
+        attr="borderlands_item_4"/>
+		</Items>
+	</View>
+
+</XMBML>

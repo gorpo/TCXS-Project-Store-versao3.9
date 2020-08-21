@@ -1,0 +1,16 @@
+<XMBML version="1.0">
+	<View id="updategames_items">
+		<Attributes>
+		 <Table key="updategames_items">
+			<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+			<Pair key="title"><String>TCXS - WRC 5 FIA World Rally Championship UPDATE</String></Pair>
+			<Pair key="info"><String>TCXS -  Game id: id:EP4008-NPEB02265 </String></Pair>
+			<Pair key="module_name"><String>webrender_plugin</String></Pair>
+			<Pair key="module_action"><String>http://b0.ww.np.dl.playstation.net/tppkg/np/NPEB02265/NPEB02265_T0/bf62670ce4967d66/EP4008-NPEB02265_00-WRC5000000000000-A0101-V0100-PE.pkg</String></Pair>
+         </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="updategames_items" attr="updategames_items"/>
+		</Items>
+	</View>
+</XMBML>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<XMBML version="1.0">
+	<View id="nopsn_items">
+		<Attributes>
+			<Table key="psnoff">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/APPSOFF/nopsn.png</String></Pair>
+				<Pair key="title"><String>NO PSN</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://nopsn.com/pkg/ps3/</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="psnoff"
+        attr="psnoff"/>
+		</Items>
+	</View>
+
+
+</XMBML>

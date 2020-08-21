@@ -1,0 +1,2189 @@
+﻿<XMBML version="1.0">
+    <View id="exclusivos_items">
+        <Attributes>
+          <Table key="exc_inf">
+              <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PS1/aviso.png</String></Pair>
+              <Pair key="title"><String>!AVISOS!</String></Pair>
+          </Table>
+        <Table key="ps3_exclusivos_codaw">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/image.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Call od Duty Advanced Warfare PT-BR (US)</String></Pair>
+            <Pair key="info"><String>NPUB31553 - 13.6 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_codbo2">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/blackops2.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Call of Duty Black Ops 2 EN (US)</String></Pair>
+            <Pair key="info"><String>NPUB31054 - 12.8 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_dty">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/Destiny.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Destiny PT-BR (US)</String></Pair>
+            <Pair key="info"><String>NPUB31202 - 7.4 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_legom">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/legomarvelsh.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - LEGO Marvel Super Heroes PT-BR (US)</String></Pair>
+            <Pair key="info"><String>NPUB31236 - 7.5 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_codghost">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/ghosts.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Call of Duty Ghosts PT-BR(US)</String></Pair>
+            <Pair key="info"><String>NPUB31301 - 10.91 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_codbo1">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/blackops.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Call of Duty Black Ops (US)</String></Pair>
+            <Pair key="info"><String>NPUB30584 - 17.79 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_tlos">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/tlos.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - The Last of Us PT-BR (US)</String></Pair>
+            <Pair key="info"><String>NPUA80960 - 136.49 Mb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_gowasc">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/gowascension.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - God of War Ascension PT-BR (US)</String></Pair>
+            <Pair key="info"><String>NPUA80918 - 34.02 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_oppw">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/oppw.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - One Piece Pirate Warriors (US)</String></Pair>
+            <Pair key="info"><String>NPUB30836 - 10.8 Gb TCXS Project</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_oppw2">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/oppw2.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - One Piece Pirate Warriors 2 (US)</String></Pair>
+            <Pair key="info"><String>NPUB31295 - 7.83 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_oppw3">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/oppw3.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - One Piece Pirate Warriors 3 (US)</String></Pair>
+            <Pair key="info"><String>NPUB31676 - 14.04 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_bf4">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/battlefield4.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Battlefield 4 PT-BR (US)</String></Pair>
+            <Pair key="info"><String>NPUB31148 - 9.92 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_midla">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/mnclace.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Midnight Club LA Edição Completa (US)</String></Pair>
+            <Pair key="info"><String>NPUB30471 - 5.03 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_grid">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/gridas.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - GRID Autosport (US)</String></Pair>
+            <Pair key="info"><String>NPUB31527 - 7.3 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_dmc">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/dmc.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - DmC: Devil may Cry PT-BR (US)</String></Pair>
+            <Pair key="info"><String>NPUB30830 - 6.51 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_darks2">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/darks2sotfs.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Dark Souls 2: Scholar of the First Sin PT-BR (US)</String></Pair>
+            <Pair key="info"><String>NPUB31666 - 6.19 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_infa2">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/infamous2.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Infamous 2 (US)</String></Pair>
+            <Pair key="info"><String>NPUA80638 - 14.04 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_asc4">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/ac4.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Assasin's Creed 4: Black Flag PT-BR (US)</String></Pair>
+            <Pair key="info"><String>NPUB31246 - 9.77 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_jsv">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/jsv.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - J-STARS Victory VS EN (US)</String></Pair>
+            <Pair key="info"><String>NPUB31647 - 3.45 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_thspider2">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/tas2.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - The Amazing Spider-Man 2 (US)</String></Pair>
+            <Pair key="info"><String>NPUB31351 - 6.2 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_diablo3">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/diablo3.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Diablo III (US)</String></Pair>
+            <Pair key="info"><String>NPUB31299 - 8.56 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_revil5">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/re5.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Resident Evil 5 Gold Edition (US)</String></Pair>
+            <Pair key="info"><String>NPUB30564 - 7.36 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_revil6">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/re6.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Resident Evil 6 (US)</String></Pair>
+            <Pair key="info"><String>NPUB30984 - 9.84 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_revilr">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/rer.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Resident Evil Revelations (US)</String></Pair>
+            <Pair key="info"><String>NPUB30991 - 11.27 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_mk">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/mk.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Mortal Kombat PT-BR (US)</String></Pair>
+            <Pair key="info"><String>NPUB30668 - 9.76 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_legojuw">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/ljw.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - LEGO Jurassic World (US)</String></Pair>
+            <Pair key="info"><String>NPUB31643 - 5.77 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_midearts">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/mesom.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Middle-Earth: Shadow of Mordor (US)</String></Pair>
+            <Pair key="info"><String>NPUB31436 - 7.61 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_legohob">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/lth.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - LEGO The Hobbit (US)</String></Pair>
+            <Pair key="info"><String>NPUB31429 - 8.05 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_bey2s">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/bts.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Beyond: two souls EN (US)</String></Pair>
+            <Pair key="info"><String>NPUA81087 - 24.98 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_recordawz">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/roawz.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Record of Agarest War Zero (US)</String></Pair>
+            <Pair key="info"><String>NPUB30776 - 13.72 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_swsb">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/swsb.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Shaun White Skateboarding (US)</String></Pair>
+            <Pair key="info"><String>NPUB31269 - 4.74 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_playasbroya">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/pasbr.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - PlayStation All-Stars Battle Royale (US)</String></Pair>
+            <Pair key="info"><String>NPUA80316 - 5.84 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_ps14">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/pes14.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Pro Evolution Soccer 2014 (US)</String></Pair>
+            <Pair key="info"><String>NPUB31337 - 6.71 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_gta5">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/gta5.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Grand Theft Auto V (GTA V) PT-BR (US)</String></Pair>
+            <Pair key="info"><String>NPUB31154 - 17.2 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_wwe15">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/wwe15.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - WWE 2k15 (US)</String></Pair>
+            <Pair key="info"><String>NPUB31546 - 12.96 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_uncharted2">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/uncharted2.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Uncharted 2 Among Thieves (US)</String></Pair>
+            <Pair key="info"><String>NPUA80698 - 18.63 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_tkof13">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/tkof13.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - The King of Fighters XIII (US)</String></Pair>
+            <Pair key="info"><String>NPUB30837 - 2.18 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_mafia2">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/mafia2.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Mafia 2 (US)</String></Pair>
+            <Pair key="info"><String>NPUB30656 - 7.22 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_batorigins">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/bao.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Batman Arkham Origins (US)</String></Pair>
+            <Pair key="info"><String>NPUB31261 - 14.09 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_saiyabsol">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/saintseya.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Saint Seiya: Brave Soldiers (EU)</String></Pair>
+            <Pair key="info"><String>NPEB01814 - 3 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_dragdoga">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/ddda.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Dragons Dogma Dark Arisen (US)</String></Pair>
+            <Pair key="info"><String>NPUB31117 - 11.51 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_grid2">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/grid2.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Grid 2 (US)</String></Pair>
+            <Pair key="info"><String>NPUB31075 - 5.78Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_watchdogs">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/wd.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Watch Dogs (US)</String></Pair>
+            <Pair key="info"><String>NPUB31254 - 13.48 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_csgo">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/csgo.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Counter Strike - Global Offensive (US)</String></Pair>
+            <Pair key="info"><String>NPUB30589 - 2.24 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_revilr2">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/rer22.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Resident Evil Revelations 2 - Episódio 2 (US)</String></Pair>
+            <Pair key="info"><String>NPUB31518 - 1.24 Gb TCXS Project</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_revilr3">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/rer23.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Resident Evil Revelations 2 - Episódio 3 (US)</String></Pair>
+            <Pair key="info"><String>NPUB31518 - 1.37 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_revilr4">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/rer24.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Resident Evil Revelations 2 - Episódio 4 (US)</String></Pair>
+            <Pair key="info"><String>NPUB31518 - 1.52 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_revilr5">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/rer2l.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Resident Evil Revelations 2 - Episódio extra Little miss (US)</String></Pair>
+            <Pair key="info"><String>NPUB31518 - 548.72 Mb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_revilr6">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/rer2t.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Resident Evil Revelations 2 - Episódio extra The Strugle (US)</String></Pair>
+            <Pair key="info"><String>NPUB31518 - 550.49 Mb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_tombraider">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/tr.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Tomb Raider (US)</String></Pair>
+            <Pair key="info"><String>NPUB31146 - 8.57 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_legobat3">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/lb3.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - LEGO Batman 3 - Beyond Gotham (US)</String></Pair>
+            <Pair key="info"><String>NPUB31499 - 7.3 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_minecr">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/minecraft.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Minecraft (US)</String></Pair>
+            <Pair key="info"><String>NPUB31419 - 3 GB</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_uncharted3">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/uncharted3.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Uncharted 3 - Drakes Deception (US)</String></Pair>
+            <Pair key="info"><String>BCUS98233 - 11.13 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_alieniso">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/ai.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Alien: Isolation (EU)</String></Pair>
+            <Pair key="info"><String>NPEB01921 - 9.26 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_superstreet4">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/ssf4.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Super Street Fighter 4 Arcade Edition (US)</String></Pair>
+            <Pair key="info"><String>NPUB30649 - 17.95 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_codmw2">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/codmw2.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Call of Duty: Modern Warfare 2 (US)</String></Pair>
+            <Pair key="info"><String>NPEB00731 - 7.14 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_codmw3">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/codmw3.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Call of Duty: Modern Warfare 3 (US)</String></Pair>
+            <Pair key="info"><String>NPUB30787 - 8.04 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_maxpayne3">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/mp3.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Max Payne 3 (US)</String></Pair>
+            <Pair key="info"><String>NPUB30902 - 13.58 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_metalgs5">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/mgs5.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Metal Gear Solid V: The Phantom Pain (US)</String></Pair>
+            <Pair key="info"><String>NPUB31594 - 11.76 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_lifestrag2">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/lis2.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Life Is Strange - Episode 2 (US)</String></Pair>
+            <Pair key="info"><String>NPUB31636 - 1.02 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_lifestrag3">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/lis3.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Life Is Strange - Episode 3 (US)</String></Pair>
+            <Pair key="info"><String>NPUB31636 - 1.27 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_lifestrag4">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/lis4.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Life Is Strange - Episode 4 (US)</String></Pair>
+            <Pair key="info"><String>NPUB31636 - 1.66 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_lifestrag5">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/lis5.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Life Is Strange - Episode 5 (US)</String></Pair>
+            <Pair key="info"><String>NPUB31636 - 1.88 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_grant6">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/gt6.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Gran Turismo 6 (US)</String></Pair>
+            <Pair key="info"><String>NPUA81049 - 14.33 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_dynwar8">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/dw8.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - DYNASTY WARRIORS 8 (US)</String></Pair>
+            <Pair key="info"><String>NPUB31234 - 18.21 Gb TCXS Project</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_waroroch3">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/wo3u.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Warriors Orochi 3 Ultimate (US)</String></Pair>
+            <Pair key="info"><String>NPUB31505 - 18.31 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_littlebigp">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/lbp.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Little Big Planet (US)</String></Pair>
+            <Pair key="info"><String>NPUA80472 - 1.99 Gb TCXS Project</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_littlebigp2">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/lbp2.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Little Big Planet 2 (US)</String></Pair>
+            <Pair key="info"><String>NPUA80662 - 4.68 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_littlebigp3">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/lbp3.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Little Big Planet 3 (US)</String></Pair>
+            <Pair key="info"><String>NPUA81116 - 7.01 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_littlebigpkrt">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/lbpk.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Little Big Planet Karting (US)</String></Pair>
+            <Pair key="info"><String>NPUA80848 - 18.31 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_reddeadun">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/rdrun.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Red Dead Redemption Undead Nightmare (US)</String></Pair>
+            <Pair key="info"><String>NPUB30639 - 9.64 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_lostplanet3">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/lp3.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Lost Planet 3 (US)</String></Pair>
+            <Pair key="info"><String>NPUB31125 - 15.49 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_streetxtek">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/sfxt.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - Street Fighter X TEKKEN (US)</String></Pair>
+            <Pair key="info"><String>NPEB01792 - 12.72 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_mxvsatv">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/mva.jpg</String></Pair>
+            <Pair key="title"><String> TCXS - MX vs ATV (US)</String></Pair>
+            <Pair key="info"><String>NPUB30602 - 4.63 Gb</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_cars3">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/cars3.png</String></Pair>
+            <Pair key="title"><String> TCXS - Cars 3 Drive to Win (US)</String></Pair>
+            <Pair key="info"><String>NPEB02441 (PT-BR)</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_puppeteer">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/puppeteer.png</String></Pair>
+            <Pair key="title"><String> TCXS - Puppeteer (US)</String></Pair>
+            <Pair key="info"><String>NPUA80959 (PT-BR)</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_deadpool">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/deadpool.png</String></Pair>
+            <Pair key="title"><String> TCXS - DeadPool (US)</String></Pair>
+            <Pair key="info"><String>NPUB31069</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_alicemadness">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/alicemadness.png</String></Pair>
+            <Pair key="title"><String> TCXS - Alice Madness Returns (US)</String></Pair>
+            <Pair key="info"><String>NPUB30545</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_serioussam3">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/serioussam3.png</String></Pair>
+            <Pair key="title"><String> TCXS - Serious Sam 3 BFE (US)</String></Pair>
+            <Pair key="info"><String>NPUB31165</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_alienscm">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/alienscm.png</String></Pair>
+            <Pair key="title"><String> TCXS - Aliens Colonial Marines [US]</String></Pair>
+            <Pair key="info"><String>NPUB31071</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_farcry">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/farcry.png</String></Pair>
+            <Pair key="title"><String> TCXS - Far Cry Classic (US)</String></Pair>
+            <Pair key="info"><String>NPUB30737</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_shank2">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/shank2.png</String></Pair>
+            <Pair key="title"><String> TCXS - Shank 2 (US)</String></Pair>
+            <Pair key="info"><String>NPUB30646</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_saintsrow3">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/saintsrow3.png</String></Pair>
+            <Pair key="title"><String> TCXS - Saints Row3 The Third (US)</String></Pair>
+            <Pair key="info"><String>NPUB30700</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_saintsrow2">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/saintsrow2.png</String></Pair>
+            <Pair key="title"><String> TCXS - Saints Row 2 (US)</String></Pair>
+            <Pair key="info"><String>NPUB30575</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_saintsrow4">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/saintsrow4.png</String></Pair>
+            <Pair key="title"><String> TCXS - Saints Row 4 (US)</String></Pair>
+            <Pair key="info"><String>NPUB31257</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_gtasan">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/gtasan.png</String></Pair>
+            <Pair key="title"><String> TCXS - Grand Theft Auto San Andreas [US]</String></Pair>
+            <Pair key="info"><String>NPUB31584</String></Pair>
+        </Table>
+        <!-- NEWS -->
+        <Table key="ps3_exclusivos_kof94">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/kof94.png</String></Pair>
+            <Pair key="title"><String> TCXS - The King of Fighters'94 [US]</String></Pair>
+            <Pair key="info"><String>NEOGEOSTATION</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_samurai">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/samurai.png</String></Pair>
+            <Pair key="title"><String> TCXS - Samurai Shodown [US]</String></Pair>
+            <Pair key="info"><String>NEOGEOSTATION</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_masquerade">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/masquerade.png</String></Pair>
+            <Pair key="title"><String> TCXS - Masquerade: The Baubles of Doom [US]</String></Pair>
+            <Pair key="info"><String>NPEB01933</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_tntm">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/tntmm.png</String></Pair>
+            <Pair key="title"><String> TCXS - Teenage Mutant Ninja Turtles: Mutants in Manhattan [US]</String></Pair>
+            <Pair key="info"><String>[NPEB02246]</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_titanwf">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/titanwf.png</String></Pair>
+            <Pair key="title"><String> TCXS - Attack on Titan - Wings of Freedom [US]</String></Pair>
+            <Pair key="info"><String>[NPEB02365]</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_twdm">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/twdm.png</String></Pair>
+            <Pair key="title"><String> TCXS - The Walking Dead: Michonne [US]</String></Pair>
+            <Pair key="info"><String>[NPEB02389]</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_rainbowskies">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/rainbowskies.png</String></Pair>
+            <Pair key="title"><String> TCXS - Rainbow Skies [US]</String></Pair>
+            <Pair key="info"><String>[NPUB31360]</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_legovenger">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/legovenger.png</String></Pair>
+            <Pair key="title"><String> TCXS - LEGO® Marvel's Avengers [US]</String></Pair>
+            <Pair key="info"><String>[NPUB31708]</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_mighty9">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/mighty9.png</String></Pair>
+            <Pair key="title"><String> TCXS - Mighty No. 9 [US]</String></Pair>
+            <Pair key="info"><String>[NPUB31733]</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_nitro+">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/nitro+.png</String></Pair>
+            <Pair key="title"><String> TCXS - NitroPlus Blasterz Heroines Infinite Duel [US]</String></Pair>
+            <Pair key="info"><String>NPUB31786</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_samuraiw4">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/samuraiw4.png</String></Pair>
+            <Pair key="title"><String> TCXS - Samurai Warriors 4 Empires [US]</String></Pair>
+            <Pair key="info"><String>[NPUB31799]</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_aegisofearth">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/aegisofearth.png</String></Pair>
+            <Pair key="title"><String> TCXS - Aegis of Earth: Protonovus Assault [US]</String></Pair>
+            <Pair key="info"><String>[NPUB31805]</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_blazblue">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/blazblue.png</String></Pair>
+            <Pair key="title"><String> TCXS - BlazBlue: Central Fiction [US]</String></Pair>
+            <Pair key="info"><String>[NPUB31809]</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_batmants">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/batmants.png</String></Pair>
+            <Pair key="title"><String> TCXS - Batman - The Telltale Series [US]</String></Pair>
+            <Pair key="info"><String>[NPUB31845]</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_asdivine">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/asdivine.png</String></Pair>
+            <Pair key="title"><String> TCXS - Asdivine Hearts [US]</String></Pair>
+            <Pair key="info"><String>[NPUB31850]</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_boyblob">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/boyblob.png</String></Pair>
+            <Pair key="title"><String> TCXS - A Boy and His Blob [US]</String></Pair>
+            <Pair key="info"><String>[NPUB31614]</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_stereden">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/stereden.png</String></Pair>
+            <Pair key="title"><String> TCXS - Steredenn: Classic [US]</String></Pair>
+            <Pair key="info"><String>[NPUB31859]</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_99vidas">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/99vidas.png</String></Pair>
+            <Pair key="title"><String> TCXS - 99 Vidas [US]</String></Pair>
+            <Pair key="info"><String>[NPUB31842]</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_hotline2">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/hotline2.png</String></Pair>
+            <Pair key="title"><String> TCXS - Hotline Miami 2 - Wrong Number [US]</String></Pair>
+            <Pair key="info"><String>[NPUB31481]</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_skyforce">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/skyforce.png</String></Pair>
+            <Pair key="title"><String> TCXS - Sky Force Anniversary [US]</String></Pair>
+            <Pair key="info"><String>[NPUB31813]</String></Pair>
+        </Table>
+        <Table key="ps3_exclusivos_aliensho">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/aliensho.png</String></Pair>
+            <Pair key="title"><String> TCXS - Alien Shooter [US]</String></Pair>
+            <Pair key="info"><String>[NPUB31773]</String></Pair>
+        </Table>
+    </Attributes>
+    <Items>
+      <Query class="type:x-xmb/folder-pixmap" key="exc_inf" attr="exc_inf" src="#exc_inf_items"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_99vidas" attr="ps3_exclusivos_99vidas" src="#ps3_exclusivos_99vidas_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_aegisofearth" attr="ps3_exclusivos_aegisofearth" src="#ps3_exclusivos_aegisofearth_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_alienisho" attr="ps3_exclusivos_aliensho" src="#ps3_exclusivos_aliensho_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_asdivine" attr="ps3_exclusivos_asdivine" src="#ps3_exclusivos_asdivine_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_alieniso" attr="ps3_exclusivos_alieniso" src="#ps3_exclusivos_alieniso_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_alienscm" attr="ps3_exclusivos_alienscm" src="#ps3_exclusivos_alienscm_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_alicemadness" attr="ps3_exclusivos_alicemadness" src="#ps3_exclusivos_alicemadness_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_asc4" attr="ps3_exclusivos_asc4" src="#ps3_exclusivos_asc4_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_batmants" attr="ps3_exclusivos_batmants" src="#ps3_exclusivos_batmants_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_blazblue" attr="ps3_exclusivos_blazblue" src="#ps3_exclusivos_blazblue_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_boyblob" attr="ps3_exclusivos_boyblob" src="#ps3_exclusivos_boyblob_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_batorigins" attr="ps3_exclusivos_batorigins" src="#ps3_exclusivos_batorigins_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_bey2s" attr="ps3_exclusivos_bey2s" src="#ps3_exclusivos_bey2s_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_bf4" attr="ps3_exclusivos_bf4" src="#ps3_exclusivos_bf4_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_cars3" attr="ps3_exclusivos_cars3" src="#ps3_exclusivos_cars3_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_codmw2" attr="ps3_exclusivos_codmw2" src="#ps3_exclusivos_codmw2_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_codmw3" attr="ps3_exclusivos_codmw3" src="#ps3_exclusivos_codmw3_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_codghost" attr="ps3_exclusivos_codghost" src="#ps3_exclusivos_codghost_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_codbo1" attr="ps3_exclusivos_codbo1" src="#ps3_exclusivos_codbo1_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_codbo2" attr="ps3_exclusivos_codbo2" src="#ps3_exclusivos_codbo2_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_codaw" attr="ps3_exclusivos_codaw" src="#ps3_exclusivos_codaw_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_csgo" attr="ps3_exclusivos_csgo" src="#ps3_exclusivos_csgo_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_deadpool" attr="ps3_exclusivos_deadpool" src="#ps3_exclusivos_deadpool_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_darks2" attr="ps3_exclusivos_darks2" src="#ps3_exclusivos_darks2_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_dty" attr="ps3_exclusivos_dty" src="#ps3_exclusivos_dty_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_dmc" attr="ps3_exclusivos_dmc" src="#ps3_exclusivos_dmc_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_diablo3" attr="ps3_exclusivos_diablo3" src="#ps3_exclusivos_diablo3_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_dragdoga" attr="ps3_exclusivos_dragdoga" src="#ps3_exclusivos_dragdoga_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_dynwar8" attr="ps3_exclusivos_dynwar8" src="#ps3_exclusivos_dynwar8_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_farcry" attr="ps3_exclusivos_farcry" src="#ps3_exclusivos_farcry_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_gowasc" attr="ps3_exclusivos_gowasc" src="#ps3_exclusivos_gowasc_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_gtasan" attr="ps3_exclusivos_gtasan" src="#ps3_exclusivos_gtasan_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_gta5" attr="ps3_exclusivos_gta5" src="#ps3_exclusivos_gta5_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_grant6" attr="ps3_exclusivos_grant6" src="#ps3_exclusivos_grant6_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_grid" attr="ps3_exclusivos_grid" src="#ps3_exclusivos_grid_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_grid2" attr="ps3_exclusivos_grid2" src="#ps3_exclusivos_grid2_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_hotline2" attr="ps3_exclusivos_hotline2" src="#ps3_exclusivos_hotline2_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_infa2" attr="ps3_exclusivos_infa2" src="#ps3_exclusivos_infa2_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_jsv" attr="ps3_exclusivos_jsv" src="#ps3_exclusivos_jsv_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_legovenger" attr="ps3_exclusivos_legovenger" src="#ps3_exclusivos_legovenger_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_legobat3" attr="ps3_exclusivos_legobat3" src="#ps3_exclusivos_legobat3_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_legojuw" attr="ps3_exclusivos_legojuw" src="#ps3_exclusivos_legojuw_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_legom" attr="ps3_exclusivos_legom" src="#ps3_exclusivos_legom_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_legohob" attr="ps3_exclusivos_legohob" src="#ps3_exclusivos_legohob_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_lifestrag2" attr="ps3_exclusivos_lifestrag2" src="#ps3_exclusivos_lifestrag2_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_lifestrag3" attr="ps3_exclusivos_lifestrag3" src="#ps3_exclusivos_lifestrag3_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_lifestrag4" attr="ps3_exclusivos_lifestrag4" src="#ps3_exclusivos_lifestrag4_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_lifestrag5" attr="ps3_exclusivos_lifestrag5" src="#ps3_exclusivos_lifestrag5_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_littlebigp" attr="ps3_exclusivos_littlebigp" src="#ps3_exclusivos_littlebigp_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_littlebigp2" attr="ps3_exclusivos_littlebigp2" src="#ps3_exclusivos_littlebigp2_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_littlebigp3" attr="ps3_exclusivos_littlebigp3" src="#ps3_exclusivos_littlebigp3_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_littlebigpkrt" attr="ps3_exclusivos_littlebigpkrt" src="#ps3_exclusivos_littlebigpkrt_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_lostplanet3" attr="ps3_exclusivos_lostplanet3" src="#ps3_exclusivos_lostplanet3_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_masquerade" attr="ps3_exclusivos_masquerade" src="#ps3_exclusivos_masquerade_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_mighty9" attr="ps3_exclusivos_mighty9" src="#ps3_exclusivos_mighty9_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_mafia2" attr="ps3_exclusivos_mafia2" src="#ps3_exclusivos_mafia2_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_maxpayne3" attr="ps3_exclusivos_maxpayne3" src="#ps3_exclusivos_maxpayne3_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_metalgs5" attr="ps3_exclusivos_metalgs5" src="#ps3_exclusivos_metalgs5_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_mxvsatv" attr="ps3_exclusivos_mxvsatv" src="#ps3_exclusivos_mxvsatv_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_midearts" attr="ps3_exclusivos_midearts" src="#ps3_exclusivos_midearts_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_midla" attr="ps3_exclusivos_midla" src="#ps3_exclusivos_midla_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_minecr" attr="ps3_exclusivos_minecr" src="#ps3_exclusivos_minecr_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_mk" attr="ps3_exclusivos_mk" src="#ps3_exclusivos_mk_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_nitro+" attr="ps3_exclusivos_nitro+" src="#ps3_exclusivos_nitro+_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_oppw" attr="ps3_exclusivos_oppw" src="#ps3_exclusivos_oppw_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_oppw2" attr="ps3_exclusivos_oppw2" src="#ps3_exclusivos_oppw2_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_oppw3" attr="ps3_exclusivos_oppw3" src="#ps3_exclusivos_oppw3_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_playasbroya" attr="ps3_exclusivos_playasbroya" src="#ps3_exclusivos_playasbroya_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_puppeteer" attr="ps3_exclusivos_puppeteer" src="#ps3_exclusivos_puppeteer_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_ps14" attr="ps3_exclusivos_ps14" src="#ps3_exclusivos_ps14_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_rainbowskies" attr="ps3_exclusivos_rainbowskies" src="#ps3_exclusivos_rainbowskies_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_revil5" attr="ps3_exclusivos_revil5" src="#ps3_exclusivos_revil5_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_revil6" attr="ps3_exclusivos_revil6" src="#ps3_exclusivos_revil6_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_revilr" attr="ps3_exclusivos_revilr" src="#ps3_exclusivos_revilr_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_revilr2" attr="ps3_exclusivos_revilr2" src="#ps3_exclusivos_revilr2_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_revilr3" attr="ps3_exclusivos_revilr3" src="#ps3_exclusivos_revilr3_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_revilr4" attr="ps3_exclusivos_revilr4" src="#ps3_exclusivos_revilr4_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_revilr5" attr="ps3_exclusivos_revilr5" src="#ps3_exclusivos_revilr5_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_revilr6" attr="ps3_exclusivos_revilr6" src="#ps3_exclusivos_revilr6_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_recordawz" attr="ps3_exclusivos_recordawz" src="#ps3_exclusivos_recordawz_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_reddeadun" attr="ps3_exclusivos_reddeadun" src="#ps3_exclusivos_reddeadun_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_samurai" attr="ps3_exclusivos_samurai" src="#ps3_exclusivos_samurai_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_samuraiw4" attr="ps3_exclusivos_samuraiw4" src="#ps3_exclusivos_samuraiw4_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_skyforce" attr="ps3_exclusivos_skyforce" src="#ps3_exclusivos_skyforce_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_stereden" attr="ps3_exclusivos_stereden" src="#ps3_exclusivos_stereden_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_saintsrow4" attr="ps3_exclusivos_saintsrow4" src="#ps3_exclusivos_saintsrow4_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_saintsrow3" attr="ps3_exclusivos_saintsrow3" src="#ps3_exclusivos_saintsrow3_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_saintsrow2" attr="ps3_exclusivos_saintsrow2" src="#ps3_exclusivos_saintsrow2_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_shank2" attr="ps3_exclusivos_shank2" src="#ps3_exclusivos_shank2_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_serioussam3" attr="ps3_exclusivos_serioussam3" src="#ps3_exclusivos_serioussam3_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_saiyabsol" attr="ps3_exclusivos_saiyabsol" src="#ps3_exclusivos_saiyabsol_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_swsb" attr="ps3_exclusivos_swsb" src="#ps3_exclusivos_swsb_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_superstreet4" attr="ps3_exclusivos_superstreet4" src="#ps3_exclusivos_superstreet4_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_streetxtek" attr="ps3_exclusivos_streetxtek" src="#ps3_exclusivos_streetxtek_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_uncharted2" attr="ps3_exclusivos_uncharted2" src="#ps3_exclusivos_uncharted2_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_uncharted3" attr="ps3_exclusivos_uncharted3" src="#ps3_exclusivos_uncharted3_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_titanwf" attr="ps3_exclusivos_titanwf" src="#ps3_exclusivos_titanwf_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_tntm" attr="ps3_exclusivos_tntm" src="#ps3_exclusivos_tntm_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_twdm" attr="ps3_exclusivos_twdm" src="#ps3_exclusivos_twdm_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_thspider2" attr="ps3_exclusivos_thspider2" src="#ps3_exclusivos_thspider2_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_kof94" attr="ps3_exclusivos_kof94" src="#ps3_exclusivos_kof94_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_tkof13" attr="ps3_exclusivos_tkof13" src="#ps3_exclusivos_tkof13_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_tlos" attr="ps3_exclusivos_tlos" src="#ps3_exclusivos_tlos_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_tombraider" attr="ps3_exclusivos_tombraider" src="#ps3_exclusivos_tombraider_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_waroroch3" attr="ps3_exclusivos_waroroch3" src="#ps3_exclusivos_waroroch3_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_watchdogs" attr="ps3_exclusivos_watchdogs" src="#ps3_exclusivos_watchdogs_link"/>
+      <Query class="type:x-xmb/folder-pixmap" key="ps3_exclusivos_wwe15" attr="ps3_exclusivos_wwe15" src="#ps3_exclusivos_wwe15_link"/>
+  </Items>
+</View>
+
+<!-- INFO -->
+<View id="exc_inf_items">
+    <Attributes>
+    <Table key="exc_inf">
+        <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PS1/inf.png</String></Pair>
+        <Pair key="title"><String>TCXSPROJECT™</String></Pair>
+        <Pair key="info"><String>
+-JOGOS DA PASTA EXCLUSIVOS É OBRIGATORIO TER AS LICENÇAS DO PROPRIO INSTALADAS!CASO NÃO TENHA PEÇA NO GRUPO DOS DOADORES.
+-NÃO É NOVIDADE NENHUMA QUE O IDIOMA ESTEJA EM INGLÊS TALVEZ ENCONTRE ALGUNS LEGENDADOS:)
+-QUALQUER ERRO QUE ESSES JOGOS APRESENTE NÃO PODEMOS AJUDAR POIS SÃO JOGOS DA PROPRIA PSN QUE TIVERAM LINKS VAZADOS OU COPIADOS E NÃO ESTÃO EM NOSSO SERVIDO!
+-QUALQUER JOGO DESSA PASTA APÓS INSTALADO SE NÃO FUNCIONAR NOS AVISE PARA QUE POSSOSAMOS REMOVER DA LISTA!!</String></Pair>
+    </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="exc_inf" attr="exc_inf"/>
+  </Items>
+</View>
+
+<!-- LINKS -->
+<View id="ps3_exclusivos_99vidas_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_99vidas_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/2qr8rtxaf1wnkf4/UP2158-NPUB31842_00-99VIDASPS3160328_bg_1_575fb60adb68ef95b1bd3eda0981067eee64effc.pkg?dl=1</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_99vidas_link" attr="ps3_exclusivos_99vidas_link"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_aegisofearth_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_aegisofearth_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/42n4cc07ki5dydt/NPUB31805_00-ACQUIRESTIIM0001_bg_1_f641fd62379b617a09083841f92ff03764607aac.pkg?dl=1</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_aegisofearth_link" attr="ps3_exclusivos_aegisofearth_link"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_aliensho_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_aliensho_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/0px9uuop141k42o/UP4384-NPUB31773_00-ALIENSHOOTERPS3U_bg_1_dd140871180530e17d58a24c1504120d61b199a0.pkg?dl=1</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_aliensho_link" attr="ps3_exclusivos_aliensho_link"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_asdivine_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_asdivine_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/ephya6u37hs9y15/NPUB31850_00-US0AHEARTS000PS3_bg_1_f7faf2276d0494a96f00245644a3f30cf4bada6d.pkg?dl=1</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_asdivine_link" attr="ps3_exclusivos_asdivine_link"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_batmants_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_batmants0_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/5idj0801dkm70jf/NPUB31845_00-BATM000000000EP1_bg_1_8e50e91b15d32f1f1905980ecb2f2b52fa7d4128.pkg?dl=1</String></Pair>
+      </Table>
+      <Table key="ps3_exclusivos_batmants1_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/iwfbu7rgirwmdeb/NPUB31845_00-BATM000000000EP1-A0104-V0100-PE.pkg?dl=1</String></Pair>
+      </Table>
+      <Table key="ps3_exclusivos_batmants2_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/jwro5xx9x7quslz/NPUB31845_00-BATM000000000EP1-A0105-V0101-PE.pkg?dl=1</String></Pair>
+      </Table>
+      <Table key="ps3_exclusivos_batmants3_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/6552n0151h8syil/NPUB31845_00-BATM000000000EP2_bg_1_385052a4b1e4d486cb36f5bab6b5cdc833cb0f27%20.pkg?dl=1</String></Pair>
+      </Table>
+      <Table key="ps3_exclusivos_batmants4_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/hz7u603vgkzp4pf/NPUB31845_00-BATM000000000EP3_bg_2_9f69a5d1f4e3f6d70a342926b49ccad9e3ec77b4%20.pkg?dl=1</String></Pair>
+      </Table>
+      <Table key="ps3_exclusivos_batmants5_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/8bbs5ndi34j52ca/NPUB31845_00-BATM000000000EP4_bg_1_4cd4a5689de2d69edd53d8fb3bc2f67d09057d76.pkg?dl=1</String></Pair>
+      </Table>
+      <Table key="ps3_exclusivos_batmants6_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/jw6o98vvhq453ir/NPUB31845_00-BATM000000000EP5_bg_1_e929b1a053b695e3035543c85dd6f93ce3032e21.pkg?dl=1</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_batmants0_link" attr="ps3_exclusivos_batmants0_link"/>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_batmants1_link" attr="ps3_exclusivos_batmants1_link"/>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_batmants2_link" attr="ps3_exclusivos_batmants2_link"/>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_batmants3_link" attr="ps3_exclusivos_batmants3_link"/>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_batmants4_link" attr="ps3_exclusivos_batmants4_link"/>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_batmants5_link" attr="ps3_exclusivos_batmants5_link"/>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_batmants6_link" attr="ps3_exclusivos_batmants6_link"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_blazblue_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_blazblue_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/cfkgji6twkqpll2/NPUB31809_00-BBCFPS3000001000_bg_1_93932b6dc576d40651185db15cfca41ec73d438a.pkg?dl=1</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_blazblue_link" attr="ps3_exclusivos_blazblue_link"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_boyblob_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_boyblob_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/3y398nxih3f1btu/UP1012-NPUB31614_00-ABOYANDHISBLOB00_bg_1_2d9126c7615024c281793b86c8d61fbd070a62ba.pkg?dl=1</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_boyblob_link" attr="ps3_exclusivos_boyblob_link"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_hotline2_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_hotline2_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/hdjy1j82cuq8nkb/UP3643-NPUB31481_00-HOTLINEMIAMI2000_bg_1_5144373eccf855791f557cea48089b02c70b0742.pkg?dl=1</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_hotline2_link" attr="ps3_exclusivos_hotline2_link"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_legovenger_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_legovenger0_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/0vyvilo4o7hrczs/NPUB31708_00-LEGOMARVELAVENGE_bg_1_34b6b1df12431f46737afe65385fac5ab5681664.pkg?dl=1</String></Pair>
+      </Table>
+      <Table key="ps3_exclusivos_legovenger1_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/kxa9wr0zzo4daxh/NPUB31708_00-LEGOMARVELAVENGE-A0106-V0100-PE.pkg?dl=1</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_legovenger0_link" attr="ps3_exclusivos_legovenger0_link"/>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_legovenger1_link" attr="ps3_exclusivos_legovenger1_link"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_masquerade_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_masquerade_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/9w7pfpcz9velusg/NPEB01933_00-MASQUERADE000001_bg_1_f51d1cc44e4c011fc039753a28b55385099fa295.pkg?dl=1</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_masquerade_link" attr="ps3_exclusivos_masquerade_link"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_mighty9_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_mighty9_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/yppv7fnow88202t/NPUB31733_00-MIGHTYNUMBERNINE_bg_1_9571455830ebb2c162125bef8fe5472f4532ab49.pkg?dl=1</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_mighty9_link" attr="ps3_exclusivos_mighty9_link"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_nitro+_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_nitro+_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/imx5dfmreodmjs5/NPUB31786_00-NP10PS3HGBENG001_bg_1_9d551b95a24873fec77e05e62ac0d92980c690a3.pkg?dl=1</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_nitro+_link" attr="ps3_exclusivos_nitro+_link"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_rainbowskies_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_rainbowskies_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/yghrv4msuwvi9c0/NPUB31360_00-RAINBOWSKIES0001_bg_4_97bc5878a5852a70646372cf2c4efb4b399646dc.pkg?dl=1</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_rainbowskies_link" attr="ps3_exclusivos_rainbowskies_link"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_samurai_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_samurai_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/2ug3givt7b34laj/NEOGEO_STATION_SAMURAI_SHODOWN.pkg?dl=1</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_samurai_link" attr="ps3_exclusivos_samurai_link"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_samuraiw4_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_samuraiw4_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/glkhy59caxzsl56/NPUB31799_00-HGEXEC0000000000_bg_1_8d9572eb79d5e793253ab21281422de42bccf71c.pkg?dl=1</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_samuraiw4_link" attr="ps3_exclusivos_samuraiw4_link"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_skyforce_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_skyforce_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/oth0u1jtszyjsln/UP4179-NPUB31813_00-SKYFORCEANNIVERS_bg_1_ecd9a31946f36a118272584f4eb5ea641fb6d933.pkg?dl=1</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_skyforce_link" attr="ps3_exclusivos_skyforce_link"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_stereden_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_stereden_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/73jvcaizyqbg1nx/UP1309-NPUB31859_00-STEREDENNGAMEPS3_bg_2_c95a09dfb8ea5d67c5a7816ce44bf3ef7248fe2c.pkg?dl=1</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_stereden_link" attr="ps3_exclusivos_stereden_link"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_titanwf_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_titanwf_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/v7d85ya1p11qc90/NPEB02365_00-AT1EUHDDGAME0000_bg_1_7a3eb8ee8eed6190166c9b574394b483b2a98eb8.pkg?dl=1</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_titanwf_link" attr="ps3_exclusivos_titanwf_link"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_tntm_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_tntm_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/kc182hkojetqsgx/NPEB02246_00-TMNINJATU2015PS3_bg_1_06aca8f4de6ec2e83ef58c0e43c8a7437981a11e.pkg?dl=1</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_tntm_link" attr="ps3_exclusivos_tntm_link"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_kof94_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_kof94_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/erdmyshb5f1450i/NEOGEO_STATION_KOF94.pkg?dl=1</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_kof94_link" attr="ps3_exclusivos_kof94_link"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_twdm_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_twdm0_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/hn8hwhfb6xgpqf6/NPEB02389_00-TWDM000000000EP1_bg_1_d9edc969d1c9f4aa09f87da0a93f8142d224adac.pkg?dl=1</String></Pair>
+      </Table>
+      <Table key="ps3_exclusivos_twdm1_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/otyh6ds25jttobl/NPEB02389_00-TWDM000000000EP2_bg_1_e4e9b0420f7746236bb7f45ee7bcd3800cdd4e2c.pkg?dl=1</String></Pair>
+      </Table>
+      <Table key="ps3_exclusivos_twdm2_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>https://www.dropbox.com/s/dl6yg2nssfl28da/NPEB02389_00-TWDM000000000EP3_bg_1_6fee063ee64f55fa3eb7d751b7bc0b8b6f8683f4.pkg?dl=1</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_twdm0_link" attr="ps3_exclusivos_twdm0_link"/>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_twdm1_link" attr="ps3_exclusivos_twdm1_link"/>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_twdm2_link" attr="ps3_exclusivos_twdm2_link"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_gtasan_link">
+	<Attributes>
+		<Table key="ps3_exclusivos_gtasan_link">
+			<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+			<Pair key="title"><String>TCXS - GTA San Andreas</String></Pair>
+			<Pair key="info"><String>TCXS-NPUB31584</String></Pair>
+			<Pair key="module_name"><String>webrender_plugin</String></Pair>
+			<Pair key="module_action"><String>https://www.dropbox.com/s/2gtmrkxre4grqpt/1DGAME-NPUB31584_00-NPUB315840000000.pkg?dl=1</String></Pair>
+    </Table>
+	</Attributes>
+	<Items>
+	 <Item class="type:x-xmb/module-action" key="ps3_exclusivos_gtasan_link" attr="ps3_exclusivos_gtasan_link"/>
+	</Items>
+</View>
+
+<View id="ps3_exclusivos_cars3_link">
+	<Attributes>
+		<Table key="ps3_exclusivos_cars3_link">
+			<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+			<Pair key="title"><String>TCXS - Cars 3 Drive to Win (US)</String></Pair>
+			<Pair key="info"><String>TCXS - NPEB02441</String></Pair>
+			<Pair key="module_name"><String>webrender_plugin</String></Pair>
+			<Pair key="module_action"><String>https://www.dropbox.com/s/avkmvmwlabh58ym/1HGAME-NPEB02441_00-NPEB024410000000.pkg?dl=1</String></Pair>
+    </Table>
+	</Attributes>
+	<Items>
+   <Item class="type:x-xmb/module-action" key="ps3_exclusivos_cars3_link" attr="ps3_exclusivos_cars3_link"/>
+	</Items>
+</View>
+
+<View id="ps3_exclusivos_serioussam3_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_serioussam3_link">
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP3643/NPUB31165_00/NymNHKfrCMiVRrmeDKwIrZjaPnJURuwEJHnBkIDBlpywepwKnFeigXkQEkFvcChv.pkg</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_serioussam3_link" attr="ps3_exclusivos_serioussam3_link"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_deadpool_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_deadpool">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0002/NPUB31069_00/ufOFaMvXNvnYHTDHQZFRHbHFltovVWZEgyYFcZPjGqpviKJPEkXdToUcSzNEBdSb.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_deadpool" attr="ps3_exclusivos_deadpool"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_puppeteer_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_puppeteer">
+
+          <Pair key="module_action"><String>https://www.dropbox.com/s/et1toiwfpr04dxf/Puppeteer.pkg?dl=1</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_puppeteer" attr="ps3_exclusivos_puppeteer"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_alienscm_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_alienscm">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0177/NPUB31071_00/yhNzOTlrUELjLMHlewGPIgqFduMIfKDDVYlsDbdgNYWoLYIgHsWuBvGdsyVDXkbM.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_alienscm" attr="ps3_exclusivos_alienscm"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_farcry_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_farcry">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0001/NPUB30737_00/thqxbMPDkLrnCWlEiMbTwDJknkANrxHjAWWPjoPKTqkKfzETBFIrlqzODyvzaVEv.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_farcry" attr="ps3_exclusivos_farcry"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_shank2_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_shank2">
+          <Pair key="module_action"><String>http://ares.dl.playstation.net/cdn/UP0006/NPUB30646_00/nmYPOvJWDDkQDZZwPoFIdzaHLUBNsMyKAXNkUNShBakOubxmOGXZZTdmEXqCVRbnETuFOgkDqPWscQFXJNUXTsmrmrjmeNpdiJHxK.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_shank2" attr="ps3_exclusivos_shank2"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_alicemadness_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_alicemadness">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0006/NPUB30545_00/HzhNIVkoKUOLfqRBBYCydxoVitXoWWtyHTsLenKZDHEfOcExwBnGRloMNPldlJaLlQGmIVIrkQQyObiNqpqKYBQbQRNZCccweBqBi.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_alicemadness" attr="ps3_exclusivos_alicemadness"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_saintsrow4_link">
+	<Attributes>
+		<Table key="ps3_exclusivos_saintsrow4_link">
+			<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+			<Pair key="title"><String>TCXS - Saints Row 4 (US)</String></Pair>
+			<Pair key="info"><String>TCXS - NPUB31257</String></Pair>
+			<Pair key="module_name"><String>webrender_plugin</String></Pair>
+			<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP2047/NPUB31257_00/NbTrNBNJDqqnqPpMaIwycwzKKbYeluDZQeDLgfJHzivBBDEdKhlOGOHVpyWCIVEE.pkg</String></Pair>
+    </Table>
+	</Attributes>
+	<Items>
+   <Item class="type:x-xmb/module-action" key="ps3_exclusivos_saintsrow4_link" attr="ps3_exclusivos_saintsrow4_link"/>
+	</Items>
+</View>
+
+<View id="ps3_exclusivos_saintsrow3_link">
+	<Attributes>
+		<Table key="ps3_exclusivos_saintsrow3_link">
+			<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+			<Pair key="title"><String>TCXS - Saints Row 3 (US)</String></Pair>
+			<Pair key="info"><String>TCXS - NPUB30700</String></Pair>
+			<Pair key="module_name"><String>webrender_plugin</String></Pair>
+			<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1005/NPUB30700_00/jiLgEDDzTOZommbETLXcijlSuSvgBhJvquWvOxciXkicSSJPwsDFiSjmLTxGRUeraWFVkyokrKNXfbiIatWAdEEzEfKlMYTcpFWXj.pkg</String></Pair>
+    </Table>
+	</Attributes>
+	<Items>
+   <Item class="type:x-xmb/module-action" key="ps3_exclusivos_saintsrow3_link" attr="ps3_exclusivos_saintsrow3_link"/>
+	</Items>
+</View>
+
+<View id="ps3_exclusivos_saintsrow2_link">
+	<Attributes>
+		<Table key="ps3_exclusivos_saintsrow2_link">
+			<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+			<Pair key="title"><String>TCXS - Saints Row 2 (US)</String></Pair>
+			<Pair key="info"><String>TCXS - NPUB30575</String></Pair>
+			<Pair key="module_name"><String>webrender_plugin</String></Pair>
+			<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1005/NPUB30575_00/doACSkxmWfhmMXJYAGzaeCxDgwMOZXzhAsyrymBTSUWbhATHBgvhySdgywMGShwCkGOahsyYbbcJeoPbHqUcNuentvwvcRqrFwllH.pkg</String></Pair>
+    </Table>
+	</Attributes>
+	<Items>
+   <Item class="type:x-xmb/module-action" key="ps3_exclusivos_saintsrow2_link" attr="ps3_exclusivos_saintsrow2_link"/>
+	</Items>
+</View>
+
+<View id="ps3_exclusivos_codaw_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_codaw">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0002/NPUB31553_00/RAoycNjnbHMtAkrCtACnECoRosemCRhAnSWsKqLrJwBUehZwjaXABdRPBUQIUcGn.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_codaw" attr="ps3_exclusivos_codaw"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_codbo2_link">
+	<Attributes>
+		<Table key="ps3_exclusivos_codbo2">
+			<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+			<Pair key="title"><String>TCXS - COD Black ops 2</String></Pair>
+			<Pair key="info"><String>TCXS - NPUB31054</String></Pair>
+			<Pair key="module_name"><String>webrender_plugin</String></Pair>
+			<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0002/NPUB31054_00/cfCDkdmrDyOQyorvrlNcWZSSnVmGDvrYOZHxiDiqgLcejGFUKwcvDdhNITTClAoZ.pkg</String></Pair>
+    </Table>
+	</Attributes>
+	<Items>
+   <Item class="type:x-xmb/module-action" key="ps3_exclusivos_codbo2" attr="ps3_exclusivos_codbo2"/>
+	</Items>
+</View>
+
+<View id="ps3_exclusivos_dty_link">
+<Attributes>
+    <Table key="ps3_exclusivos_dty">
+        <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0002/NPUB31202_00/lwWtKeVHTHhDVIfjSqRywrsUyFttzSgRyoJrPPPmApLoFWWrcFuRFQZFrLRCcavkIXIKimaWDMrgWRoRVJHAOvImDVjcWcpDMxgKd.pkg</String></Pair>
+        <Pair key="module_name"><String>webrender_plugin</String></Pair>
+        <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+    </Table>
+</Attributes>
+<Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_dty" attr="ps3_exclusivos_dty"/>
+ </Items>
+</View>
+
+<View id="ps3_exclusivos_legom_link">
+<Attributes>
+    <Table key="ps3_exclusivos_legom">
+        <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1018/NPUB31236_00/ZXTDJbyYKcOLdlqnzsgtqawzWdouxgvtQTuRzcgONgdDcLydeBVUahfjUiJooMan.pkg</String></Pair>
+        <Pair key="module_name"><String>webrender_plugin</String></Pair>
+        <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+    </Table>
+</Attributes>
+<Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_legom" attr="ps3_exclusivos_legom"/>
+ </Items>
+</View>
+
+<View id="ps3_exclusivos_codghost_link">
+<Attributes>
+    <Table key="ps3_exclusivos_codghost">
+        <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0002/NPUB31301_00/nRYUEiGMNjPBpTKFUclrlIzIUFrdvZOpLmZMoqZFVbqJbJZUtQRHtozdwqscRCOxBxNpRFXjCdkWxaRsqPYgejnWYZGxBEmVrIfZh.pkg</String></Pair>/>
+        <Pair key="module_name"><String>webrender_plugin</String></Pair>
+        <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+    </Table>
+</Attributes>
+<Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_codghost" attr="ps3_exclusivos_codghost"/>
+</Items>
+</View>
+
+<View id="ps3_exclusivos_codbo1_link">
+<Attributes>
+    <Table key="ps3_exclusivos_codbo1">
+        <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0002/NPUB30584_00/flrULpWnBbsktvenaJaTTrGCgyKsxpwJiooqOIpYTjWsHRanejPGOpXmefQbTAVwAimwzuqQttythjHgdpBvzMYXnDfGEJJOXIHnI.pkg</String></Pair>
+        <Pair key="module_name"><String>webrender_plugin</String></Pair>
+        <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+    </Table>
+</Attributes>
+<Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_codbo1" attr="ps3_exclusivos_codbo1"/>
+ </Items>
+</View>
+
+<View id="ps3_exclusivos_tlos_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_tlos">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/NPUA80960_00/kXLfyOhGFLCBFKeHDopmqkCrYKbIQIAVEBkdtiNpzIyBRebMQCkGigjAGbdyAzNCHjKITHlMLKjOZHLzNebUYyOkJkQMhFMttvVuO.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_tlos" attr="ps3_exclusivos_tlos"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_gowasc_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_gowasc">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/NPUA80918_00/CeOvzDdDsBlXxMLySmhFiqvweBfKTKFUrKsZUjHNojmbkNKpjHetAQykAclglBSM.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_gowasc" attr="ps3_exclusivos_gowasc"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_oppw_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_oppw">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0700/NPUB30836_00/IkaqgGhnrQCvPqlCVROOWDKCNniBjEnELKlYoDpXJjHnvQmhpvlbSZpgULoyQfVB.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_oppw" attr="ps3_exclusivos_oppw"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_oppw2_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_oppw2">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0700/NPUB31295_00/OpmPMCYYVlpDMSbRlnYwGlMJrKgmGbxpmLorCXvzeDzstlxneFptkShOhXwumfoj.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_oppw2" attr="ps3_exclusivos_oppw2"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_oppw3_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_oppw3">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0700/NPUB31676_00/UP0700-NPUB31676_00-PROJECTOP3NA0000_bg_1_70423163a8e27716f5eb73a277f30053fc7a1803.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_oppw3" attr="ps3_exclusivos_oppw3"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_bf4_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_bf4">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0006/NPUB31148_00/gnsgoUCSIRPndWlAAOfdWpeiiaIockZJrXVzdBTJPKFEpHtunBpHGoPHXRqRYSuB.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_bf4" attr="ps3_exclusivos_bf4"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_midla_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_midla">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1004/NPUB30471_00/UohqJcPecEqnvdVnDCjxalIETeCDSVtIcuMPiayMpwmbbSkPZVJOeksIqOTJQOKrzCSykyxTJKmPouXxfoZMwQbhdazwJmJqwPHuT.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_midla" attr="ps3_exclusivos_midla"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_grid_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_grid">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP4001/NPUB31527_00/kbeSgeHdwPeJoLSVTUEHheLttBvGeTlqsBVxynxOMbUQyKsJpoztXZRTfDwGGNUVFsSfNlpAIigKGsSHimOURAcmCQlVsOsdQBuKw.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_grid" attr="ps3_exclusivos_grid"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_dmc_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_dmc">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/NPUB30830_00/SNxkwpOacYsNilMcxKWiAfxApFEKGLtteuxZnpranZTqzbosxtCLJAzZIXiOWHyR.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_dmc" attr="ps3_exclusivos_dmc"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_darks2_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_darks2">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0700/NPUB31666_00/UP0700-NPUB31666_00-DARKSOULS2000002_bg_1_13b86fa2785dc417c6d1baed78b611c3979fd1b8.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_darks2" attr="ps3_exclusivos_darks2"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_infa2_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_infa2">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/NPUA80638_00/gMxSOPbAdDfSFZAaZTjNIfBmsudlfqPBmumpwEqnbHYExdlkeXPxHxsAzSZwEqVuKiSLQemfittEXmXaIqRwPQWtjjLwmawBtehUW.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_infa2" attr="ps3_exclusivos_infa2"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_asc4_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_asc4">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0001/NPUB31246_00/clXUUqyLBWghRVzZdqJIaWZftzClZLVDaXEZGdoWtvaICRpKTqEGzVqyTQqPsRKu.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_asc4" attr="ps3_exclusivos_asc4"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_jsv_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_jsv">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0700/NPUB31647_00/UP0700-NPUB31647_00-WJ45JSVVSPS30000_bg_1_9a43d977369718031ecbded3a2014c878fbe524b.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_jsv" attr="ps3_exclusivos_jsv"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_thspider2_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_thspider2">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0002/NPUB31351_00/REhtahWZPNuxKGKupVmRsSUgWVILRFZAqxJjHkHLAFkIEFRdEpBHWunhpIuISSVU.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_thspider2" attr="ps3_exclusivos_thspider2"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_diablo3_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_diablo3">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0002/NPUB31299_00/DIAXtftihzTBrbiOIeaNGFjUQEBoIIHtiXdUJIXtKVxFMdxNbgxuQSHrdlemtSQw.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_diablo3" attr="ps3_exclusivos_diablo3"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_revil4_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_revil4">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/NPUB30312_00/CSIkFNzjvhaZJlMYvXUkmAiNmAwVYNBPAGRYZeoMdRtCQdRLRmrKtgbalIWXBHvLMZXrsZmYbfMZvwBRUfopkgyPhyatgRrjYmWjk.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_revil4" attr="ps3_exclusivos_revil4"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_revil5_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_revil5">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/NPUB30564_00/PPsInONjvnkkOXnXXCfXORcvwkLxmAHyVipcmOkeyWUTMZWLGJGcGhzfwXWhvGGoufBiyIwiwPUCFoIhnxAHeSRnciVINvneoMKNq.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_revil5" attr="ps3_exclusivos_revil5"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_revil6_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_revil6">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/NPUB30984_00/bSKEPPJKwsiXkEyJRLzOHSdmsPRsmaMuzTGuywgIcYZRejZgkQLujUakWdmAbAke.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_revil6" attr="ps3_exclusivos_revil6"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_revilr_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_revilr">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/NPUB30991_00/OebvMqYmHBpIpWvXxLSNhJxvAEAzDkevyqcgfKtTYxExXcuHtQKBNvnhsZFbshCu.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_revilr" attr="ps3_exclusivos_revilr"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_mk_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_mk">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1018/NPUB30668_00/vnjdiwwyNaCpVXNccVKqrwqCqvmlZBamBaxtQmmmcHvbIBtSHKrvhuceDFLzpbCzEAjglFGrmlXpcQrKeXsLGKQzWLDefdEqxeyGs.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_mk" attr="ps3_exclusivos_mk"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_legojuw_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_legojuw">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1018/NPUB31643_00/UP1018-NPUB31643_00-LEGOJW0000000001_bg_1_fcfeb2c9468e4151201a519f4e554c4fd7a9945d.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_legojuw" attr="ps3_exclusivos_legojuw"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_midearts_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_midearts">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1018/NPUB31436_00/IybHRrLKoGgmRtASUoSKbXAGpBlZFroqrGudMHTuZTcHHMmdSBLNKBJJUIWzHjCaFxihYyhlCtoSsHfGTpYGGaLRbaHIGoebQmhRi.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_midearts" attr="ps3_exclusivos_midearts"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_legohob_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_legohob">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1018/NPUB31429_00/zMpIWhnFAfAjIrbTClDZDyAywooYXljhBXVrouTzCBwVtGBExSyrNBKgsdOEFwhI.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_legohob" attr="ps3_exclusivos_legohob"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_bey2s_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_bey2s">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/NPUA81087_00/FViZXlGFfPRaltxJSvLHBHPFwctOgQoglGEQkYDxORbGOAZLLeQxBSiCupOOtfLk.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_bey2s" attr="ps3_exclusivos_bey2s"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_recordawz_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_recordawz">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1024/NPUB30776_00/yUFrsXPIAAOlzeyeyaxRVsGbWistAzLeVJNWoJURsyBrnnzILBjYDwHopOxnwyPuNzmsmknvaPxVbzkFxRFDDXGfwXHBDmPYXLnMv.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_recordawz" attr="ps3_exclusivos_recordawz"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_swsb_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_swsb">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP0001/NPEB01173_00/VWxVOYpDYlxDzDzVIgJcyaetxwLGGrDsnJwsjZjLzIfvBCQSuZbrXwEdheQLCrEa.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_swsb" attr="ps3_exclusivos_swsb"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_playasbroya_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_playasbroya">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/NPUA80316_00/KExUTHpUOOnTCCRHhNkzDAhVrcQwXpAhFfDZTZCBcaGdwAzkpTcZDvKIOdsXRjPBkuyVWjeOvnsTTVIYShvMmnSZZCMDrCcsEWwWU.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_playasbroya" attr="ps3_exclusivos_playasbroya"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_ps14_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_ps14">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0101/NPUB31337_00/NuXpEGRXZmEtfBHpwyULibAXwWgjaEyhjFJZvWcRsezciTprSFMQbCAdgAlOwIte.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_ps14" attr="ps3_exclusivos_ps14"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_gta5_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_gta5">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1004/NPUB31154_00/eISFknCNDxqSsVVywSenkJdhzOIfZjrqKHcuGBHEGvUxQJksdPvRNYbIyWcxFsvH.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_gta5" attr="ps3_exclusivos_gta5"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_wwe15_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_wwe15">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1001/NPUB31546_00/ryoOkuVKvTkDzZdBBqURJauflrXIrigUMJIbwhMLRZokmIgptZmXRwmLjxvRdnWr.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_wwe15" attr="ps3_exclusivos_wwe15"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_uncharted2_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_uncharted2">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/NPUA80698_00/ftZMEmWLrGqjEHKXIBnGMKwRkyjImyQwgNPVfMZYIJluNTMNcpWdxjOGJaMInMxcXylNjdBBslPvQhbHyCdxAYfphddDuAZJBAaye.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_uncharted2" attr="ps3_exclusivos_uncharted2"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_tkof13_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_tkof13">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0005/NPUB30837_00/MUMXNzYMkVBqksaIZCDltDrmRSipjRjiZlyBXRkXpFjhsnQLOAcCUPznLbXcGlQXKxXperQOwiBgPeCHetLkiOhqmYpMfkmTEkHPT.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_tkof13" attr="ps3_exclusivos_tkof13"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_mafia2_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_mafia2">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1001/NPUB30656_00/nGVepvELjNKYiJjpTXGdzcMOGgZRqEVhwPSUJEXpuechGUyLrIbVPTWBRAcCPUCmUqMPLgRppFUDekHyhpClNDeuUbsoaZzpktXDR.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_mafia2" attr="ps3_exclusivos_mafia2"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_batorigins_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_batorigins">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1018/NPUB31261_00/mXBFfMEiUUJbaYZtbpJlgzowceBTUuwDeuSMzxeNUBbFCzhBLYSZfbVWytQgVZla.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_batorigins" attr="ps3_exclusivos_batorigins"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_saiyabsol_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_saiyabsol">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP0700/NPEB01814_00/qhjvKQVVHDClrLuGvXXpLDHEOmFaAuWxOONxKIOjtiNTcoBcGvrwicYytfTEqaNg.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_saiyabsol" attr="ps3_exclusivos_saiyabsol"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_dragdoga_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_dragdoga">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/NPUB31117_00/JtnakwDqQxxkbOWHkFwyAXCgPbdeqBgOjacycKnGpzcqGroTHYtWGQMTDgvdnHku.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_dragdoga" attr="ps3_exclusivos_dragdoga"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_grid2_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_grid2">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP4001/NPUB31075_00/bnrYhrflIPkgjXEWGdbrpbaZtFnjFmfEimXskRAnkXJneovWQmxCVQUeqKriARZW.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_grid2" attr="ps3_exclusivos_grid2"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_watchdogs_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_watchdogs">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0001/NPUB31254_00/imczMyqQkcLvXpyFXWUJeoeCMeKotdzBIYBplaqpsLTDYDpnXivAClxFSmqeojsh.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_watchdogs" attr="ps3_exclusivos_watchdogs"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_csgo_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_csgo">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP2061/NPUB30589_00/pTFErilTEGGEtpyjjSIomuZUmoLCQcEhkcAPZhnrbNIIdzLAIsxuwumVPUilXAHObhGsPBOTHlksEbtgfvJiqIOQIClwgPvpRtfMi.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_csgo" attr="ps3_exclusivos_csgo"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_revilr2_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_revilr2">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/NPUB31518_00/UP0102-NPUB31518_00-BHR2EPISODE20000_bg_1_953c6d82b3c24335a3e4d6a9dcc7ec5c440b3aeb.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_revilr2" attr="ps3_exclusivos_revilr2"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_revilr3_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_revilr3">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/NPUB31518_00/UP0102-NPUB31518_00-BHR2EPISODE30000_bg_1_f05ee026f57f760d2c0d174f8011373de3942b5a.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_revilr3" attr="ps3_exclusivos_revilr3"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_revilr4_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_revilr4">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/NPUB31518_00/UP0102-NPUB31518_00-BHR2EPISODE40000_bg_1_69ab0d70ac38ee838e6b441e16be82f6d0ca225c.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_revilr4" attr="ps3_exclusivos_revilr4"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_revilr5_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_revilr5">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/NPUB31518_00/UP0102-NPUB31518_00-BHR2EXEPISODE200_bg_1_0ff3b19c3e7c0c9cf49da05208670aecb4e5e567.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_revilr5" attr="ps3_exclusivos_revilr5"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_revilr6_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_revilr6">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/NPUB31518_00/UP0102-NPUB31518_00-BHR2EXEPISODE100_bg_1_73e574adbfe90bc46119d60fc294456bd10f6100.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_revilr6" attr="ps3_exclusivos_revilr6"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_tombraider_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_tombraider">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0082/NPUB31146_00/kpCRUgSiNmcbiKqyFNArzntBCUAvvTHBxFJVEhgLAbuSCAZsaCNmdStUbAurObLB.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_tombraider" attr="ps3_exclusivos_tombraider"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_legobat3_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_legobat3">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1018/NPUB31499_00/VicBXZGcUEcKdDUvLbZuOTLjmhvzOFbJsCMCKPHoNjYHpecjiqjmmPIKgqlLvahf.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_legobat3" attr="ps3_exclusivos_legobat3"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_minecr_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_minecr_item_0">
+          <Pair key="module_action"><String>https://www.dropbox.com/s/gxv3ety2knxc4fi/1_NPUB31419_GAME.pkg?dl=1</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+        </Table>
+      <Table key="ps3_exclusivos_minecr_item_1">
+          <Pair key="module_action"><String>https://www.dropbox.com/s/u6slr9swj7p218q/2_NPUB31419_UPDATE%20v1.78.pkg?dl=1</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+        </Table>
+      <Table key="ps3_exclusivos_minecr_item_2">
+          <Pair key="module_action"><String>https://www.dropbox.com/s/vlup90gowfgdlph/3_NPUB31419_UPDATE%20v1.79_a_v1.82.pkg?dl=1</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+        </Table>
+      <Table key="ps3_exclusivos_minecr_item_3">
+          <Pair key="module_action"><String>https://www.dropbox.com/s/av1ki3hreaiwjnq/4_NPUB31419_UPD-FIX%20v1.82%20cfw4.46%2B.pkg?dl=1</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+        </Table>
+      <Table key="ps3_exclusivos_minecr_item_4">
+          <Pair key="module_action"><String>https://www.dropbox.com/s/7r0x726ka0hnn55/5_NPUB31419_ALL%20DLC%20FIX%20v39.pkg?dl=1</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+        </Table>
+      <Table key="ps3_exclusivos_minecr_item_5">
+          <Pair key="module_action"><String>https://www.dropbox.com/s/m7ef89vokqd4sl4/6_NPUB31419_UPDATE%20v1.83.pkg?dl=1</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+        </Table>
+      <Table key="ps3_exclusivos_minecr_item_6">
+          <Pair key="module_action"><String>https://www.dropbox.com/s/c6ijkugcqq1z3m3/7_NPUB31419_UPD-FIX%20v1.83_cfw4.46%2B.pkg?dl=1</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+        </Table>
+      <Table key="ps3_exclusivos_minecr_item_7">
+          <Pair key="module_action"><String>https://www.dropbox.com/s/e5uywt4tetkiur9/8_NPUB31419_ALL%20DLC%20FIX%20v39.pkg?dl=1</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+    <Item class="type:x-xmb/module-action" key="ps3_exclusivos_minecr_item_0" attr="ps3_exclusivos_minecr_item_0"/>
+		<Item class="type:x-xmb/module-action" key="ps3_exclusivos_minecr_item_1" attr="ps3_exclusivos_minecr_item_1"/>
+		<Item class="type:x-xmb/module-action" key="ps3_exclusivos_minecr_item_2" attr="ps3_exclusivos_minecr_item_2"/>
+		<Item class="type:x-xmb/module-action" key="ps3_exclusivos_minecr_item_3" attr="ps3_exclusivos_minecr_item_3"/>
+		<Item class="type:x-xmb/module-action" key="ps3_exclusivos_minecr_item_4" attr="ps3_exclusivos_minecr_item_4"/>
+		<Item class="type:x-xmb/module-action" key="ps3_exclusivos_minecr_item_5" attr="ps3_exclusivos_minecr_item_5"/>
+		<Item class="type:x-xmb/module-action" key="ps3_exclusivos_minecr_item_6" attr="ps3_exclusivos_minecr_item_6"/>
+		<Item class="type:x-xmb/module-action" key="ps3_exclusivos_minecr_item_7" attr="ps3_exclusivos_minecr_item_7"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_uncharted3_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_uncharted3">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/BCUS98233_00/kLveSqfkZXrnTlQhxHLIsfHjGkUBthJYhURjtImffoksHvqAzgpVDdOyWfYNfNoyTexcbCjUFcnCGkkJMaCLpZudgQPusrmYzvjDz.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_uncharted3" attr="ps3_exclusivos_uncharted3"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_alieniso_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_alieniso">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB01921_00/luFMTkCDFLpbEkHuzjQYiUVnlySsOgZGBZcnsiSIrGrFszPSVLyGBlGLEgvQBNiESqvNZXVMQoVuFFBCowLJAEzQnCpOvbKkYIXvE.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_alieniso" attr="ps3_exclusivos_alieniso"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_superstreet4_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_superstreet4">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/NPUB30649_00/KKhgmnTuFGZNaTTMVeZWFxxyifemzdFoNSRCIWqGZyJjCxDubkULskfhMBTwGqixbNpjCaqLPVZwzGLUjwqIVqTTsSnIXUSUzWaAP.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_superstreet4" attr="ps3_exclusivos_superstreet4"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_codmw2_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_codmw2">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP0002/NPEB00731_00/pYldxYpCLslIIMMPjETjCOzBQbjKtxQzkPdjRwgvwsCYkuJCYGubQKijhydcfYIG.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_codmw2" attr="ps3_exclusivos_codmw2"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_codmw3_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_codmw3">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0002/NPUB30787_00/lUfffCPmYsoCaBzHebHaTOjsjQqkJGJthGopTnmNVkjkNZMNXccpaCUJVxVAANqcsiBMQqrnzJOARKnherhlTwOeEQhKxOSVeppaL.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_codmw3" attr="ps3_exclusivos_codmw3"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_maxpayne3_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_maxpayne3">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1004/NPUB30902_00/AeIzHFJcAlBBFsuslkCbynrDSHEySvEvQjnPvquafsTFSUzujPGQMhNOpNYrbAPqRzyXkHlzkcHmZlyOllEROtQMDoUKoZWsDhOoa.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_maxpayne3" attr="ps3_exclusivos_maxpayne3"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_metalgs5_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_metalgs5">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0101/NPUB31594_00/UP0101-NPUB31594_00-MAINGAME00000000_bg_1_8ef80bdeb67d443a5022111b38d367db19acbce2.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+              <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_metalgs5" attr="ps3_exclusivos_metalgs5"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_lifestrag2_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_lifestrag2">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0082/NPUB31636_00/UP0082-NPUB31636_00-EPISODE000000002_bg_1_b389e98adc1c99024b902c1c70e39343eb9829b0.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_lifestrag2" attr="ps3_exclusivos_lifestrag2"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_lifestrag3_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_lifestrag3">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0082/NPUB31636_00/UP0082-NPUB31636_00-EPISODE000000003_bg_1_32736ee963ba58ff03fed4858373b6c86b0f079d.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_lifestrag3" attr="ps3_exclusivos_lifestrag3"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_lifestrag4_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_lifestrag4">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0082/NPUB31636_00/UP0082-NPUB31636_00-EPISODE000000004_bg_1_15043e8ae516c47152d49b0f91f390c735ff8855.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_lifestrag4" attr="ps3_exclusivos_lifestrag4"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_lifestrag5_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_lifestrag5">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0082/NPUB31636_00/UP0082-NPUB31636_00-EPISODE000000005_bg_1_d47a1c9b13fe2fcc7abc6acff5f605d73fbaebc8.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_lifestrag5" attr="ps3_exclusivos_lifestrag5"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_grant6_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_grant6">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/NPUA81049_00/hqQqSraIcVRhAwhijZmNzJJHKWSLoXThclDUdyEKDWnCIJimEFcNSvxsfJdtkqDT.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_grant6" attr="ps3_exclusivos_grant6"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_dynwar8_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_dynwar8">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP4108/NPUB31234_00/duivWfKPWqWXBTXWJeyxukoMCpcTGeQaEJXkqSZpZGgsgYyBxKGLxrLGRxiIBlcy.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_dynwar8" attr="ps3_exclusivos_dynwar8"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_waroroch3_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_waroroch3">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP4108/NPUB31505_00/iKChApWfRipwNENbrKSIqpGxBGFUTFoXVyAZygvivGmOQFECmJDvunAoGIhkCHnt.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_waroroch3" attr="ps3_exclusivos_waroroch3"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_littlebigp_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_littlebigp">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/NPUA80472_00/qFcxgxEXqEWYODYHhjub4YI3Km5QY1iayRkkO6QXk6bFsTiwn7QW3l1r9rviiaqtGce9VRgWLrNpmYmDr1kC1VjBEsgocCb5HSRh5.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_littlebigp" attr="ps3_exclusivos_littlebigp"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_littlebigp2_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_littlebigp2">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/NPUA80662_00/UcYyGmZcjkVVOIGyhPmNxHcnKgwkGLsuhdMaqIXARhhFFnpFDuosvdPyMkLWZZXiWGkJlKExtlvMeqpXNAzCIBsJFAgJFHJUyXXdl.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_littlebigp2" attr="ps3_exclusivos_littlebigp2"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_littlebigp3_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_littlebigp3">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/NPUA81116_00/aKFlQguFjIQtodJibSefHesXqMsbnyNxJDxiaScFMbGpcvVUrkBOlAymJJNOQMpphWBlyrwyVzMzdnjZDqfMvbqcTsYRuzuDpYAaK.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_littlebigp3" attr="ps3_exclusivos_littlebigp3"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_littlebigpkrt_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_littlebigpkrt">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/NPUA80848_00/INTvKaLuhpnWvBIaXeOhxVFYaAgElelJgPorzDuOPZemFDYfRlayiEwJNUVByZQcXviOHuwNhzocwGatOFrbnPjjhCDapaOeMQbnI.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_littlebigpkrt" attr="ps3_exclusivos_littlebigpkrt"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_reddeadun_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_reddeadun">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1004/NPUB30639_00/ZvHgFCyfIspmVnZfBeJztnBWMlkLYXCZKHHJaWmGzrspjwmJwfwjaaIOIhbVnDZgGQVXdAYfgCKhrLDRwhjphiWmtiBqsUQcjuRLd.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_reddeadun" attr="ps3_exclusivos_reddeadun"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_lostplanet3_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_lostplanet3">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/NPUB31125_00/BMCAqVUQRYbxRdqvMQTzkmVeTQXrcCLDyVmHUplsPpRouafxXANZwtsqDdFKilmH.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_lostplanet3" attr="ps3_exclusivos_lostplanet3"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_streetxtek_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_streetxtek">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP0102/NPEB01792_00/DNbKNmGGPWlToWyLxGoEfPDdwJLrjxqapCOEMtcWaxLeNMlDrqajyxOHOoYpZqhx.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_streetxtek" attr="ps3_exclusivos_streetxtek"/>
+  </Items>
+</View>
+
+<View id="ps3_exclusivos_mxvsatv_link">
+  <Attributes>
+      <Table key="ps3_exclusivos_mxvsatv">
+          <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1005/NPUB30602_00/doNaAnPNLXxPteLYzykwDodGzaDOpGoXXulGITmICgZxbDKaEwBRCvJZlWGACcWwvoNUEWxXMJImCNXxLYsXwuSShSAxKAckGTZwp.pkg</String></Pair>
+          <Pair key="module_name"><String>webrender_plugin</String></Pair>
+          <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/download.png</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+      <Item class="type:x-xmb/module-action" key="ps3_exclusivos_mxvsatv" attr="ps3_exclusivos_mxvsatv"/>
+  </Items>
+</View>
+
+</XMBML>

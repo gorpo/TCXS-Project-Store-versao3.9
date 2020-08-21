@@ -1,0 +1,120 @@
+<XMBML version="1.0">			
+		<View id="ghosts_items">
+        <Attributes>
+            <Table key="ghosts_item_0">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/DLCS/devastation.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Devastation</String></Pair>
+                <Pair key="info"><String>BLUS31270 - 1.16 Gb</String></Pair>
+            </Table>
+            <Table key="ghosts_item_1">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/DLCS/nemesis.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Nemesis</String></Pair>
+                <Pair key="info"><String>BLUS31270 - 1.23 Gb</String></Pair>
+            </Table>
+            <Table key="ghosts_item_2">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/DLCS/onslaught.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Onslaught</String></Pair>
+                <Pair key="info"><String>BLUS31270 - 1.08 Gb</String></Pair>
+            </Table>
+            <Table key="ghosts_item_3">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/DLCS/invasion.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Invasion</String></Pair>
+                <Pair key="info"><String>BLUS31270 - 1.22 Gb</String></Pair>
+            </Table>
+
+        </Attributes>
+        <Items>
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="ghosts_item_0"
+                attr="ghosts_item_0"
+                src="#ghosts_item_0_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="ghosts_item_1"
+                attr="ghosts_item_1"
+                src="#ghosts_item_1_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="ghosts_item_2"
+                attr="ghosts_item_2"
+                src="#ghosts_item_2_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="ghosts_item_3"
+                attr="ghosts_item_3"
+                src="#ghosts_item_3_link"
+            />
+       </Items>
+    </View>
+
+
+	<View id="ghosts_item_0_link">
+        <Attributes>
+            <Table key="ghosts_item_0">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS31270_00/udLaLklTocNqtaEToEvJENFTQNbVKttESGnMShWHPYhHkDwyeEoDbxBYdVZDRyTz.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS31270_00/udLaLklTocNqtaEToEvJENFTQNbVKttESGnMShWHPYhHkDwyeEoDbxBYdVZDRyTz.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0002-BLUS31270_00-00000CODGHOSTS04</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="ghosts_item_0" attr="ghosts_item_0"/>
+        </Items>
+    </View>	
+	
+	<View id="ghosts_item_1_link">
+        <Attributes>
+            <Table key="ghosts_item_1">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS31270_00/pQsZGOBcumspHpjWwDXUHeRfeIFwxeCVwrAqARYhRhjIYAQhonHdzKqpaScZSGkA.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS31270_00/pQsZGOBcumspHpjWwDXUHeRfeIFwxeCVwrAqARYhRhjIYAQhonHdzKqpaScZSGkA.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0002-BLUS31270_00-00000CODGHOSTS06</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="ghosts_item_1" attr="ghosts_item_1"/>
+        </Items>
+    </View>
+		
+	<View id="ghosts_item_2_link">
+        <Attributes>
+            <Table key="ghosts_item_2">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS31270_00/gUzGqrvdguGmnhYkpyzmMgXikFARphDUAlxfyGdPqJrKqreVwTimYKCflGvQSvKc.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS31270_00/gUzGqrvdguGmnhYkpyzmMgXikFARphDUAlxfyGdPqJrKqreVwTimYKCflGvQSvKc.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0002-BLUS31270_00-00000CODGHOSTS03</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="ghosts_item_2" attr="ghosts_item_2"/>
+        </Items>
+    </View>
+		
+	<View id="ghosts_item_3_link">
+        <Attributes>
+            <Table key="ghosts_item_3">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS31270_00/dHKmtCWlmSUcJwuxLlVPSAVRdMFNOuZigkcqnTaSulmoFceAcfbdKiChzCslFxPI.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS31270_00/dHKmtCWlmSUcJwuxLlVPSAVRdMFNOuZigkcqnTaSulmoFceAcfbdKiChzCslFxPI.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0002-BLUS31270_00-00000CODGHOSTS05</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="ghosts_item_3" attr="ghosts_item_3"/>
+        </Items>
+    </View>
+
+
+</XMBML>

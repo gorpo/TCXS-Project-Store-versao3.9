@@ -1,0 +1,109 @@
+<XMBML version="1.0">
+	<View id="seg_tv_items">
+		<Attributes>
+			<Table key="açao">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/açao.png</String></Pair>
+				<Pair key="title"><String>AÇÃO</String></Pair>
+			</Table>
+			<Table key="animaçao">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/animaçao.png</String></Pair>
+				<Pair key="title"><String>ANIMAÇÃO</String></Pair>
+				<Pair key="info"><String></String></Pair>
+      </Table>
+			<Table key="aventura">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/aventura.png</String></Pair>
+				<Pair key="title"><String>AVENTURA</String></Pair>
+			</Table>
+			<Table key="comedia">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/comedia.png</String></Pair>
+				<Pair key="title"><String>COMÉDIA</String></Pair>
+			</Table>
+			<Table key="drama">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/drama.png</String></Pair>
+				<Pair key="title"><String>DRAMA</String></Pair>
+			</Table>
+			<Table key="ficçao_cientifica">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/ficçao_cientifica.png</String></Pair>
+				<Pair key="title"><String>FICÇÃO CIENTIFICA</String></Pair>
+		  </Table>
+			<Table key="heroes">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/heroes.png</String></Pair>
+				<Pair key="title"><String>HEROES</String></Pair>
+			</Table>
+			<Table key="musica">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/musica.png</String></Pair>
+				<Pair key="title"><String>MUSICA</String></Pair>
+		  </Table>
+			<Table key="romance">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/romance.png</String></Pair>
+				<Pair key="title"><String>ROMANCE</String></Pair>
+			</Table>
+			<Table key="terror">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/terror.png</String></Pair>
+				<Pair key="title"><String>TERROR</String></Pair>
+      </Table>
+			<Table key="zombies">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/zombies.png</String></Pair>
+				<Pair key="title"><String>ZOMBIES</String></Pair>
+		 </Table>
+    </Attributes>
+    <Items>
+    <Query
+         class="type:x-xmb/folder-pixmap"
+         key="açao"
+         attr="açao"
+         src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/FILMES/açao.xml#seg_tv_items"/>
+ 		<Query
+         class="type:x-xmb/folder-pixmap"
+         key="animaçao"
+         attr="animaçao"
+         src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/FILMES/animaçao.xml#seg_tv_items"/>
+ 		<Query
+         class="type:x-xmb/folder-pixmap"
+         key="aventura"
+         attr="aventura"
+         src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/FILMES/aventura.xml#seg_tv_items"/>
+ 		<Query
+         class="type:x-xmb/folder-pixmap"
+         key="comedia"
+         attr="comedia"
+         src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/FILMES/comedia.xml#seg_tv_items"/>
+ 		<Query
+         class="type:x-xmb/folder-pixmap"
+         key="drama"
+         attr="drama"
+         src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/FILMES/drama.xml#seg_tv_items"/>
+	  <Query
+	       class="type:x-xmb/folder-pixmap"
+	       key="ficçao_cientifica"
+	       attr="ficçao_cientifica"
+	       src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/FILMES/ficçao_cientifica.xml#seg_tv_items"/>
+		<Query
+         class="type:x-xmb/folder-pixmap"
+         key="heroes"
+         attr="heroes"
+         src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/FILMES/heroes.xml#seg_tv_items"/>
+		<Query
+         class="type:x-xmb/folder-pixmap"
+         key="musica"
+         attr="musica"
+         src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/FILMES/musica.xml#seg_tv_items"/>
+		<Query
+         class="type:x-xmb/folder-pixmap"
+         key="romance"
+         attr="romance"
+         src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/FILMES/romance.xml#seg_tv_items"/>
+		<Query
+         class="type:x-xmb/folder-pixmap"
+         key="terror"
+         attr="terror"
+         src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/FILMES/terror.xml#seg_tv_items"/>
+    <Query
+         class="type:x-xmb/folder-pixmap"
+         key="zombies"
+         attr="zombies"
+         src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/FILMES/zombies.xml#seg_tv_items"/>
+    </Items>
+	</View>
+
+</XMBML>

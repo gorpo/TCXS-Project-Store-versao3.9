@@ -1,0 +1,69 @@
+<XMBML version="1.0">
+	<View id="opcoesneogeo_items"> 
+
+
+		<Attributes> 
+			<Table key="install_neogeo">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/hen/installerps1.png</String></Pair>
+				<Pair key="title"><String>Instalar jogos de NeoGeo</String></Pair>
+				<Pair key="info"><String>Os jogos de NeoGeo baixados poderam ser instalados aqui</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="jogos_neogeo">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/hen/baixarjogos.png</String></Pair>
+				<Pair key="title"><String>Baixar jogos de NeoGeo</String></Pair>
+				<Pair key="info"><String>Baixe aqui os jogos de NeoGeo e instale na opção acima</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+
+
+
+
+
+
+		</Attributes>
+			<Items>
+
+			
+			<Query
+           		class="type:x-xmb/xmlpackagefolder"
+                key="install_neogeo"
+                attr="install_neogeo"
+                src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/instaladorneogeo.xml#instaladorneogeo_items"
+            />
+            <Query
+           		class="type:x-xmb/xmlpackagefolder"
+                key="jogos_neogeo"
+                attr="jogos_neogeo"
+                src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/jogosneogeo.xml#jogosneogeo_items"
+            />
+
+
+
+
+			</Items>
+		</View>
+
+		
+
+
+                              
+
+
+		
+		
+				
+		
+
+
+
+
+
+
+
+
+
+
+
+		</XMBML>
+		

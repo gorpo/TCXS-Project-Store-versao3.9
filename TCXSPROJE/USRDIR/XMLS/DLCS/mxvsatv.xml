@@ -1,0 +1,42 @@
+<XMBML version="1.0">
+	<View id="mva_items">
+		<Attributes>
+			<Table key="mva_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - DLC </String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30321</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1005/BLUS30321_00/KESgDBFR7b2TlAJPRAp7gnO6BFGDURT7LIn1ec5FldsdIFIOGlrdTd8aJN3dbWvU6suEBuywcH7r56ETxkw1DHk2wwAJYKxxyJF30.pkg</String></Pair>
+      </Table>
+			<Table key="mva_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - DLC 2</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30321</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1005/BLUS30321_00/pM1iCD1R64M4UpPSq1OxpvkpoLfaIrptRt2CDnXii0bm9R1wQlCpjIg1aInxoVgl5fUf2LtRNFqmTdKEcX6VvaDPDRRdFFgH43hUE.pkg</String></Pair>
+      </Table>
+			<Table key="mva_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - DLC 3</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30321</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1005/BLUS30321_00/vxOsjaJ1xQynqIbIqFD7A0dbjNAAAhyt3AsOyOSp3fYstcoF5MLCiRuAmnagA38H0MhuuCeJPXxiv5UoJYjYiMP7NtvY2lNNOFiYj.pkg</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="mva_item_0"
+        attr="mva_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="mva_item_1"
+        attr="mva_item_1"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="mva_item_2"
+        attr="mva_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

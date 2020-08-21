@@ -1,0 +1,41 @@
+<XMBML version="1.0">
+	<View id="seg_tv_categories">
+		<Attributes>
+			<Table key="FILMES">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/filmes.png</String></Pair>
+				<Pair key="title"><String>Filmes </String></Pair>
+				<Pair key="info"><String>Dublados/Legendados em Blu-ray 1080p</String></Pair>
+      </Table>
+			<Table key="SEIES">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/series.png</String></Pair>
+				<Pair key="title"><String>Series</String></Pair>
+				<Pair key="info"><String>Dublados/Legendados em Blu-ray 1080p</String></Pair>
+      </Table>
+			<Table key="DESENHOS">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/desenhos.png</String></Pair>
+				<Pair key="title"><String>Desenhos</String></Pair>
+				<Pair key="info"><String>Dublados/Legendados em Blu-ray 1080p</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/folder-pixmap"
+        key="FILMES"
+        attr="FILMES"
+        src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/FILMES/filmes_sub.xml#seg_tv_items"/>
+		<Query 
+        class="type:x-xmb/folder-pixmap"
+        key="SEIES"
+        attr="SEIES"
+        src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/SERIES/series.xml#seg_tv_items"/>
+
+		<Query 
+        class="type:x-xmb/folder-pixmap"
+        key="DESENHOS"
+        attr="DESENHOS"
+        src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/DESENHOS/desenhos.xml#seg_tv_items"/>
+
+		</Items>
+	</View>
+
+</XMBML>

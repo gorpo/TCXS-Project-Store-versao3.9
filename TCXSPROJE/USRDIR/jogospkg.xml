@@ -1,0 +1,252 @@
+<XMBML version="1.0">
+	<View id="jogospkg_items">
+		<Attributes>
+
+			<Table key="pasta_temporaria_01">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/segdown.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>Porta da esperança</String></Pair>
+				<Pair key="info"><String>Pasta Temporária 01</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="pasta_temporaria_02">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/segdown.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>Porta da esperança</String></Pair>
+				<Pair key="info"><String>Pasta Temporária 02</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="pasta_temporaria_03">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/segdown.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>Porta da esperança</String></Pair>
+				<Pair key="info"><String>Pasta Temporária 03</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="pasta_temporaria_04">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/segdown.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>Porta da esperança</String></Pair>
+				<Pair key="info"><String>Pasta Temporária 04</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="pasta_temporaria_05">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/segdown.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>Porta da esperança</String></Pair>
+				<Pair key="info"><String>Pasta Temporária 05</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="pasta_temporaria_06">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/segdown.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>Porta da esperança</String></Pair>
+				<Pair key="info"><String>Pasta Temporária 06</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="pasta_temporaria_07">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/segdown.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>Porta da esperança</String></Pair>
+				<Pair key="info"><String>Pasta Temporária 07</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="pasta_temporaria_08">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/segdown.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>Porta da esperança</String></Pair>
+				<Pair key="info"><String>Pasta Temporária 08</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="pasta_temporaria_09">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/segdown.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>Porta da esperança</String></Pair>
+				<Pair key="info"><String>Pasta Temporária 09</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="pasta_temporaria_10">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/segdown.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>Porta da esperança</String></Pair>
+				<Pair key="info"><String>Pasta Temporária 10</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="pasta_temporaria_11">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/segdown.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>Porta da esperança</String></Pair>
+				<Pair key="info"><String>Pasta Temporária 11</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="pasta_temporaria_12">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/segdown.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>Porta da esperança</String></Pair>
+				<Pair key="info"><String>Pasta Temporária 12</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="pasta_temporaria_13">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/segdown.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>Porta da esperança</String></Pair>
+				<Pair key="info"><String>Pasta Temporária 13</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="pasta_temporaria_14">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/segdown.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>Porta da esperança</String></Pair>
+				<Pair key="info"><String>Pasta Temporária 14</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="pasta_temporaria_15">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/segdown.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>Porta da esperança</String></Pair>
+				<Pair key="info"><String>Pasta Temporária 15</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="pasta_temporaria_16">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/segdown.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>Porta da esperança</String></Pair>
+				<Pair key="info"><String>Pasta Temporária 16</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="pasta_temporaria_17">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/segdown.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>Porta da esperança</String></Pair>
+				<Pair key="info"><String>Pasta Temporária 17</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="pasta_temporaria_18">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/segdown.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>Porta da esperança</String></Pair>
+				<Pair key="info"><String>Pasta Temporária 18</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="pasta_temporaria_19">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/segdown.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>Porta da esperança</String></Pair>
+				<Pair key="info"><String>Pasta Temporária 19</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="pasta_temporaria_20">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/segdown.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>Porta da esperança</String></Pair>
+				<Pair key="info"><String>Pasta Temporária 20</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+		</Attributes>
+
+		<Items>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="pasta_temporaria_01"
+				attr="pasta_temporaria_01"
+				src="host://localhost/q?path=/dev_hdd0/vsh/task/00000002&suffix=.pkg&subclass=x-host/package"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="pasta_temporaria_02"
+				attr="pasta_temporaria_02"
+				src="host://localhost/q?path=/dev_hdd0/vsh/task/00000003&suffix=.pkg&subclass=x-host/package"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="pasta_temporaria_03"
+				attr="pasta_temporaria_03"
+				src="host://localhost/q?path=/dev_hdd0/vsh/task/00000004&suffix=.pkg&subclass=x-host/package"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="pasta_temporaria_04"
+				attr="pasta_temporaria_04"
+				src="host://localhost/q?path=/dev_hdd0/vsh/task/00000005&suffix=.pkg&subclass=x-host/package"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="pasta_temporaria_05"
+				attr="pasta_temporaria_05"
+				src="host://localhost/q?path=/dev_hdd0/vsh/task/00000006&suffix=.pkg&subclass=x-host/package"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="pasta_temporaria_06"
+				attr="pasta_temporaria_06"
+				src="host://localhost/q?path=/dev_hdd0/vsh/task/00000007&suffix=.pkg&subclass=x-host/package"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="pasta_temporaria_07"
+				attr="pasta_temporaria_07"
+				src="host://localhost/q?path=/dev_hdd0/vsh/task/00000008&suffix=.pkg&subclass=x-host/package"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="pasta_temporaria_08"
+				attr="pasta_temporaria_08"
+				src="host://localhost/q?path=/dev_hdd0/vsh/task/00000009&suffix=.pkg&subclass=x-host/package"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="pasta_temporaria_09"
+				attr="pasta_temporaria_09"
+				src="host://localhost/q?path=/dev_hdd0/vsh/task/000000010&suffix=.pkg&subclass=x-host/package"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="pasta_temporaria_10"
+				attr="pasta_temporaria_10"
+				src="host://localhost/q?path=/dev_hdd0/vsh/task/00000011&suffix=.pkg&subclass=x-host/package"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="pasta_temporaria_11"
+				attr="pasta_temporaria_11"
+				src="host://localhost/q?path=/dev_hdd0/vsh/task/00000012&suffix=.pkg&subclass=x-host/package"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="pasta_temporaria_12"
+				attr="pasta_temporaria_12"
+				src="host://localhost/q?path=/dev_hdd0/vsh/task/00000013&suffix=.pkg&subclass=x-host/package"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="pasta_temporaria_13"
+				attr="pasta_temporaria_13"
+				src="host://localhost/q?path=/dev_hdd0/vsh/task/00000014&suffix=.pkg&subclass=x-host/package"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="pasta_temporaria_14"
+				attr="pasta_temporaria_14"
+				src="host://localhost/q?path=/dev_hdd0/vsh/task/00000015&suffix=.pkg&subclass=x-host/package"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="pasta_temporaria_15"
+				attr="pasta_temporaria_15"
+				src="host://localhost/q?path=/dev_hdd0/vsh/task/00000016&suffix=.pkg&subclass=x-host/package"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="pasta_temporaria_16"
+				attr="pasta_temporaria_16"
+				src="host://localhost/q?path=/dev_hdd0/vsh/task/00000017&suffix=.pkg&subclass=x-host/package"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="pasta_temporaria_17"
+				attr="pasta_temporaria_17"
+				src="host://localhost/q?path=/dev_hdd0/vsh/task/00000018&suffix=.pkg&subclass=x-host/package"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="pasta_temporaria_18"
+				attr="pasta_temporaria_18"
+				src="host://localhost/q?path=/dev_hdd0/vsh/task/00000019&suffix=.pkg&subclass=x-host/package"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="pasta_temporaria_19"
+				attr="pasta_temporaria_19"
+				src="host://localhost/q?path=/dev_hdd0/vsh/task/00000020&suffix=.pkg&subclass=x-host/package"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="pasta_temporaria_20"
+				attr="pasta_temporaria_20"
+				src="host://localhost/q?path=/dev_hdd0/vsh/task/00000021&suffix=.pkg&subclass=x-host/package"/>
+
+		</Items>
+	</View>
+
+</XMBML>

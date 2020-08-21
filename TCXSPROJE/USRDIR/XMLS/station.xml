@@ -1,0 +1,35 @@
+<XMBML version="1.0">
+
+ <View id="sony_items">
+  <Attributes>
+   <Table key="psnstuff">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/play33.png</String></Pair>
+    <Pair key="title"><String>ツTCXS - PSN-STUFF☆</String></Pair>
+    <Pair key="info"><String>◉Jogos direto dos servidores da Sony◉*OBRIGATÓRIO TER LIC ATIVADA*</String></Pair>
+      </Table>
+   <Table key="dlc">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/play31.png</String></Pair>
+    <Pair key="title"><String>ツTCXS - DLC's☆</String></Pair>
+    <Pair key="info"><String>◉DLC's, Exclusivos e PSNStuff◉*OBRIGATÓRIO TER LIC ATIVADA*</String></Pair>
+      </Table>
+   <Table key="exclusivos">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/play34.png</String></Pair>
+    <Pair key="title"><String>ツTCXS - EXCLUSIVOS☆</String></Pair>
+    <Pair key="info"><String>◉Jogos direto dos servidores da Sony e Exclusivos da TCXS◉*OBRIGATÓRIO TER LIC ATIVADA*</String></Pair>
+      </Table>
+   <Table key="nohan">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/play3.png</String></Pair>
+    <Pair key="title"><String>ツTCXS - JOGOS DIVIDIDOS☆</String></Pair>
+    <Pair key="info"><String>◉Jogos que NÃO PRECISAM da licença e do HEN ou HAN ATIVADO◉</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+  <Query class="type:x-xmb/folder-pixmap" key="nohan" attr="nohan" src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/tcxs.xml#tcxs_items"/>
+  <Query class="type:x-xmb/folder-pixmap" key="exclusivos" attr="exclusivos" src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/exclusivos.xml#exclusivos_items"/>
+  <Query class="type:x-xmb/folder-pixmap" key="psnstuff" attr="psnstuff" src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/psnstuff.xml#psnstuff_items"/>
+  <Query class="type:x-xmb/folder-pixmap" key="dlc" attr="dlc" src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/dlc.xml#dlc_items"/>
+
+   </Items>
+  </View>
+
+</XMBML>

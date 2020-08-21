@@ -1,0 +1,91 @@
+<XMBML version="1.0">
+    <View id="tcxs_xmb_main">
+        <Attributes>
+            <Table key="tcxs_main">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/XMB/tcxshybrid.png</String>
+                </Pair>
+                <Pair key="icon_notation">
+                    <String>WNT_XmbItemAlbum</String>
+                </Pair>
+                <Pair key="title">
+                    <String></String>
+                </Pair>
+                <Pair key="info">
+                    <String>◉HAN/HEN/CFW/v3.9.5|By_TCXS™◉</String>
+                </Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Query class="type:x-xmb/folder-pixmap" key="tcxs_main" attr="tcxs_main" src="#tcxs_main_items" />
+        </Items>
+    </View>
+
+    <View id="tcxs_main_items">
+        <Attributes>
+            <Table key="playstation">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/playstation.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>ツPLAYSTATION'S☆</String>
+                </Pair>
+                <Pair key="info">
+                    <String>◉Ps1, Ps2, Ps3 e PsP|By_TCXS™◉</String>
+                </Pair>
+            </Table>
+            <Table key="retro">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/retro.png</String>
+                </Pair>
+                <Pair key="title">
+                    <String>ツEMULADORES☆</String>
+                </Pair>
+                <Pair key="info">
+                    <String>◉Retro(HAN/HEN)By_GorpoOrko_TCXS™◉</String>
+                </Pair>
+            </Table>
+			<Table key="package_files">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/segdown.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>ツDownloads Segundo Plano◉</String></Pair>
+				<Pair key="info_rsc"><String>msg_tool_package_file_info</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+          <Table key="tv">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/tv.png</String>
+                </Pair>
+                <Pair key="icon_notation">
+                    <String>WNT_XmbItemAlbum</String>
+                </Pair>
+                <Pair key="title">
+                    <String>ツTv◉</String>
+                </Pair>
+                <Pair key="info">
+                    <String>☆Filmes, Series, Animes, Cartoons![BOA PARTE DOS FILMES TEM OPÇAO DE AUDIO!]☆</String>
+                </Pair>
+         </Table>
+          <Table key="tur">
+                <Pair key="icon">
+                    <String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/tur.png</String>
+                </Pair>
+                <Pair key="icon_notation">
+                    <String>WNT_XmbItemAlbum</String>
+                </Pair>
+                <Pair key="title">
+                    <String>ツTUTORIAIS◉</String>
+                </Pair>
+         </Table>
+
+        </Attributes>
+        <Items>
+         <Query class="type:x-xmb/folder-pixmap" key="playstation" attr="playstation" src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/playstation.xml#sony_games"/>
+         <Query class="type:x-xmb/folder-pixmap" key="retro" attr="retro" src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/emuladores.xml#retro_items"/>
+         <Query class="type:x-xmb/folder-pixmap" key="tv" attr="tv" src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/tv.xml#seg_tv_categories"/>
+         <Query class="type:x-xmb/folder-pixmap" key="tur" attr="tur" src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/tur.xml#tur_items"/>
+         <Query class="type:x-xmb/folder-pixmap" key="package_files" attr="package_files" src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/jogospkg.xml#jogospkg_items"/>
+        </Items>
+       </View>
+
+</XMBML>

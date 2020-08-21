@@ -1,0 +1,19 @@
+<XMBML version="1.0">
+	<View id="ljw_items">
+		<Attributes>
+			<Table key="ljw_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - JW DLC</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31518</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1018/BLUS31518_00/UP1018-BLUS31518_00-LEGOJWDLC2000001_bg_1_b8c83d19290f41d1480b8ace0144771f034a3f62.pkg</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ljw_item_0"
+        attr="ljw_item_0"/>
+		</Items>
+	</View>
+</XMBML>

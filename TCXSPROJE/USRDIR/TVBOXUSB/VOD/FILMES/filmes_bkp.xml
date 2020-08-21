@@ -1,0 +1,1661 @@
+<XMBML version="1.0">
+	<View id="seg_tv_items">
+		<Attributes>
+			<Table key="50_tons_de_liberdade">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>50 tons de liberdade</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/6x84pm77knyoiuf/50%20tons%20de%20liberdade.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="A_Barraca_Do_Beijo">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>A Barraca Do Beijo</String></Pair>
+				<Pair key="info"><String></String></Pair> 
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/dh9rnla3hihzdmq/barraca_do_beijo.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="A_Freira">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>A Freira</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/avwzc7fj0akyxf2/A.Freira.2018.720p.WEB-DL..x264.DUBLADO-WWW.BLUDV.TV.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="A_Morte_Retorno_Superman">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>A Morte e o Retorno Superman</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/s4f8a8x8vmyr6d2/A%20morte%20e%20o%20retorno%20do%20Superman%20%282019%29.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="A_Mulher_Mais_Assassinada_Mundo">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>A Mulher Mais Assassinada do Mundo</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/35z42jxau6x8tmt/A.Mulher.Mais.Assassinada.do.Mundo.Dublado.1080p.2018.WWW.DOWNLOADLIVRE.NET%20%28convert-video-online.com%29.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="A_Origem">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>A Origem</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/p0vf32th3vm6cud/A_Origem.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="A_viagem_de_Chihiro">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>A Viagem de Chihiro</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/z9ibkcvafrt5x9v/a%20viagem%20de%20chihiro.mp4?dl=1</String></Pair>
+			   </Table>
+			<Table key="Angry_Birds_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Angry Birds 2</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/orvn6qh4or5sw5h/Angry%20Birds%202%20-%20O%20Filme%20%282019%29.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Anna_O_Perigo_tem_nome">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Anna - O Perigo tem nome!</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/q4mrnbx6o5wjciy/Anna%20-%20O%20Perigo%20Tem%20Nome%20%282019%29.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Annabelle_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Annabelle 2</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/k8gzplwy1la6x87/Annabelle_2.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Aves_Rapina">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Aves de Rapina</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/bpj9bihka6a22m2/Birds.OF.PREY.AND.THE.FANTABULOUS.EMANCIPATION.OF.ONE.HARLEY.QUINN.2020.1080P-DUAL-POR-CINEMAQUALIDADE.IS.MP4?dl=1</String></Pair>
+      </Table>
+			<Table key="Batman_Ninja">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Batman Ninja</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/muyh0hpwnbwdqvw/Batman_Ninja_Dub_BD_HD.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Batman_Silêncio">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Batman Silêncio</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/vbcyk3ic55pv580/Batman-Sil%C3%AAncio%20%282019%29.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Batman_vs_Superman">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Batman vs Superman - A Origem da Justiça</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/tpseq5k4krmr98w/Batman%20vs%20Superman%20-%20A%20Origem%20da%20Justi%C3%A7a%20%5BVers%C3%A3o%20Estendida%5D%20%282016%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Beirute">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Beirute</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/thsb5rkyr26ut8w/Beirute.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="BirdBox">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>BirdBox</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/n5bhwnc3gcm6xo0/Birdbox.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Bleach">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Bleach - Live Action</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/pogiqz3eiwgv5af/Bleach_live_action.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Bohemian_Rhapsody">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Bohemian Rhapsody</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ctueaxrgxnxkbtf/Bohemian.Rhapsody.2018.720p.BluRay.x264-DUBLADO.WWW.COMANDOTORRENTS.COM.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Cinquenta_Tons_Preto">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Cinquenta Tons de Preto</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/rksyi1503ht7fz0/Cinquenta.Tons.de.Preto.2016.BluRay.720p.Dublado-WWW.FILMESNOMEGA.INFO.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Círculo_Fogo_Revolta">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Círculo de Fogo - A Revolta</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/3yumpypcg2bk3y5/C%C3%ADrculo.de.Fogo.A.Revolta.2018.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Code8">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Code 8</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/0103554bzc9qy9h/Code%208%20%282019%29.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Com_proprias_mão">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Com as proprias mão</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/nid9qmnlwvheowu/com_as_proprias_maos.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="crepusculo">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Crepusculo</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/obpicdb6m1cif06/Crepusculo%202008%20Dual.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Crepusculo_Lua_Nova">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Crepusculo Lua Nova</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/eei5cyjvhb2ifmz/Crepusculo%20Lua%20Nova.MP4.DUB.BaixarSeriesMP4.Com.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Crepusculo_Amanhecer">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Crepusculo Amanhecer</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/5q1g3wnifyopm2v/Crepusculo%20Amanhecer%20PT.1%202011%20BDRip%20Dual.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Crepusculo_Amanhecer2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Crepusculo Amanhecer 2 </String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/f2vjyyg03iyg4sy/Amanhecer%20Parte%202.720p.Dub.%5Bwww.Brasilmegaseries.Net%5D.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Crisis_Terras_Infinitas">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Crisis nas Terras Infinitas</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/3smehtivu1jvqdr/Crisis%20nas%20Terras%20infinitas.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Deadpool">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Deadpool</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>_</String></Pair>
+      </Table>
+			<Table key="Deadpool2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Deadpool 2</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/xb78ebzrnirpgkp/Deadpool.2.2018.UNRATED.720p.BluRay.x264-DUAL.WWW.COMANDOTORRENTS.COM.mkv?dl=1</String></Pair>
+      </Table>
+			<Table key="Detroit_Cidade_Rock">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Detroit a Cidade do Rock</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/fz0vdsddnuvtkc3/Detroit%20a%20Cidade%20do%20Rock%20%281999%29%20BRrip%20Blu-Ray%20720p%20%20%28Vers%C3%A3o%20Sem%20Cortes%20Exclusivo%20Dublado%29%20Dat2015.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Fundo_Mar2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Do Fundo do Mar 2</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ojzbzz1m1eiuapo/dofundodomar2.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Frozen">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Frozen</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>_</String></Pair>
+      </Table>
+			<Table key="Frozen2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Frozen 2</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/a4flqsdo74en4fw/Frozen%202.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Godzilla_Devorador_Planetas">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Godzilla O Devorador de Planetas</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/twdmax7olpzbv12/Godzilla.O.Devorador.de.Planetas.2019.720p.WEB-DL.x264.DUBLADO.WWW.COMANDOTORRENTS.COM.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Harry_Potter_Camara_Secreta">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Harry Potter e a Camara Secreta</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/gsrvmhjg0ldg5ux/Harry_Potter_e_a_Camara_Secreta.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Harry_Potter_Ordem_Fenix">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Harry Potter e a Ordem Da Fenix</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/scrfteldeb0ula1/Harry_Potter_e_a_Ordem_Da_Fenix.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Harry_Potter_Pedra_Filosofal">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Harry Potter e a Pedra Filosofal</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/rnl1qwnm9584ycs/Harry_Potter_e_a_Pedra_Filosofal.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Harry_Potter_Reliquias_Morte">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Harry Potter e as Reliquias da Morte</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/dd3wqxtbj5wchey/Harry_Potter_e_as_Reliquias_da_Morte_Parte_1.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Harry_Potter_Reliquias_Morte2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Harry Potter e as Reliquias da Morte 2</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/5vrnddswblnh2d9/Harry_Potter_e_as_Reliquias_da_Morte_Parte_2.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Harry_Potter_Calice_Fogo">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Harry Potter e o Calice de Fogo</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/kxr0u3vn4yei9wz/Harry_Potter_e_o_Calice_de_Fogo.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Harry_Potter_Enigma_Principe">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Harry Potter e o Enigma do Principe</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/xfnjyz1ty8kddf7/Harry_Potter_e_o_Enigma_do_Principe.mp4?dl=1 </String></Pair>
+      </Table>
+			<Table key="Harry_Potter_Prisioneiro_Azkaban">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Harry Potter e o Prisioneiro de Azkaban</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/y7jb03gmv2801jk/Harry_Potter_e_o_Prisioneiro_de_Azkaban.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Hellboy">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Hellboy Lendário Pra C@r#l&!</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/p5mgp1h3rz7wz4c/Hellboy%20%282019%29.mp4?dl=1 </String></Pair>
+      </Table>
+			<Table key="HomemAranha">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Homem-Aranha</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/7iu00do01jtk4hh/Homem-Aranha_1.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="HomemAranha2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Homem-Aranha 2</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/po2ncwh4za3aqby/Homem-Aranha_2.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="HomemAranha3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Homem-Aranha 3</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/hwxumdjbg5cjtgp/Homem-Aranha_3.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="HomemAranha_volta_lar">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Homem-Aranha de Volta ao Lar</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/61fjy3xo8otej2x/Homem-Aranha_de_volta_ao_lar.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="HomemAranha_Aranhaverso">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Homem-Aranha_Aranhaverso</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/n0mhnaob35n8rus/Homem-Aranha.no.Aranhaverso.2019.720p.BluRay.x264.DUBLADO-WWW.BLUDV.TV.mp4?dl=1 </String></Pair>
+      </Table>
+			<Table key="HomemFormiga">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Homem-Formiga</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/qpzpkrczwtcavi1/Homem-Formiga%20%282015%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="HomemFormiga_Vespa">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Homem-Formiga e a Vespa</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/bcvzw6jkgz7eqs1/Homem-Formiga.e.a.Vespa.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Hotel_Transylvania">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Hotel Transylvania</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/c9xh2cvqnqfamzg/h_transyl1.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Invasores_Nenhum_Sistema Está_Salvo">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Invasores Nenhum Sistema Está à Salvo</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/olmr9j347dc3xb0/Invasores%20-%20Nenhum%20Sistema%20Est%C3%A1%20%C3%A0%20Salvo%20%282015%29%20720p%20Dublado.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Invocação_Mal2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Invocação do Mal 2</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/yu9rv1yr5r76pnm/invocacao_do_mal_2.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="It_coisa">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>It_A_Coisa</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/iat91qjf78wbqx3/it_a_coisa%282018%29.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="It_coisa2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>It A Capitulo 2</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/4mtz19scuw5e0h3/IT%20Chapter%202%20%282019%29.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Jogador_N1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Jogador N°1</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ua3eca4g860ftf0/jogadorn1.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Jogos_Mortais">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Jogos Mortais</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/w7n2m3wsdc2nlmt/jogos_mortais1.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Jogos_Mortais2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Jogos Mortais 2</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/35lpgosj7yk9lwc/jogos_mortais2.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Jogos_Mortais3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Jogos Mortais 3</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/vdebfkymot6aaja/jogos_mortais3.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Jogos_Mortais4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Jogos Mortais 4</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/n07a2555ihgmbpq/jogos_mortais4.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Jogos_Mortais5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Jogos Mortais 5</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/869hb37d7av5cwy/jogos_mortais5.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Jogos_Mortais6">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Jogos Mortais 6</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/740t1mn6wkid3q9/jogos_mortais6.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Jogos_Mortais7">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Jogos Mortais 7</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/icvtlu7pzm3qv4j/jogos_mortais7.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Jumanji">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Jumanji Bem Vindo a Selva</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/xftclr9vouuo2at/jumanji.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="jumanji2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>jumanji Proxima Fase!</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/xyk2sqgzbnfl7su/Jumanji.THE.NEXT.LEVEL.2019.1080P-DUAL-POR-CINEMAQUALIDADE.IS.MP4?dl=1</String></Pair>
+      </Table>
+			<Table key="Jurassic_World_Reino_Ameaçado">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Jurassic World - Reino Ameaçado</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/dkmp516faefkn9f/Jurassic%20World%20-%20Reino%20Amea%C3%A7ado%202018%20%28720p%29.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Kung_Fu_Futebol">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Kung Fu Futebol</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/h7d2b5y519kwghm/kung_futebol.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Lego_super_girls">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Lego super Girls</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/9euazbkc6gkc00j/Lego.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="liga_justiça">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Liga da justiça</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/gmwi81r0hyxv387/liga_da_justica.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="little_witch_academia">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Little Witch Academia</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/iztaimac6rkzfti/Little_Witch_Academia_A_Parada_Encantada-HD%20%28convert-video-online.com%29.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Mazinger_Infinit">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Mazinger Z Infinit</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/wnxeyusn2gnvzls/Mazinger.Z.Infinito.Dublado.720.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Megatubarão">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Megatubarão</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/5g6zc8kv4ksoeg5/Megatubarao.2018.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Meu_Ex_Espião">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Meu Ex é um Espião</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/2l9obee368gq346/Meu%20Ex%20%C3%A9%20um%20espi%C3%A3o.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="MIB_Homens_Preto_Inter">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>MIB-Homens de Preto International</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/wtxxgcwzh2b7r18/MIB-Homens%20de%20Preto%20Internacional%20%282019%29.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Minha_Mã_Peça3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Minha Mãe é uma Peça</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/cfyqp0oh2u1z37n/Minha.MAE.E.UMA.PECA.3.O.FILME.2019.1080P-POR-CINEMAQUALIDADE.IS.MP4?dl=1 </String></Pair>
+      </Table>
+			<Table key="Motoqueiro_Fantasma">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Motoqueiro Fantasma</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/vsnp968bl01aydu/Motoqueiro_fantasma.avi?dl=1</String></Pair>
+      </Table>
+			<Table key="Motoqueiro_Fantasma2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Motoqueiro Fantasma Espirito de Vingança</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/wjaru2ekm4532pk/motoqueiro_fantasma_espirito.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Mulher_preto">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Mulher de preto</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ai2agwlhhdgrcs6/mulher_de_preto.avi?dl=1</String></Pair>
+      </Table>
+			<Table key="Mulher_preto2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Mulher de preto 2</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/au9mrk7w2mj6ef4/mulher_de_preto2.avi?dl=1</String></Pair>
+      </Table>
+			<Table key="Mulher_Maravilha">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Mulher Maravilha</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/inhotlok3dfyqc6/mulher_maravilha.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Mulher_Maravilha_Linhagem_Sangue">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Mulher Maravilha Linhagem de Sangue</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/mpsidikn9zjnv84/Mulher%20Maravilha-Linhagem%20de%20Sangue%20%282019%29.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Next_Gen">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Next Gen</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/6goftbqx89s0whj/next_gen.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Irlandês">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>O Irlandês</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/bpl79n0ndgq29ng/O%20Irland%C3%AAs%20%282019%29.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Predador">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>O Predador</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ok4389nsr34u25h/O.Predador.2018.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Primeiro_Homem">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>O Primeiro Homem</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/6seu8d9fzbhccwa/O.Primeiro.Homem.2019.IMAX.720p.BluRay.x264.DUBLADO-WWW.BLUDV.TV.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Protetor2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>O Protetor 2</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/yibgyr5rxnhymaf/O.Protetor.2.2018.720p.BluRay.x264.DUBLADO.WWW.COMANDOTORRENTS.COM%29.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Incriveis2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Os Incriveis 2</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/q2epb6m2ogebupc/Os.Incr%C3%ADveis.2.2018.720p.WEB-DL.x264.DUBLADO-WWW.BLUDV.TV.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Pantera_Negra">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Pantera Negra</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/2nxjz1dt2wjg6nt/Pantera.Negra.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Para_todos_garotos_amei">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Para todos os garotos que ja amei</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/5l58on1l83b22bu/para_todos_guys_que_ja_ammmeiei.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Pets2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Pets-A Vida Secreta dos Bichos 2</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/xkuc6cs08s31g10/Pets-A%20Vida%20Secreta%20dos%20Bichos%202%20%282019%29.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Pica_Pau">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Pica-Pau - O Filme</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/zjrxidx7h45jtjn/Pica_pau.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Ponte_Terabitia">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Ponte para Terabitia</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ccfstiw8t7zhytl/ponte_para_terabitia.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="ProjetoX">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Projeto X - Uma Festa Fora de Controle</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/6asi81j99mosqr2/projeto_x.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Quanto_Mais_Idiota_Melhor">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Quanto Mais Idiota Melhor</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/idtlf3sadtc2odo/Quanto%20Mais%20Idiota%20Melhor%20%281992%29%20BRrip%20Blu-Ray%20720p%20Dublado%20Dat2015.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Rampage_Destruição_Total">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Rampage - Destruição Total</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/7lwqkzq5iciu63a/Rampage.Destrui%C3%A7%C3%A3o.Total.2018.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="ResidentEvil">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Resident Evil - Hospede Maldito</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/jmdmsl3beijfurb/Resident%20Evil%201%20-%20O%20Hospede%20Maldito.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="ResidentEvil2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Resident Evil- Apocalypse</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/4oc9vmw645cmdi0/Resident%20Evil%202%20-%20Apocalipse.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="ResidentEvil3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Resident Evil- Extinção</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ovibr7lnuszcb4b/Resident%20Evil%203%20-%20A%20Extin%C3%A7%C3%A3o.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="ResidentEvil4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Resident Evil- O Recomeço</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/vb6yjegntphig1m/Resident%20Evil%204%20-%20Recome%C3%A7o.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="ResidentEvil5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Resident Evil- Retribuição</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/y6hsysphi1bpky9/Resident%20Evil%205%20-%20Retribui%C3%A7%C3%A3o.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="ResidentEvil6">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Resident Evil- Capitulo Final</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/exp01g46akpnmm5/Resident%20Evil%206%20-%20O%20Cap%C3%ADtulo%20Final.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="ResidentEvil7">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Resident Evil- Condenação</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/gs6l45a08azd570/Resident%20Evil%20-%20Condena%C3%A7%C3%A3o.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="ResidentEvil8">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Resident Evil- Degeneração </String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/6ubweqx13tztg44/Resident%20Evil%20-%20Degenera%C3%A7%C3%A3o.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="ResidentEvil9">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Resident Evil- Vendetta</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/6wvtjs4ibr8zfhm/Resident%20Evil%20-%20Vendetta.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="RockyBalboa">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>				<Pair key="title"><String>Rocky Balboa</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/va3gszy3m6gjkha/1.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="RockyBalboa2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Rocky Balboa 2</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/pgvz9mdkp4q2b18/2.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="RockyBalboa3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Rocky Balboa 3</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/mdckjtncrkp3fto/3.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="RockyBalboa4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Rocky Balboa 4</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/sw3ii8nm7yl2x82/4.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="RockyBalboa5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Rocky Balboa 5</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/yyhpr6g4jwr6d4l/5.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Sonic">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Sonic</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/6fxnsg18jxzx86q/S4NICLEGHD-BAIXO.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="SupermanSol">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Super Man Sol Vermelho</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/abcj0ysrtnm12p7/SUPERMANREDSONLEG-BAIXO.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Shiki_Oriori">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Shiki Oriori</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/0ps9ee0i1cpvhg4/Shiki%20Oriori%20O%20Sabor%20da%20Juventude.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Starwars">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Star Wars</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/c9ol2kfkt5vv2of/1999%20-%20Star%20Wars%20I%20-%20A%20Amea%C3%A7a%20Fantasma.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Starwars2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Star Wars 2</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/6v1sd5ge1hp18bi/2002%20-%20Star%20Wars%20II%20-%20O%20Ataque%20Dos%20Clones.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Starwars3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Star Wars 3</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/wcnp1snsocfh3i5/2005%20-%20Star%20Wars%20III%20-%20A%20Vingan%C3%A7a%20Dos%20Sith.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Starwars4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Star Wars 4</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/tdd19jh29f4kb9n/1977%20-%20Star%20Wars%20IV%20-%20Uma%20Nova%20Esperan%C3%A7a.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Starwars5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Star Wars 5</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/k2ppasvvwbw6d24/1980%20-%20Star%20Wars%20V%20-%20O%20Imperio%20Contra%20Ataca.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Starwars6">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Star Wars 6</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/eb19luemknvtuza/1983%20-%20Star%20Wars%20VI%20-%20O%20Retorno%20do%20Jedi.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Starwars7">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Star Wars 7</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/o3pm60ohuop3m7w/Star.WARS.VII.THE.FORCE.AWAKENS.2015.MP4?dl=1</String></Pair>
+      </Table>
+			<Table key="Starwars8">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Star Wars 8</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/clnh4tubqh6zrm9/Star.WARS.VIII.THE.LAST.JEDI.2017..MP4?dl=1</String></Pair>
+      </Table>
+			<Table key="Starwars9">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Star Wars 9</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/fhjkje3l1kmqz9h/Star.WARS.THE.RISE.OF.SKYWALKER.2019.MP4?dl=1</String></Pair>
+      </Table>
+			<Table key="RogueOne_StarWars">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Rogue One Uma Historia Star Wars</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/fqg51dh9oxd9uua/Rogue.one.2016.720p.bluray.x264.sparks.Dub.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="HanSolo">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>HanSolo Star Wars</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ml99u2wtu3o9nu0/Dublado.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Steven_Universo">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Steven Universo O Filme</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/vf5pr6ozqg9b3ft/Steven%20Universo%20O%20Filme%20%282019%29.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Tal_Pai_Tal_filha">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Tal Pai Tal filha</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/8g1ajo5cearkw1n/196QE7vbU9qyNnoyBxpn42fF3biPCBwvc.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Taylor_Swift_Reputation">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Taylor Swift: Reputation Stadium Tour</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/mog16iacmtedbyx/Taylor.Swift.Reputation.Stadium.Tour.2018.WEBRip.720p.Legendado-WWW.FILMESNOMEGA.INFO.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Tempestade_Furia">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Tempestade de Furia</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/6k59msin69p7j6q/tempestadefuria.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Girl_Spider_Web">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>The Girl in the Spider's Web</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/lk0iiopvs0skozr/The.Girl.in.the.Spider%27s.Web.2018.720p.HDCAM.Dublado.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Joker">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>The Coringa</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>_</String></Pair>
+      </Table>
+			<Table key="Thor_Ragnarok">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Thor Ragnarok</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/7smboy2oglh1v2l/Thor.Ragnarok.2018.720p.BluRay.x264.DUBLADO-WWW.COMANDOTORRENTS.COM.avi?dl=1</String></Pair>
+      </Table>
+			<Table key="TombRaide_Origem">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Tomb Raider A Origem</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/fz390ta6wotqthl/Tomb.Raider.A.Origem.2018.720p.BluRay.x264-DUBLADO.WWW.COMANDOTORRENTS.COM.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="ToyStory4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Toy Story 4</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/6vvbc8n5qcj8qr4/Toy%20Story%204%20%282019%29.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Hotel_Transilvânia3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Hotel Transilvânia 3</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/tf2lzl2gzuwtklo/Hotel.Transilv%C3%A2nia.3.F%C3%A9rias.Monstruosas.2018.720p.BluRay.x264.DUBLADO-WWW.BLUDV.TV.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Lugar_Silencioso">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Um Lugar Silencioso</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ff3uzwsfjfr33rm/Um.Lugar.Silencioso.2018.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="noite_crime3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Uma noite de crime 3</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/xxeo02ndackhl52/uma_noite_de_crime3.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="teeth">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Vagina Dentada</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/9b1s0ye515rs3w4/Teeth%5B2007%5DDvDrip%5BEng%5D-aXXo.avi?dl=1</String></Pair>
+      </Table>
+			<Table key="Vanhelsing">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Vanhelsing</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/266ooobblfe9gkx/van_helsing.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Velozes_furioso">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Velozes e Furiosos</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/qlztaei962ng9g0/Velozes%20%26%20Furiosos%201%20%282001%29%201080p%20Dublado.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Velozes_furioso2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Velozes Furiosos 2</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/5trvkwfc0vmak5x/Velozes%20%26%20Furiosos%202%20%282003%29%201080p%20Dublado.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Velozes_furioso3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Velozes Furiosos 3</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>_</String></Pair>
+      </Table>
+			<Table key="Velozes_furioso4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Velozes Furiosos 4</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>_</String></Pair>
+      </Table>
+			<Table key="Velozes_furioso5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Velozes Furiosos 5</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/g07e4eovh3it4xv/Velozes%20%26%20Furiosos%205%20%282011%29.MP4.DUB.BaixarSeriesMP4.Com.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Velozes_furioso6">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Velozes Furiosos 6</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>_</String></Pair>
+      </Table>
+			<Table key="Velozes_furioso7">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Velozes Furiosos 7</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/mwl5kvui4gzsa51/Velozes%20e%20Furiosos%207%20HD%20%23KingBulls%23.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Velozes_furioso8">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Velozes Furiosos 8</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/e8fu9bwb5h3pouo/Velozes.e.Furiosos.8.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Velozes_Furiosos_Hobbs_Shaw">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Velozes & Furiosos-Hobbs & Shaw</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/zylujim187fecje/Velozes%20%26%20Furiosos-Hobbs%20%26%20Shaw%20%282019%29.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Venom">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Venom</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/1luigj693xxo4tc/Venom.2018.V2.HDRip.XviD.AC3-EVO.avi?dl=1</String></Pair>
+		  </Table>		
+			<Table key="Vingadores">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>				<Pair key="title"><String>Vingadores</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/mkqn7tp1gq0idq3/Os%20Vingadores.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Vingadores_Utron">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Vingadores Era do Utron</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/98m51a18aw5pfyt/Vingadores.Era.de.Ultron.2015.720p.BluRay.Dual-WOLVERDONFILMES.COM.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Vingadores_Guerra">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Vingadores Guerra Infinita</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/u89tc5gb4a7ew4p/Vingadores_Guerra_Infinita.mp4?dl=1</String></Pair>
+      </Table>
+			<Table key="Zombieland2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Zombie Land 2</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/f0sxs7ep694yygs/Zombie%20Land%202%20.mp4?dl=1</String></Pair>
+      
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="50_tons_de_liberdade"
+        attr="50_tons_de_liberdade"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="A_Barraca_Do_Beijo"
+        attr="A_Barraca_Do_Beijo"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="A_Freira"
+        attr="A_Freira"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="A_Morte_Retorno_Superman"
+        attr="A_Morte_Retorno_Superman"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="A_Mulher_Mais_Assassinada_Mundo"
+        attr="A_Mulher_Mais_Assassinada_Mundo"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="A_Origem"
+        attr="A_Origem"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="A_viagem_de_Chihiro"
+        attr="A_viagem_de_Chihiro"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Angry_Birds_2"
+        attr="Angry_Birds_2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Anna_O_Perigo_tem_nome"
+        attr="Anna_O_Perigo_tem_nome"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Annabelle_2"
+        attr="Annabelle_2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Batman_Ninja"
+        attr="Batman_Ninja"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Batman_Silêncio"
+        attr="Batman_Silêncio"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Batman_vs_Superman"
+        attr="Batman_vs_Superman"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Beirute"
+        attr="Beirute"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="BirdBox"
+        attr="BirdBox"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Bleach"
+        attr="Bleach"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Bohemian_Rhapsody"
+        attr="Bohemian_Rhapsody"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Cinquenta_Tons_Preto"
+        attr="Cinquenta_Tons_Preto"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Círculo_Fogo_Revolta"
+        attr="Círculo_Fogo_Revolta"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Code8"
+        attr="Code8"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Com_proprias_mão"
+        attr="Com_proprias_mão"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="crepusculo"
+        attr="crepusculo"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Crepusculo_Lua_Nova"
+        attr="Crepusculo_Lua_Nova"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Crepusculo_Amanhecer"
+        attr="Crepusculo_Amanhecer"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Crepusculo_Amanhecer2"
+        attr="Crepusculo_Amanhecer2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Crisis_Terras_Infinitas"
+        attr="Crisis_Terras_Infinitas"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Deadpool"
+        attr="Deadpool"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Deadpool2"
+        attr="Deadpool2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Detroit_Cidade_Rock"
+        attr="Detroit_Cidade_Rock"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Fundo_Mar2"
+        attr="Fundo_Mar2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Frozen"
+        attr="Frozen"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Frozen2"
+        attr="Frozen2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Godzilla_Devorador_Planetas"
+        attr="Godzilla_Devorador_Planetas"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Harry_Potter_Camara_Secreta"
+        attr="Harry_Potter_Camara_Secreta"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Harry_Potter_Ordem_Fenix"
+        attr="Harry_Potter_Ordem_Fenix"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Harry_Potter_Pedra_Filosofal"
+        attr="Harry_Potter_Pedra_Filosofal"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Harry_Potter_Reliquias_Morte"
+        attr="Harry_Potter_Reliquias_Morte"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Harry_Potter_Reliquias_Morte2"
+        attr="Harry_Potter_Reliquias_Morte2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Harry_Potter_Calice_Fogo"
+        attr="Harry_Potter_Calice_Fogo"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Harry_Potter_Enigma_Principe"
+        attr="Harry_Potter_Enigma_Principe"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Harry_Potter_Prisioneiro_Azkaban"
+        attr="Harry_Potter_Prisioneiro_Azkaban"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Hellboy"
+        attr="Hellboy"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="HomemAranha"
+        attr="HomemAranha"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="HomemAranha2"
+        attr="HomemAranha2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="HomemAranha3"
+        attr="HomemAranha3"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="HomemAranha_volta_lar"
+        attr="HomemAranha_volta_lar"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="HomemAranha_Aranhaverso"
+        attr="HomemAranha_Aranhaverso"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="HomemFormiga"
+        attr="HomemFormiga"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="HomemFormiga_Vespa"
+        attr="HomemFormiga_Vespa"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Hotel_Transylvania"
+        attr="Hotel_Transylvania"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Invasores_Nenhum_Sistema Está_Salvo"
+        attr="Invasores_Nenhum_Sistema Está_Salvo"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Invocação_Mal2"
+        attr="Invocação_Mal2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="It_coisa"
+        attr="It_coisa2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Jogador_N1"
+        attr="Jogador_N1"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Jogos_Mortais"
+        attr="Jogos_Mortais"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Jogos_Mortais2"
+        attr="Jogos_Mortais2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Jogos_Mortais3"
+        attr="Jogos_Mortais3"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Jogos_Mortais4"
+        attr="Jogos_Mortais4"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Jogos_Mortais5"
+        attr="Jogos_Mortais5"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Jogos_Mortais6"
+        attr="Jogos_Mortais6"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Jogos_Mortais7"
+        attr="Jogos_Mortais7"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Jumanji"
+        attr="Jumanji"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="jumanji2"
+        attr="jumanji2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Jurassic_World_Reino_Ameaçado"
+        attr="Jurassic_World_Reino_Ameaçado"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Kung_Fu_Futebol"
+        attr="Kung_Fu_Futebol"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="liga_justiça"
+        attr="liga_justiça"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Lego_super_girls"
+        attr="Lego_super_girls"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="little_witch_academia"
+        attr="little_witch_academia"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Mazinger_Infinit"
+        attr="Mazinger_Infinit"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Megatubarão"
+        attr="Megatubarão"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Meu_Ex_Espião"
+        attr="Meu_Ex_Espião"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="MIB_Homens_Preto_Inter"
+        attr="MIB_Homens_Preto_Inter"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Minha_Mã_Peça3"
+        attr="Minha_Mã_Peça3"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Motoqueiro_Fantasma"
+        attr="Motoqueiro_Fantasma"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Motoqueiro_Fantasma2"
+        attr="Motoqueiro_Fantasma2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Mulher_preto"
+        attr="Mulher_preto"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Mulher_preto2"
+        attr="Mulher_preto2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Mulher_Maravilha"
+        attr="Mulher_Maravilha"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Mulher_Maravilha_Linhagem_Sangue"
+        attr="Mulher_Maravilha_Linhagem_Sangue"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Next_Gen"
+        attr="Next_Gen"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Irlandês"
+        attr="Irlandês"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Predador"
+        attr="Predador"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Primeiro_Homem"
+        attr="Primeiro_Homem"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Protetor2"
+        attr="Protetor2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Incriveis2"
+        attr="Incriveis2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Pantera_Negra"
+        attr="Pantera_Negra"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Para_todos_garotos_amei"
+        attr="Para_todos_garotos_amei"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Pets2"
+        attr="Pets2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Pica_Pau"
+        attr="Pica_Pau"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Ponte_Terabitia"
+        attr="Ponte_Terabitia"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ProjetoX"
+        attr="ProjetoX"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Quanto_Mais_Idiota_Melhor"
+        attr="Quanto_Mais_Idiota_Melhor"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Rampage_Destruição_Total"
+        attr="Rampage_Destruição_Total"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ResidentEvil"
+        attr="ResidentEvil"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ResidentEvil2"
+        attr="ResidentEvil2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ResidentEvil3"
+        attr="ResidentEvil3"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ResidentEvil4"
+        attr="ResidentEvil4"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ResidentEvil5"
+        attr="ResidentEvil5"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ResidentEvil6"
+        attr="ResidentEvil6"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ResidentEvil7"
+        attr="ResidentEvil7"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ResidentEvil8"
+        attr="ResidentEvil8"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ResidentEvil9"
+        attr="ResidentEvil9"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="RockyBalboa"
+        attr="RockyBalboa"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="RockyBalboa2"
+        attr="RockyBalboa2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="RockyBalboa3"
+        attr="RockyBalboa3"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="RockyBalboa4"
+        attr="RockyBalboa4"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="RockyBalboa5"
+        attr="RockyBalboa5"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Sonic"
+        attr="Sonic"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="SupermanSol"
+        attr="SupermanSol"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Shiki_Oriori"
+        attr="Shiki_Oriori"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Starwars"
+        attr="Starwars"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Starwars2"
+        attr="Starwars2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Starwars3"
+        attr="Starwars3"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Starwars4"
+        attr="Starwars4"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Starwars5"
+        attr="Starwars5"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Starwars6"
+        attr="Starwars6"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Starwars7"
+        attr="Starwars7"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Starwars8"
+        attr="Starwars8"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Starwars9"
+        attr="Starwars9"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="RogueOne_StarWars"
+        attr="RogueOne_StarWars"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="HanSolo"
+        attr="HanSolo"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Steven_Universo"
+        attr="Steven_Universo"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Tal_Pai_Tal_filha"
+        attr="Tal_Pai_Tal_filha"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Taylor_Swift_Reputation"
+        attr="Taylor_Swift_Reputation"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Tempestade_Furia"
+        attr="Tempestade_Furia"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Girl_Spider_Web"
+        attr="Girl_Spider_Web"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Joker"
+        attr="Joker"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Thor_Ragnarok"
+        attr="Thor_Ragnarok"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="TombRaide_Origem"
+        attr="TombRaide_Origem"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ToyStory4"
+        attr="ToyStory4"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Hotel_Transilvânia3"
+        attr="Hotel_Transilvânia3"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Lugar_Silencioso"
+        attr="Lugar_Silencioso"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="noite_crime3"
+        attr="noite_crime3"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="teeth"
+        attr="teeth"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Vanhelsing"
+        attr="Vanhelsing"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Velozes_furioso"
+        attr="Velozes_furioso"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Velozes_furioso2"
+        attr="Velozes_furioso2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Velozes_furioso3"
+        attr="Velozes_furioso3"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Velozes_furioso4"
+        attr="Velozes_furioso4"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Velozes_furioso5"
+        attr="Velozes_furioso5"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Velozes_furioso6"
+        attr="Velozes_furioso6"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Velozes_furioso7"
+        attr="Velozes_furioso7"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Velozes_furioso8"
+        attr="Velozes_furioso8"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Velozes_Furiosos_Hobbs_Shaw"
+        attr="Velozes_Furiosos_Hobbs_Shaw"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Venom"
+        attr="Venom"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Vingadores"
+        attr="Vingadores"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Vingadores_Utron"
+        attr="Vingadores_Utron"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Vingadores_Guerra"
+        attr="Vingadores_Guerra"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="Zombieland2"
+        attr="Zombieland2"/>
+		</Items>
+	</View>
+
+</XMBML>

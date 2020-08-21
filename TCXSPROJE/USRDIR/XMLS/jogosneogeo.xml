@@ -1,0 +1,338 @@
+<XMBML version="1.0">
+	<View id="jogosneogeo_items">
+
+        <Attributes>
+
+            <!--DEATH STORE VI-->
+            <!--MENU DE Alpha Mission 2-->
+            <Table key="neogeo_alphamission2">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/alphamission2.jpg</String></Pair>
+                <Pair key="title"><String>Alpha Mission II</String></Pair>
+                <Pair key="info"><String>Idioma - Dublagem em: INGLÊS - Legendas em: INGLÊS - Tamanho: 57 Mb</String></Pair>
+            </Table>
+            <!--MENU DE Art of Fighting-->
+            <Table key="neogeo_artoffighting">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/artoffighting.jpg</String></Pair>
+                <Pair key="title"><String>Art of Fighting</String></Pair>
+                <Pair key="info"><String>Idioma - Dublagem em: INGLÊS - Legendas em: INGLÊS - Tamanho: 52 Mb</String></Pair>
+            </Table>
+            <!--MENU DE Baseball Stars Professional-->
+            <Table key="neogeo_baseballstarsprofessional">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/baseballstarsprofessional.jpg</String></Pair>
+                <Pair key="title"><String>Baseball Stars Professional</String></Pair>
+                <Pair key="info"><String>Idioma - Dublagem em: INGLÊS - Legendas em: INGLÊS - Tamanho: 50 Mb</String></Pair>
+            </Table>
+            <!--MENU DE Fatal Fury-->
+            <Table key="neogeo_fatalfury">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/fatalfury.jpg</String></Pair>
+                <Pair key="title"><String>Fatal Fury</String></Pair>
+                <Pair key="info"><String>Idioma - Dublagem em: INGLÊS - Legendas em: INGLÊS - Tamanho: 56 Mb</String></Pair>
+            </Table>
+            <!--MENU DE The King of Fighters 94-->
+            <Table key="neogeo_thekingoffighters94">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/thekingoffighters94.jpg</String></Pair>
+                <Pair key="title"><String>The King of Fighters 94</String></Pair>
+                <Pair key="info"><String>Idioma - Dublagem em: INGLÊS - Legendas em: INGLÊS - Tamanho: 62 Mb</String></Pair>
+            </Table>
+            <!--MENU DE The King of Fighters 95-->
+            <Table key="neogeo_thekingoffighters95">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/thekingoffighters95.jpg</String></Pair>
+                <Pair key="title"><String>The King of Fighters 95</String></Pair>
+                <Pair key="info"><String>Idioma - Dublagem em: INGLÊS - Legendas em: INGLÊS - Tamanho: 67 Mb</String></Pair>
+            </Table>
+            <!--MENU DE The King of Fighters 96-->
+            <Table key="neogeo_thekingoffighters96">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/thekingoffighters96.jpg</String></Pair>
+                <Pair key="title"><String>The King of Fighters 96</String></Pair>
+                <Pair key="info"><String>Idioma - Dublagem em: INGLÊS - Legendas em: INGLÊS - Tamanho: 88   Mb</String></Pair>
+            </Table>
+            <!--MENU DE League Bowling-->
+            <Table key="neogeo_leaguebowling">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/leaguebowling.jpg</String></Pair>
+                <Pair key="title"><String>League Bowling</String></Pair>
+                <Pair key="info"><String>Idioma - Dublagem em: INGLÊS - Legendas em: INGLÊS - Tamanho: 38 Mb</String></Pair>
+            </Table>
+            <!--MENU DE Magician Lord-->
+            <Table key="neogeo_magicianlord">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/magicianlord.jpg</String></Pair>
+                <Pair key="title"><String>Magician Lord</String></Pair>
+                <Pair key="info"><String>Idioma - Dublagem em: INGLÊS - Legendas em: INGLÊS - Tamanho: 57 Mb</String></Pair>
+            </Table>
+            <!--MENU DE Metal Slug 1-->
+            <Table key="neogeo_metalslug1">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/metalslug1.jpg</String></Pair>
+                <Pair key="title"><String>Metal Slug 1</String></Pair>
+                <Pair key="info"><String>Idioma - Dublagem em: INGLÊS - Legendas em: INGLÊS - Tamanho: 61 Mb</String></Pair>
+            </Table>
+            <!--MENU DE Metal Slug 2-->
+            <Table key="neogeo_metalslug2">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/metalslug2.jpg</String></Pair>
+                <Pair key="title"><String>Metal Slug 2</String></Pair>
+                <Pair key="info"><String>Idioma - Dublagem em: INGLÊS - Legendas em: INGLÊS - Tamanho: 88 Mb</String></Pair>
+            </Table>
+            <!--MENU DE Samurai Shodown-->
+            <Table key="neogeo_samuraishodown">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/samuraishodown.jpg</String></Pair>
+                <Pair key="title"><String>Samurai Shodown</String></Pair>
+                <Pair key="info"><String>Idioma - Dublagem em: INGLÊS - Legendas em: INGLÊS - Tamanho: 65 Mb</String></Pair>
+            </Table>
+            <!--MENU DE Shock Troopers-->
+            <Table key="neogeo_shocktroopers">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/shocktroopers.jpg</String></Pair>
+                <Pair key="title"><String>Shock Troopers</String></Pair>
+                <Pair key="info"><String>Idioma - Dublagem em: INGLÊS - Legendas em: INGLÊS - Tamanho: 75 Mb</String></Pair>
+            </Table>
+            <!--MENU DE Super Sidekicks-->
+            <Table key="neogeo_supersidekicks">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/supersidekicks.jpg</String></Pair>
+                <Pair key="title"><String>Super Sidekicks</String></Pair>
+                <Pair key="info"><String>Idioma - Dublagem em: INGLÊS - Legendas em: INGLÊS - Tamanho: 53 Mb</String></Pair>
+            </Table>
+            <!--MENU DE World Heroes-->
+            <Table key="neogeo_worldheroes">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/worldheroes.jpg</String></Pair>
+                <Pair key="title"><String>World Heroes</String></Pair>
+                <Pair key="info"><String>Idioma - Dublagem em: INGLÊS - Legendas em: INGLÊS - Tamanho: 48 Mb</String></Pair>
+            </Table>
+
+
+		</Attributes>
+
+
+		<Items>
+            <Query class="type:x-xmb/folder-pixmap" key="neogeo_alphamission2" attr="neogeo_alphamission2" src="#neogeo_alphamission2_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="neogeo_artoffighting" attr="neogeo_artoffighting" src="#neogeo_artoffighting_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="neogeo_baseballstarsprofessional" attr="neogeo_baseballstarsprofessional" src="#neogeo_baseballstarsprofessional_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="neogeo_fatalfury" attr="neogeo_fatalfury" src="#neogeo_fatalfury_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="neogeo_leaguebowling" attr="neogeo_leaguebowling" src="#neogeo_leaguebowling_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="neogeo_magicianlord" attr="neogeo_magicianlord" src="#neogeo_magicianlord_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="neogeo_metalslug1" attr="neogeo_metalslug1" src="#neogeo_metalslug1_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="neogeo_metalslug2" attr="neogeo_metalslug2" src="#neogeo_metalslug2_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="neogeo_samuraishodown" attr="neogeo_samuraishodown" src="#neogeo_samuraishodown_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="neogeo_shocktroopers" attr="neogeo_shocktroopers" src="#neogeo_shocktroopers_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="neogeo_supersidekicks" attr="neogeo_supersidekicks" src="#neogeo_supersidekicks_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="neogeo_thekingoffighters94" attr="neogeo_thekingoffighters94" src="#neogeo_thekingoffighters94_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="neogeo_thekingoffighters95" attr="neogeo_thekingoffighters95" src="#neogeo_thekingoffighters95_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="neogeo_thekingoffighters96" attr="neogeo_thekingoffighters96" src="#neogeo_thekingoffighters96_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="neogeo_worldheroes" attr="neogeo_worldheroes" src="#neogeo_worldheroes_link" />
+		</Items>
+	</View>
+
+
+
+
+
+    <!--LINKS DE Alpha Mission 2-->
+    <View id="neogeo_alphamission2_link">
+        <Attributes>
+            <Table key="neogeo_alphamission2_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/kx9uh3c8fuf87by/AlphaMission2.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/kx9uh3c8fuf87by/AlphaMission2.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0576-NPUB30263_00-NEOGEOSTATION009</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/alphamission2.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="neogeo_alphamission2_link" attr="neogeo_alphamission2_link" /></Items>
+    </View>
+    <!--LINKS DE Art of Fighting-->
+    <View id="neogeo_artoffighting_link">
+        <Attributes>
+            <Table key="neogeo_artoffighting_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/6lw4gmafi31t99r/ArtofFighting.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/6lw4gmafi31t99r/ArtofFighting.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0576-NPUB30261_00-NEOGEOSTATION004</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/artoffighting.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="neogeo_artoffighting_link" attr="neogeo_artoffighting_link" /></Items>
+    </View>
+    <!--LINKS DE Baseball Stars Professional-->
+    <View id="neogeo_baseballstarsprofessional_link">
+        <Attributes>
+            <Table key="neogeo_baseballstarsprofessional_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/au50kap7k2l4bv4/BaseballStarsProfessional.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/au50kap7k2l4bv4/BaseballStarsProfessional.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0576-NPUB30262_00-NEOGEOSTATION007</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/baseballstarsprofessional.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="neogeo_baseballstarsprofessional_link" attr="neogeo_baseballstarsprofessional_link" /></Items>
+    </View>
+    <!--LINKS DE Fatal Fury-->
+    <View id="neogeo_fatalfury_link">
+        <Attributes>
+            <Table key="neogeo_fatalfury_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/iy8x4kxiwu00059/FatalFury.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/iy8x4kxiwu00059/FatalFury.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0576-NPUB30260_00-NEOGEOSTATION001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/fatalfury.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="neogeo_fatalfury_link" attr="neogeo_fatalfury_link" /></Items>
+    </View>
+    <!--LINKS DE The King of Fighters 94-->
+    <View id="neogeo_thekingoffighters94_link">
+        <Attributes>
+            <Table key="neogeo_thekingoffighters94_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/9w7k8soe19quaxz/KingofFighters94.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/9w7k8soe19quaxz/KingofFighters94.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0576-NPUB30266_00-NEOGEOSTATION003</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/thekingoffighters94.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="neogeo_thekingoffighters94_link" attr="neogeo_thekingoffighters94_link" /></Items>
+    </View>
+    <!--LINKS DE The King of Fighters 95-->
+    <View id="neogeo_thekingoffighters95_link">
+        <Attributes>
+            <Table key="neogeo_thekingoffighters95_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/7maeymmt2ekzn63/KingofFighters95.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/7maeymmt2ekzn63/KingofFighters95.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0576-NPJB70012_00-NEOGEOSTATION014</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/thekingoffighters95.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="neogeo_thekingoffighters95_link" attr="neogeo_thekingoffighters95_link" /></Items>
+    </View>
+    <!--LINKS DE The King of Fighters 96-->
+    <View id="neogeo_thekingoffighters96_link">
+        <Attributes>
+            <Table key="neogeo_thekingoffighters96_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/6pfch9uzsgcq7jn/KingofFighters96.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/6pfch9uzsgcq7jn/KingofFighters96.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0576-NPJB70015_00-NEOGEOSTATION022</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/thekingoffighters96.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="neogeo_thekingoffighters96_link" attr="neogeo_thekingoffighters96_link" /></Items>
+    </View>
+    <!--LINKS DE League Bowling-->
+    <View id="neogeo_leaguebowling_link">
+        <Attributes>
+            <Table key="neogeo_leaguebowling_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/lcevkxv96arjgp8/LeagueBowling.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/lcevkxv96arjgp8/LeagueBowling.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0576-NPUB30257_00-NEOGEOSTATION010</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/leaguebowling.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="neogeo_leaguebowling_link" attr="neogeo_leaguebowling_link" /></Items>
+    </View>
+    <!--LINKS DE Magician Lord-->
+    <View id="neogeo_magicianlord_link">
+        <Attributes>
+            <Table key="neogeo_magicianlord_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/zdjplo69x3s6i1b/MagicianLord.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/zdjplo69x3s6i1b/MagicianLord.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0576-NPUB30264_00-NEOGEOSTATION006</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/magicianlord.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="neogeo_magicianlord_link" attr="neogeo_magicianlord_link" /></Items>
+    </View>
+    <!--LINKS DE Metal Slug 1-->
+    <View id="neogeo_metalslug1_link">
+        <Attributes>
+            <Table key="neogeo_metalslug1_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/ebidkwp0au2syyc/MetalSlug.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/ebidkwp0au2syyc/MetalSlug.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0576-NPUB30258_00-NEOGEOSTATION005</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/metalslug1.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="neogeo_metalslug1_link" attr="neogeo_metalslug1_link" /></Items>
+    </View>
+    <!--LINKS DE Metal Slug 2-->
+    <View id="neogeo_metalslug2_link">
+        <Attributes>
+            <Table key="neogeo_metalslug2_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/hgfwzxnrlsflkv4/MetalSlug2.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/hgfwzxnrlsflkv4/MetalSlug2.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0576-NPEB00681_00-NEOGEOSTATION021</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/metalslug2.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="neogeo_metalslug2_link" attr="neogeo_metalslug2_link" /></Items>
+    </View>
+    <!--LINKS DE Samurai Shodown-->
+    <View id="neogeo_samuraishodown_link">
+        <Attributes>
+            <Table key="neogeo_samuraishodown_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/himiugjwjmqm6y4/SamuraiShodown.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/himiugjwjmqm6y4/SamuraiShodown.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0576-NPUB30265_00-NEOGEOSTATION002</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/samuraishodown.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="neogeo_samuraishodown_link" attr="neogeo_samuraishodown_link" /></Items>
+    </View>
+    <!--LINKS DE Shock Troopers-->
+    <View id="neogeo_shocktroopers_link">
+        <Attributes>
+            <Table key="neogeo_shocktroopers_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/56jxapc12p4pmdm/ShockTroopers.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/56jxapc12p4pmdm/ShockTroopers.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0576-NPJB70014_00-NEOGEOSTATION013</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/shocktroopers.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="neogeo_shocktroopers_link" attr="neogeo_shocktroopers_link" /></Items>
+    </View>
+    <!--LINKS DE Super Sidekicks-->
+    <View id="neogeo_supersidekicks_link">
+        <Attributes>
+            <Table key="neogeo_supersidekicks_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/dnixyaq4coy4ao7/SuperSidekicks.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/dnixyaq4coy4ao7/SuperSidekicks.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0576-NPUB30259_00-NEOGEOSTATION008</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/supersidekicks.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="neogeo_supersidekicks_link" attr="neogeo_supersidekicks_link" /></Items>
+    </View>
+    <!--LINKS DE World Heroes-->
+    <View id="neogeo_worldheroes_link">
+        <Attributes>
+            <Table key="neogeo_worldheroes_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/vdd7wn1xx7ymyxq/WorldHeroes.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/vdd7wn1xx7ymyxq/WorldHeroes.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0576-NPJB70013_00-NEOGEOSTATION012</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/NEOGEO/worldheroes.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="neogeo_worldheroes_link" attr="neogeo_worldheroes_link" /></Items>
+    </View>
+
+
+
+</XMBML>

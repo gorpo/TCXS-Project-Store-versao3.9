@@ -1,0 +1,65 @@
+<XMBML version="1.0">
+	<View id="ascrogue_items">
+		<Attributes>
+			<Table key="ascrogue_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Commander ULC</String></Pair>
+				<Pair key="info"><String>TCXS - BLES02061</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP0001/BLES02061_00/NAKigbQqUVWubrxnrPxiKpwZITKcOPWGZTUKdScfgnWEyESOSOnrzvIrgcQtQeiG.pkg</String></Pair>
+      </Table>
+			<Table key="ascrogue_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Fort de Sable</String></Pair>
+				<Pair key="info"><String>TCXS - BLES02061</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP0001/BLES02061_00/DKjKFNbkPSCXWfAigZfKpdqrVDFCSgfhSPvclMQqIPPanhxwtLrpiTvVyebIEDNt.pkg</String></Pair>
+      </Table>
+			<Table key="ascrogue_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Officer ULC</String></Pair>
+				<Pair key="info"><String>TCXS - BLES02061</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP0001/BLES02061_00/LArACluVOkhnEbAFSxUIxLcIgHHFVFFZENlRuRCgsLQkCGiBdEqcyuOxtEpBetyUAkdZobFJMWdELPbRauXLhnwBPjYlezUDNssbR.pkg</String></Pair>
+      </Table>
+			<Table key="ascrogue_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Sir Gunn's Quest ULC</String></Pair>
+				<Pair key="info"><String>TCXS - BLES02061</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP0001/BLES02061_00/iXiuMyHXwNidrNiqOCSFXgqoGFNpMVQHLfKqBbJRWlHxBchLlAeMYbnKAriMOvpgKOBGsGajHeQeLLFTzAomilUTubVFZlJnSQabn.pkg</String></Pair>
+      </Table>
+			<Table key="ascrogue_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Templar ULC</String></Pair>
+				<Pair key="info"><String>TCXS - BLES02061</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP0001/BLES02061_00/MfdcgdLnvjrWQSXIJBGYgwSVZJcNLbziXAJqAqZrgXUbDazLTBRhMyYyUPBPZhQf.pkg</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ascrogue_item_0"
+        attr="ascrogue_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ascrogue_item_1"
+        attr="ascrogue_item_1"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ascrogue_item_2"
+        attr="ascrogue_item_2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ascrogue_item_3"
+        attr="ascrogue_item_3"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ascrogue_item_4"
+        attr="ascrogue_item_4"/>
+		</Items>
+	</View>
+
+
+</XMBML>

@@ -1,0 +1,20 @@
+<XMBML version="1.0">
+	<View id="bts_items">
+		<Attributes>
+			<Table key="bts_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Beyond Bonus</String></Pair>
+				<Pair key="info"><String>TCXS - BCUS98298</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/BCUS98298_00/fkFubUoRyhvdakjAYKeRsfaouwpkdsdHGUyHETFDdKyHWZkZhENZCHyzFURReWBv.pkg</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="bts_item_0"
+        attr="bts_item_0"/>
+		</Items>
+	</View>
+
+</XMBML>

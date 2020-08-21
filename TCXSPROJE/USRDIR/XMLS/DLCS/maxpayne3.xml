@@ -1,0 +1,42 @@
+<XMBML version="1.0">
+	<View id="mp3_items">
+		<Attributes>
+			<Table key="mp3_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Hostage Negotiation Pack</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30557</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1004/BLUS30557_00/gnVvOUfzkGGpSBgECMNIOnjSRpiDnaAbxLeAmNykWqQayqupUvrIkgkmNmmzVJPA.pkg</String></Pair>
+      </Table>
+			<Table key="mp3_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Local Justice Pack</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30557</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1004/BLUS30557_00/fsjextndFhDlepXsQIfNNOVAIXSVCgMcQVuEvTWOBFoOkUUaOEZzKRpVzrOEMahYVWjEGVrfkOjpIkIXGMUrTGDoWpYbXBBlAcIJi.pkg</String></Pair>
+      </Table>
+			<Table key="mp3_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Painful Memories Pack</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30557</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1004/BLUS30557_00/fxfdfhAsflyQNAkfzesrqRHlLKnioaIhUqzucKRckcPKSlyzJNflRSdUGMLXTaBR.pkg</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="mp3_item_0"
+        attr="mp3_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="mp3_item_1"
+        attr="mp3_item_1"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="mp3_item_2"
+        attr="mp3_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

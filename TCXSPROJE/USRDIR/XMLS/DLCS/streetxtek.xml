@@ -1,0 +1,42 @@
+<XMBML version="1.0">
+		<View id="sfxt_items">
+        <Attributes>
+            <Table key="sfxt_item_0">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/sfxtmp.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Mega Man e Pac Man</String></Pair>
+                <Pair key="info"><String>BLES01252 - 0.1 Mb</String></Pair>
+            </Table>
+            <Table key="sfxt_item_1">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/sfxt.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Pre-Order Bonus Gems 2</String></Pair>
+                <Pair key="info"><String>BLES01252 - 0.1 Mb</String></Pair>
+            </Table>
+            <Table key="sfxt_item_2">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/sfxt.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Swap Costume Complete Pack For DLC Characters</String></Pair>
+                <Pair key="info"><String>BLES01252 - 0.1 Mb</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="sfxt_item_0"
+                attr="sfxt_item_0"
+                src="#sfxt_item_0_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="sfxt_item_1"
+                attr="sfxt_item_1"
+                src="#sfxt_item_1_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="sfxt_item_2"
+                attr="sfxt_item_2"
+                src="#sfxt_item_2_link"
+            />
+       </Items>
+    </View>
+
+</XMBML>

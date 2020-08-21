@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > TV > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+     <Table key="1X01">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X01</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://drive.google.com/file/d/15pJrk6jbBRRvxr6eYhcu6W3Htbokz9Hw/view</String></Pair>
+      </Table>
+     <Table key="1X02">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X02</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/qj8rrmu1vkev4iv/1x2.mp4</String></Pair>
+      </Table>
+     <Table key="1X03">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X03</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/isfbp4eh2r1yypi/1x3.mp4</String></Pair>
+      </Table>
+     <Table key="1X04">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X04</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/sj6fywkqid98yky/1x4.mp4</String></Pair>
+      </Table>
+     <Table key="1X05">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X05</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/m03rtxozs64ju7y/1x5.mp4</String></Pair>
+      </Table>
+     <Table key="1X06">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X06</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/oe5mi5dkw9fkcnp/1x6.mp4</String></Pair>
+      </Table>
+     <Table key="1X07">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X07</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/cx8irpum0u537ru/1x7.mp4</String></Pair>
+      </Table>
+     <Table key="1X08">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X08</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/866eboag44t7arl/1x8.mp4</String></Pair>
+      </Table>
+     <Table key="1X09">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X09</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/pf18lz1lndigoeb/1x9.mp4</String></Pair>
+      </Table>
+     <Table key="1X10">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X10</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/dg5sh30wa4uu9cc/1x10.mp4</String></Pair>
+      </Table>
+     <Table key="1X11">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X11</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/v81gb2grz1p72fr/1x11.mp4</String></Pair>
+      </Table>
+     <Table key="1X12">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X12</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/ejf4w78iml97mdx/1x12.mp4</String></Pair>
+      </Table>
+     <Table key="1X13">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X13</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/6du3aqmz4h7o291/1x13.mp4</String></Pair>
+      </Table>
+     <Table key="1X14">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X14</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/mv1kmizcyaoh3m1/1x14.mp4</String></Pair>
+      </Table>
+     <Table key="1X15">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X15</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/0pu6opsvaka13z7/1x15.mp4</String></Pair>
+      </Table>
+     <Table key="1X16">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X16</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/uimku1tvwvd6bjv/1x16.mp4</String></Pair>
+      </Table>
+     <Table key="1X17">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X17</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/2rmk5f5yrzgbxo6/1x17.mp4</String></Pair>
+      </Table>
+     <Table key="1X18">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X18</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/venlsr5l9wt2q23/1x18.mp4</String></Pair>
+      </Table>
+     <Table key="1X19">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X19</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/whbbsctm44k9cd1/1x19.mp4</String></Pair>
+      </Table>
+     <Table key="1X20">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X20</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/7ji4rtw29q2m0p5/1x20.mp4</String></Pair>
+      </Table>
+     <Table key="1X21">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X21</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/nbmiwqay18vgfn5/1x21.mp4</String></Pair>
+      </Table>
+     <Table key="1X22">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X22</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/fncg1zc2ky326sv/1x22.mp4</String></Pair>
+      </Table>
+     <Table key="1X23">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X23</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/o10v2xi82vxz9u6/1x23.mp4</String></Pair>
+      </Table>
+     <Table key="1X24">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X24</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/uf0swwaty9cpb1a/1x24.mp4</String></Pair>
+      </Table>
+     <Table key="1X25">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X25</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/b1jh6eka84o2ihv/1x25.mp4</String></Pair>
+      </Table>
+     <Table key="1X26">
+      <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      <Pair key="title"><String>1X26</String></Pair>
+      <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      <Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/sgm7y98h8ahl4a8/1x26.mp4</String></Pair>
+      </Table>
+    </Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="1X01" attr="1X01"/>
+<Item class="type:x-xmb/module-action" key="1X02" attr="1X02"/>
+<Item class="type:x-xmb/module-action" key="1X03" attr="1X03"/>
+<Item class="type:x-xmb/module-action" key="1X04" attr="1X04"/>
+<Item class="type:x-xmb/module-action" key="1X05" attr="1X05"/>
+<Item class="type:x-xmb/module-action" key="1X06" attr="1X06"/>
+<Item class="type:x-xmb/module-action" key="1X07" attr="1X07"/>
+<Item class="type:x-xmb/module-action" key="1X08" attr="1X08"/>
+<Item class="type:x-xmb/module-action" key="1X09" attr="1X09"/>
+<Item class="type:x-xmb/module-action" key="1X10" attr="1X10"/>
+<Item class="type:x-xmb/module-action" key="1X11" attr="1X11"/>
+<Item class="type:x-xmb/module-action" key="1X12" attr="1X12"/>
+<Item class="type:x-xmb/module-action" key="1X13" attr="1X13"/>
+<Item class="type:x-xmb/module-action" key="1X14" attr="1X14"/>
+<Item class="type:x-xmb/module-action" key="1X15" attr="1X15"/>
+<Item class="type:x-xmb/module-action" key="1X16" attr="1X16"/>
+<Item class="type:x-xmb/module-action" key="1X17" attr="1X17"/>
+<Item class="type:x-xmb/module-action" key="1X18" attr="1X18"/>
+<Item class="type:x-xmb/module-action" key="1X19" attr="1X19"/>
+<Item class="type:x-xmb/module-action" key="1X20" attr="1X20"/>
+<Item class="type:x-xmb/module-action" key="1X21" attr="1X21"/>
+<Item class="type:x-xmb/module-action" key="1X22" attr="1X22"/>
+<Item class="type:x-xmb/module-action" key="1X23" attr="1X23"/>
+<Item class="type:x-xmb/module-action" key="1X24" attr="1X24"/>
+<Item class="type:x-xmb/module-action" key="1X25" attr="1X25"/>
+<Item class="type:x-xmb/module-action" key="1X26" attr="1X26"/>
+<Item class="type:x-xmb/module-action" key="2X01" attr="2X01"/>
+<Item class="type:x-xmb/module-action" key="2X02" attr="2X02"/>
+<Item class="type:x-xmb/module-action" key="2X03" attr="2X03"/>
+<Item class="type:x-xmb/module-action" key="2X04" attr="2X04"/>
+<Item class="type:x-xmb/module-action" key="2X05" attr="2X05"/>
+<Item class="type:x-xmb/module-action" key="2X06" attr="2X06"/>
+<Item class="type:x-xmb/module-action" key="2X07" attr="2X07"/>
+<Item class="type:x-xmb/module-action" key="2X08" attr="2X08"/>
+<Item class="type:x-xmb/module-action" key="2X09" attr="2X09"/>
+<Item class="type:x-xmb/module-action" key="2X10" attr="2X10"/>
+<Item class="type:x-xmb/module-action" key="2X11" attr="2X11"/>
+<Item class="type:x-xmb/module-action" key="2X12" attr="2X12"/>
+<Item class="type:x-xmb/module-action" key="2X13" attr="2X13"/>
+<Item class="type:x-xmb/module-action" key="2X14" attr="2X14"/>
+<Item class="type:x-xmb/module-action" key="2X15" attr="2X15"/>
+<Item class="type:x-xmb/module-action" key="2X16" attr="2X16"/>
+<Item class="type:x-xmb/module-action" key="2X17" attr="2X17"/>
+<Item class="type:x-xmb/module-action" key="2X18" attr="2X18"/>
+<Item class="type:x-xmb/module-action" key="2X19" attr="2X19"/>
+<Item class="type:x-xmb/module-action" key="2X20" attr="2X20"/>
+<Item class="type:x-xmb/module-action" key="2X21" attr="2X21"/>
+<Item class="type:x-xmb/module-action" key="2X22" attr="2X22"/>
+<Item class="type:x-xmb/module-action" key="2X23" attr="2X23"/>
+<Item class="type:x-xmb/module-action" key="2X24" attr="2X24"/>
+   </Items>
+  </View>
+
+</XMBML>

@@ -1,0 +1,31 @@
+<XMBML version="1.0">
+	<View id="legomarvelsh_items">
+		<Attributes>
+			<Table key="legomarvelsh_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Asgard</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31161</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1018/BLUS31161_00/VzqYXMuvCbkkwphXvoFuBElEEMNkwSpbxZSnuqMwAJfLlfOXvhtrwDFsDzeFKGbc.pkg</String></Pair>
+      </Table>
+			<Table key="legomarvelsh_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Super Pack</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31161</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1018/BLUS31161_00/fiIzOGlhWPEgyEXrCMjKIpxlUPWbcNAKkIBHWZQjxgjfyTaebzLqqrxFkMPJarid.pkg</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="legomarvelsh_item_0"
+        attr="legomarvelsh_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="legomarvelsh_item_1"
+        attr="legomarvelsh_item_1"/>
+		</Items>
+	</View>
+
+</XMBML>

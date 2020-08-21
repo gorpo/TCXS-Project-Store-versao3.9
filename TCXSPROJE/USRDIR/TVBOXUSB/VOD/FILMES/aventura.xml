@@ -1,0 +1,37 @@
+<XMBML version="1.0">
+	<View id="seg_tv_items">
+		<Attributes>
+      <Table key="Jumanji">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Jumanji Bem Vindo a Selva</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/0ocwl1aawhz21yl/jumanji.mp4</String></Pair>
+      </Table>
+			<Table key="jumanji2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>jumanji Proxima Fase!</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/1bnuzckakydg77n/Jumanji2-1080P.MP4</String></Pair>
+      </Table>
+			<Table key="Jurassic_World_Reino_Ameaçado">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Jurassic World Reino Ameaçado</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/1bnuzckakydg77n/Jumanji2-1080P.MP4</String></Pair>
+      </Table>
+			<Table key="TombRaide_Origem">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Tomb Raide A Origem</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/1bnuzckakydg77n/Jumanji2-1080P.MP4</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+      <Item class="type:x-xmb/module-action" key="Jumanji" attr="Jumanji"/>
+    	<Item class="type:x-xmb/module-action" key="jumanji2" attr="jumanji2"/>
+			<Item class="type:x-xmb/module-action" key="Jurassic_World_Reino_Ameaçado" attr="Jurassic_World_Reino_Ameaçado"/>
+			<Item class="type:x-xmb/module-action" key="TombRaide_Origem" attr="TombRaide_Origem"/>
+    </Items>
+	</View>
+
+</XMBML>

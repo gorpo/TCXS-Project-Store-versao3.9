@@ -1,0 +1,86 @@
+<XMBML version="1.0">
+	<View id="alienscm_items">
+		<Attributes>
+			<Table key="alienscm_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Bug Hunt</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30862</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0177/BLUS30862_00/JAotzgoSrDXTooZEbmvgvUOXlobFEJKBgoalEkBUGLMELKCsKkWOwYWUkLamZznX.pkg</String></Pair>
+      </Table>
+			<Table key="alienscm_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Collectors Edition Pack</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30862</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0177/BLUS30862_00/WLdhOnQndgsYYMDInOReRlrLJERKOJPhQydiIbVJZMTeqVsAApiSihbbmIEYjEMu.pkg</String></Pair>
+      </Table>
+			<Table key="alienscm_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - PreOrder Bonus 1</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30862</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0177/BLUS30862_00/SmAoBePMDmLehIxzoCVYSAdcIoSbhmUoSmCmHsWJkyUsOoAAHNuyMoEoywBNcmwj.pkg</String></Pair>
+      </Table>
+			<Table key="alienscm_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - PreOrder Bonus 5</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30862</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0177/BLUS30862_00/cbMsMWmNSLYjtlRZgAQtSMckZPkflavAafvvFwoCspLPIlbmVWzbOxSEMhzsGFwL.pkg</String></Pair>
+      </Table>
+			<Table key="alienscm_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Sawed Off Double Barrel Shotgun</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30862</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0177/BLUS30862_00/LnHsSKIILKOaMxxrgYcvOQfgUxRqgUFHCXdnOczaUYxcKDOYiEbsKfBDlexdLrAp.pkg</String></Pair>
+      </Table>
+			<Table key="alienscm_item_5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - SHARP Sticks</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30862</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0177/BLUS30862_00/bJgZEUUQCjVgLCudneBfMIXaGvylKyymKrbfWeuEtmdGBNTjzgJHyGfDqQkTgMiR.pkg</String></Pair>
+      </Table>
+			<Table key="alienscm_item_6">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Stasis Interrupted</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30862</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0177/BLUS30862_00/MRSfkqFpgulWEFFgGhcdlzYWqHGeyLLhfVZtpnneqVmIdNcAdnYykKBJkbnUPMQP.pkg</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="alienscm_item_0"
+        attr="alienscm_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="alienscm_item_1"
+        attr="alienscm_item_1"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="alienscm_item_2"
+        attr="alienscm_item_2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="alienscm_item_3"
+        attr="alienscm_item_3"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="alienscm_item_4"
+        attr="alienscm_item_4"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="alienscm_item_5"
+        attr="alienscm_item_5"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="alienscm_item_6"
+        attr="alienscm_item_6"/>
+		</Items>
+	</View>
+
+</XMBML>

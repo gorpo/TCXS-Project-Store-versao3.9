@@ -1,0 +1,42 @@
+<XMBML version="1.0">
+	<View id="ai_items">
+		<Attributes>
+			<Table key="ai_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Corporate Lockdown</String></Pair>
+				<Pair key="info"><String>TCXS - BLES01697</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP0177/BLES01697_00/ZyYcWurEKbtqbsHZENHrPHbIrmTCNPyHhHgWlkysSELZVuJoqSOeDwunAjpRlYpl.pkg</String></Pair>
+      </Table>
+			<Table key="ai_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - The Trigger</String></Pair>
+				<Pair key="info"><String>TCXS - BLES01697</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP0177/BLES01697_00/EP0177-BLES01697_00-PALIENISOL000007_bg_1_1d6d0afa9d5fc21caa842c0c3a03925f9ecc5577.pkg</String></Pair>
+      </Table>
+			<Table key="ai_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Trauma</String></Pair>
+				<Pair key="info"><String>TCXS - BLES01697</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP0177/BLES01697_00/hpgFTLIlZpSIcklYLeBPsTTMtjTasfajkfnnujeWLfuILnudjuaczfhfWabKffrH.pkg</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ai_item_0"
+        attr="ai_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ai_item_1"
+        attr="ai_item_1"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ai_item_2"
+        attr="ai_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

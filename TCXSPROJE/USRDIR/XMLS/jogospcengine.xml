@@ -1,0 +1,800 @@
+<XMBML version="1.0">
+	<View id="jogospcengine_items">
+
+        <Attributes>
+
+            <!--DEATH STORE VI-->
+            <!--MENU DE Aldynes: The Mission Code For Rage Crisis-->
+            <Table key="pcengine_aldynesthemissioncodefrc">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/aldynesthemissioncodefrc.jpg</String></Pair>
+                <Pair key="title"><String>Aldynes: The Mission Code For Rage Crisis</String></Pair>
+                <Pair key="info"><String>Tamanho: 12 MB</String></Pair>
+            </Table>
+            <!--MENU DE Alien Crush-->
+            <Table key="pcengine_aliencrush">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/aliencrush.jpg</String></Pair>
+                <Pair key="title"><String>Alien Crush</String></Pair>
+                <Pair key="info"><String>Tamanho: 21 MB</String></Pair>
+            </Table>
+            <!--MENU DE Battle Ace-->
+            <Table key="pcengine_battleace">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/battleace.jpg</String></Pair>
+                <Pair key="title"><String>Battle Ace</String></Pair>
+                <Pair key="info"><String>Tamanho: 12 MB</String></Pair>
+            </Table>
+            <!--MENU DE Benkei Gaiden-->
+            <Table key="pcengine_benkeigaiden">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/benkeigaiden.jpg</String></Pair>
+                <Pair key="title"><String>Benkei Gaiden</String></Pair>
+                <Pair key="info"><String>Tamanho: 13 MB</String></Pair>
+            </Table>
+            <!--MENU DE Bomberman 94-->
+            <Table key="pcengine_bomberman94">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/bomberman94.jpg</String></Pair>
+                <Pair key="title"><String>Bomberman 94</String></Pair>
+                <Pair key="info"><String>Tamanho: 20 MB</String></Pair>
+            </Table>
+            <!--MENU DE Bonk's Adventure 1-->
+            <Table key="pcengine_bonksadventure1">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/bonksadventure1.jpg</String></Pair>
+                <Pair key="title"><String>Bonk's Adventure 1</String></Pair>
+                <Pair key="info"><String>Tamanho: 15 MB</String></Pair>
+            </Table>
+            <!--MENU DE Chiki Chiki Boys-->
+            <Table key="pcengine_chikichikiboys">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/chikichikiboys.jpg</String></Pair>
+                <Pair key="title"><String>Chiki Chiki Boys</String></Pair>
+                <Pair key="info"><String>Tamanho: 67 MB</String></Pair>
+            </Table>
+            <!--MENU DE Cho Aniki-->
+            <Table key="pcengine_choaniki">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/choaniki.jpg</String></Pair>
+                <Pair key="title"><String>Cho Aniki</String></Pair>
+                <Pair key="info"><String>Tamanho: 38 MB</String></Pair>
+            </Table>
+            <!--MENU DE Bonk's Adventure 2-->
+            <Table key="pcengine_bonksadventure2">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/bonksadventure2.jpg</String></Pair>
+                <Pair key="title"><String>Bonk's Adventure 2</String></Pair>
+                <Pair key="info"><String>Tamanho: 12 MB</String></Pair>
+            </Table>
+            <!--MENU DE Bonk's Adventure 3-->
+            <Table key="pcengine_bonksadventure3">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/bonksadventure3.jpg</String></Pair>
+                <Pair key="title"><String>Bonk's Adventure 3</String></Pair>
+                <Pair key="info"><String>Tamanho: 13 MB</String></Pair>
+            </Table>
+            <!--MENU DE Devil Crash-->
+            <Table key="pcengine_devilcrash">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/devilcrash.jpg</String></Pair>
+                <Pair key="title"><String>Devil Crash</String></Pair>
+                <Pair key="info"><String>Tamanho: 13 MB</String></Pair>
+            </Table>
+            <!--MENU DE Double Dungeons-->
+            <Table key="pcengine_doubledungeons">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/doubledungeons.jpg</String></Pair>
+                <Pair key="title"><String>Double Dungeons</String></Pair>
+                <Pair key="info"><String>Tamanho: 10 MB</String></Pair>
+            </Table>
+            <!--MENU DE Dungeon Explorer 1-->
+            <Table key="pcengine_dungeonexplorer1">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/dungeonexplorer1.jpg</String></Pair>
+                <Pair key="title"><String>Dungeon Explorer 1</String></Pair>
+                <Pair key="info"><String>Tamanho: 13 MB</String></Pair>
+            </Table>
+            <!--MENU DE Dungeon Explorer II-->
+            <Table key="pcengine_dungeonexplorer2">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/dungeonexplorer2.jpg</String></Pair>
+                <Pair key="title"><String>Dungeon Explorer II</String></Pair>
+                <Pair key="info"><String>Tamanho: 92 MB</String></Pair>
+            </Table>
+            <!--MENU DE Gate of Thunder-->
+            <Table key="pcengine_gateofthunder">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/gateofthunder.jpg</String></Pair>
+                <Pair key="title"><String>Gate of Thunder</String></Pair>
+                <Pair key="info"><String>Tamanho: 58 MB</String></Pair>
+            </Table>
+            <!--MENU DE Ghouls 'n Ghost-->
+            <Table key="pcengine_ghoulsnghost">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/ghoulsnghost.jpg</String></Pair>
+                <Pair key="title"><String>Ghouls 'n Ghost</String></Pair>
+                <Pair key="info"><String>Tamanho: 9 MB</String></Pair>
+            </Table>
+            <!--MENU DE Gradius II-->
+            <Table key="pcengine_gradius2">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/gradius2.jpg</String></Pair>
+                <Pair key="title"><String>Gradius II</String></Pair>
+                <Pair key="info"><String>Tamanho: 61 MB</String></Pair>
+            </Table>
+            <!--MENU DE Kaizo Choujin Shubibinman 1-->
+            <Table key="pcengine_kaizochoujinshubibinman1">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/kaizochoujinshubibinman1.jpg</String></Pair>
+                <Pair key="title"><String>Kaizo Choujin Shubibinman 1</String></Pair>
+                <Pair key="info"><String>Tamanho: 11 MB</String></Pair>
+            </Table>
+            <!--MENU DE Kaizo Choujin Shubibinman 2-->
+            <Table key="pcengine_kaizochoujinshubibinman2">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/kaizochoujinshubibinman2.jpg</String></Pair>
+                <Pair key="title"><String>Kaizo Choujin Shubibinman 2</String></Pair>
+                <Pair key="info"><String>Tamanho: 12 MB</String></Pair>
+            </Table>
+            <!--MENU DE Kaizo Choujin Shubibinman 3-->
+            <Table key="pcengine_kaizochoujinshubibinman3">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/kaizochoujinshubibinman3.jpg</String></Pair>
+                <Pair key="title"><String>Kaizo Choujin Shubibinman 3</String></Pair>
+                <Pair key="info"><String>Tamanho: 67 MB</String></Pair>
+            </Table>
+            <!--MENU DE Langrisser-->
+            <Table key="pcengine_langrisser">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/langrisser.jpg</String></Pair>
+                <Pair key="title"><String>Langrisser</String></Pair>
+                <Pair key="info"><String>Tamanho: 68 MB</String></Pair>
+            </Table>
+            <!--MENU DE Necromancer-->
+            <Table key="pcengine_necromancer">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/necromancer.jpg</String></Pair>
+                <Pair key="title"><String>Necromancer</String></Pair>
+                <Pair key="info"><String>Tamanho: 12 MB</String></Pair>
+            </Table>
+            <!--MENU DE Neutopia 1-->
+            <Table key="pcengine_neutopia1">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/neutopia1.jpg</String></Pair>
+                <Pair key="title"><String>Neutopia 1</String></Pair>
+                <Pair key="info"><String>Tamanho: 13 MB</String></Pair>
+            </Table>
+            <!--MENU DE Neutopia 2-->
+            <Table key="pcengine_neutopia2">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/neutopia2.jpg</String></Pair>
+                <Pair key="title"><String>Neutopia 2</String></Pair>
+                <Pair key="info"><String>Tamanho: 13 MB</String></Pair>
+            </Table>
+            <!--MENU DE New Adventure Island-->
+            <Table key="pcengine_newadventureisland">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/newadventureisland.jpg</String></Pair>
+                <Pair key="title"><String>New Adventure Island</String></Pair>
+                <Pair key="info"><String>Tamanho: 18 MB</String></Pair>
+            </Table>
+            <!--MENU DE Sengoku Mahjong-->
+            <Table key="pcengine_sengokumahjong">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/sengokumahjong.jpg</String></Pair>
+                <Pair key="title"><String>Sengoku Mahjong</String></Pair>
+                <Pair key="info"><String>Tamanho: 11 MB</String></Pair>
+            </Table>
+            <!--MENU DE Soldier Blade-->
+            <Table key="pcengine_soldierblade">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/soldierblade.jpg</String></Pair>
+                <Pair key="title"><String>Soldier Blade</String></Pair>
+                <Pair key="info"><String>Tamanho: 11 MB</String></Pair>
+            </Table>
+            <!--MENU DE Super Star Soldier-->
+            <Table key="pcengine_superstarsoldier">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/superstarsoldier.jpg</String></Pair>
+                <Pair key="title"><String>Super Star Soldier</String></Pair>
+                <Pair key="info"><String>Tamanho: 17 MB</String></Pair>
+            </Table>
+            <!--MENU DE The Kung Fu-->
+            <Table key="pcengine_thekungfu">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/thekungfu.jpg</String></Pair>
+                <Pair key="title"><String>The Kung Fu</String></Pair>
+                <Pair key="info"><String>Tamanho: 9 MB</String></Pair>
+            </Table>
+            <!--MENU DE Twin Bee-->
+            <Table key="pcengine_twinbee">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/twinbee.jpg</String></Pair>
+                <Pair key="title"><String>Twin Bee</String></Pair>
+                <Pair key="info"><String>Tamanho: 12 MB</String></Pair>
+            </Table>
+            <!--MENU DE Valis I-->
+            <Table key="pcengine_valis1">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/valis1.jpg</String></Pair>
+                <Pair key="title"><String>Valis I</String></Pair>
+                <Pair key="info"><String>Tamanho: 68 MB</String></Pair>
+            </Table>
+            <!--MENU DE Valis II-->
+            <Table key="pcengine_valis2">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/valis2.jpg</String></Pair>
+                <Pair key="title"><String>Valis II</String></Pair>
+                <Pair key="info"><String>Tamanho: 58 MB</String></Pair>
+            </Table>
+            <!--MENU DE Victory Run-->
+            <Table key="pcengine_victoryrun">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/victoryrun.jpg</String></Pair>
+                <Pair key="title"><String>Victory Run</String></Pair>
+                <Pair key="info"><String>Tamanho: 18 MB</String></Pair>
+            </Table>
+            <!--MENU DE Winds of Thunder-->
+            <Table key="pcengine_windsofthunder">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/windsofthunder.jpg</String></Pair>
+                <Pair key="title"><String>Winds of Thunder</String></Pair>
+                <Pair key="info"><String>Tamanho: 66 MB</String></Pair>
+            </Table>
+            <!--MENU DE Ys 1 e 2-->
+            <Table key="pcengine_ys1e2">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/ys1e2.jpg</String></Pair>
+                <Pair key="title"><String>Ys I e II</String></Pair>
+                <Pair key="info"><String>Tamanho: 86 MB</String></Pair>
+            </Table>
+            <!--MENU DE Ys 3: Wanderers from Ys-->
+            <Table key="pcengine_ys3wanderersfromys">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/ys3wanderersfromys.jpg</String></Pair>
+                <Pair key="title"><String>Ys III: Wanderers from Ys</String></Pair>
+                <Pair key="info"><String>Tamanho: 98 MB</String></Pair>
+            </Table>
+            <!--MENU DE Ys IV: The Dawn of Ys-->
+            <Table key="pcengine_ys4thedawnofys">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/ys4thedawnofys.jpg</String></Pair>
+                <Pair key="title"><String>Ys IV: The Dawn of Ys</String></Pair>
+                <Pair key="info"><String>Tamanho: 149 MB</String></Pair>
+            </Table>
+
+
+		</Attributes>
+
+
+		<Items>
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_aldynesthemissioncodefrc" attr="pcengine_aldynesthemissioncodefrc" src="#pcengine_aldynesthemissioncodefrc_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_aliencrush" attr="pcengine_aliencrush" src="#pcengine_aliencrush_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_battleace" attr="pcengine_battleace" src="#pcengine_battleace_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_benkeigaiden" attr="pcengine_benkeigaiden" src="#pcengine_benkeigaiden_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_bomberman94" attr="pcengine_bomberman94" src="#pcengine_bomberman94_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_bonksadventure1" attr="pcengine_bonksadventure1" src="#pcengine_bonksadventure1_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_bonksadventure2" attr="pcengine_bonksadventure2" src="#pcengine_bonksadventure2_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_bonksadventure3" attr="pcengine_bonksadventure3" src="#pcengine_bonksadventure3_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_chikichikiboys" attr="pcengine_chikichikiboys" src="#pcengine_chikichikiboys_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_choaniki" attr="pcengine_choaniki" src="#pcengine_choaniki_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_devilcrash" attr="pcengine_devilcrash" src="#pcengine_devilcrash_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_doubledungeons" attr="pcengine_doubledungeons" src="#pcengine_doubledungeons_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_dungeonexplorer1" attr="pcengine_dungeonexplorer1" src="#pcengine_dungeonexplorer1_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_dungeonexplorer2" attr="pcengine_dungeonexplorer2" src="#pcengine_dungeonexplorer2_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_gateofthunder" attr="pcengine_gateofthunder" src="#pcengine_gateofthunder_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_ghoulsnghost" attr="pcengine_ghoulsnghost" src="#pcengine_ghoulsnghost_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_gradius2" attr="pcengine_gradius2" src="#pcengine_gradius2_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_kaizochoujinshubibinman1" attr="pcengine_kaizochoujinshubibinman1" src="#pcengine_kaizochoujinshubibinman1_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_kaizochoujinshubibinman2" attr="pcengine_kaizochoujinshubibinman2" src="#pcengine_kaizochoujinshubibinman2_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_kaizochoujinshubibinman3" attr="pcengine_kaizochoujinshubibinman3" src="#pcengine_kaizochoujinshubibinman3_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_langrisser" attr="pcengine_langrisser" src="#pcengine_langrisser_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_necromancer" attr="pcengine_necromancer" src="#pcengine_necromancer_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_neutopia1" attr="pcengine_neutopia1" src="#pcengine_neutopia1_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_neutopia2" attr="pcengine_neutopia2" src="#pcengine_neutopia2_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_newadventureisland" attr="pcengine_newadventureisland" src="#pcengine_newadventureisland_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_sengokumahjong" attr="pcengine_sengokumahjong" src="#pcengine_sengokumahjong_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_soldierblade" attr="pcengine_soldierblade" src="#pcengine_soldierblade_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_superstarsoldier" attr="pcengine_superstarsoldier" src="#pcengine_superstarsoldier_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_thekungfu" attr="pcengine_thekungfu" src="#pcengine_thekungfu_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_twinbee" attr="pcengine_twinbee" src="#pcengine_twinbee_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_valis1" attr="pcengine_valis1" src="#pcengine_valis1_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_valis2" attr="pcengine_valis2" src="#pcengine_valis2_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_victoryrun" attr="pcengine_victoryrun" src="#pcengine_victoryrun_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_windsofthunder" attr="pcengine_windsofthunder" src="#pcengine_windsofthunder_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_ys1e2" attr="pcengine_ys1e2" src="#pcengine_ys1e2_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_ys3wanderersfromys" attr="pcengine_ys3wanderersfromys" src="#pcengine_ys3wanderersfromys_link" />
+            <Query class="type:x-xmb/folder-pixmap" key="pcengine_ys4thedawnofys" attr="pcengine_ys4thedawnofys" src="#pcengine_ys4thedawnofys_link" />
+		</Items>
+	</View>
+
+
+
+
+
+    <!--LINKS DE Aldynes: The Mission Code For Rage Crisis-->
+    <View id="pcengine_aldynesthemissioncodefrc_link">
+        <Attributes>
+            <Table key="pcengine_aldynesthemissioncodefrc_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/bxffqmv1nbris1d/AldynesMissionCode.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/bxffqmv1nbris1d/AldynesMissionCode.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30041_00-ALDYNES00000JG41</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/aldynesthemissioncodefrc.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_aldynesthemissioncodefrc_link" attr="pcengine_aldynesthemissioncodefrc_link" /></Items>
+    </View>
+    <!--LINKS DE Alien Crush-->
+    <View id="pcengine_aliencrush_link">
+        <Attributes>
+            <Table key="pcengine_aliencrush_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/ofifk4cgnrefstw/AlienCrush.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/ofifk4cgnrefstw/AlienCrush.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0555-NPUF30008_00-ALIENCRUSH00EH20</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/aliencrush.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_aliencrush_link" attr="pcengine_aliencrush_link" /></Items>
+    </View>
+    <!--LINKS DE Battle Ace-->
+    <View id="pcengine_battleace_link">
+        <Attributes>
+            <Table key="pcengine_battleace_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/pdg4evg458n8z0q/BattleAce.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/pdg4evg458n8z0q/BattleAce.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30025_00-BATTLEACE000JG18</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/battleace.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_battleace_link" attr="pcengine_battleace_link" /></Items>
+    </View>
+    <!--LINKS DE Benkei Gaiden-->
+    <View id="pcengine_benkeigaiden_link">
+        <Attributes>
+            <Table key="pcengine_benkeigaiden_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/zhispmlgc7q4x2w/BenkeiGaiden.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/zhispmlgc7q4x2w/BenkeiGaiden.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30035_00-BENKEIGAIDENJH49</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/benkeigaiden.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_benkeigaiden_link" attr="pcengine_benkeigaiden_link" /></Items>
+    </View>
+    <!--LINKS DE Bomberman 94-->
+    <View id="pcengine_bomberman94_link">
+        <Attributes>
+            <Table key="pcengine_bomberman94_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/q3xuatb4gdr18v6/Bomberman94.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/q3xuatb4gdr18v6/Bomberman94.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0555-NPUF30007_00-BOMBERMAN940EH01</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/bomberman94.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_bomberman94_link" attr="pcengine_bomberman94_link" /></Items>
+    </View>
+    <!--LINKS DE Bonk's Adventure 1-->
+    <View id="pcengine_bonksadventure1_link">
+        <Attributes>
+            <Table key="pcengine_bonksadventure1_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/m2x82vyewppnjyd/BonkAdventure.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/m2x82vyewppnjyd/BonkAdventure.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0555-NPUF30012_00-PCGENJIN0000EH15</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/bonksadventure1.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_bonksadventure1_link" attr="pcengine_bonksadventure1_link" /></Items>
+    </View>
+    <!--LINKS DE Chiki Chiki Boys-->
+    <View id="pcengine_chikichikiboys_link">
+        <Attributes>
+            <Table key="pcengine_chikichikiboys_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/jfum3o6zk0led4e/ChikiChikiBoys.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/jfum3o6zk0led4e/ChikiChikiBoys.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0802-NPJJ30054_00-CHIKICHIKIBOJS55</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/chikichikiboys.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_chikichikiboys_link" attr="pcengine_chikichikiboys_link" /></Items>
+    </View>
+    <!--LINKS DE Cho Aniki-->
+    <View id="pcengine_choaniki_link">
+        <Attributes>
+            <Table key="pcengine_choaniki_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/mgiiy5qnb6epf17/ChoAniki.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/mgiiy5qnb6epf17/ChoAniki.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30043_00-CHOANIKI0000JC43</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/choaniki.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_choaniki_link" attr="pcengine_choaniki_link" /></Items>
+    </View>
+    <!--LINKS DE Bonk's Adventure 2-->
+    <View id="pcengine_bonksadventure2_link">
+        <Attributes>
+            <Table key="pcengine_bonksadventure2_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/adkce19hge9bxva/BonkAdventure2.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/adkce19hge9bxva/BonkAdventure2.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30014_00-PCGENJIN2000JH16</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/bonksadventure2.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_bonksadventure2_link" attr="pcengine_bonksadventure2_link" /></Items>
+    </View>
+    <!--LINKS DE Bonk's Adventure 3-->
+    <View id="pcengine_bonksadventure3_link">
+        <Attributes>
+            <Table key="pcengine_bonksadventure3_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/yy1qnip13njk5kz/BonkAdventure3.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/yy1qnip13njk5kz/BonkAdventure3.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30017_00-PCGENJIN3000JH17</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/bonksadventure3.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_bonksadventure3_link" attr="pcengine_bonksadventure3_link" /></Items>
+    </View>
+    <!--LINKS DE Devil Crash-->
+    <View id="pcengine_devilcrash_link">
+        <Attributes>
+            <Table key="pcengine_devilcrash_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/wobistaa8hud9oy/DevilCrash.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/wobistaa8hud9oy/DevilCrash.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30003_00-DEVILCRASH00JH03</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/devilcrash.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_devilcrash_link" attr="pcengine_devilcrash_link" /></Items>
+    </View>
+    <!--LINKS DE Double Dungeons-->
+    <View id="pcengine_doubledungeons_link">
+        <Attributes>
+            <Table key="pcengine_doubledungeons_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/4ygpnxgawnrbr8p/DoubleDungeons.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/4ygpnxgawnrbr8p/DoubleDungeons.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30045_00-DOUBLEDUNGEOJH46</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/doubledungeons.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_doubledungeons_link" attr="pcengine_doubledungeons_link" /></Items>
+    </View>
+    <!--LINKS DE Dungeon Explorer 1-->
+    <View id="pcengine_dungeonexplorer1_link">
+        <Attributes>
+            <Table key="pcengine_dungeonexplorer1_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/vlw75h5b0w4uq7y/DungeonExplorer.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/vlw75h5b0w4uq7y/DungeonExplorer.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30007_00-DUNGEONEXPLOJH07</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/dungeonexplorer1.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_dungeonexplorer1_link" attr="pcengine_dungeonexplorer1_link" /></Items>
+    </View>
+    <!--LINKS DE Dungeon Explorer II-->
+    <View id="pcengine_dungeonexplorer2_link">
+        <Attributes>
+            <Table key="pcengine_dungeonexplorer2_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/z8p36h8nfpjvquj/DungeonExplorerII.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/z8p36h8nfpjvquj/DungeonExplorerII.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30013_00-DUNGEONEXPL2JS10</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/dungeonexplorer2.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_dungeonexplorer2_link" attr="pcengine_dungeonexplorer2_link" /></Items>
+    </View>
+    <!--LINKS DE Gate of Thunder-->
+    <View id="pcengine_gateofthunder_link">
+        <Attributes>
+            <Table key="pcengine_gateofthunder_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/pumrdpm6ccpf5zv/GateofThunder.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/pumrdpm6ccpf5zv/GateofThunder.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30011_00-GATEOFTHUNDEJS13</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/gateofthunder.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_gateofthunder_link" attr="pcengine_gateofthunder_link" /></Items>
+    </View>
+    <!--LINKS DE Ghouls 'n Ghost-->
+    <View id="pcengine_ghoulsnghost_link">
+        <Attributes>
+            <Table key="pcengine_ghoulsnghost_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/h077llj4mr5lng1/GhoulsnGhosts.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/h077llj4mr5lng1/GhoulsnGhosts.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30020_00-DAIMAKAIMURAJG26</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/ghoulsnghost.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_ghoulsnghost_link" attr="pcengine_ghoulsnghost_link" /></Items>
+    </View>
+    <!--LINKS DE Gradius II-->
+    <View id="pcengine_gradius2_link">
+        <Attributes>
+            <Table key="pcengine_gradius2_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/bleekhbdhx7e9yq/GradiusII.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/bleekhbdhx7e9yq/GradiusII.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30031_00-GRADIUS2GOFEJS31</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/gradius2.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_gradius2_link" attr="pcengine_gradius2_link" /></Items>
+    </View>
+    <!--LINKS DE Kaizo Choujin Shubibinman 1-->
+    <View id="pcengine_kaizochoujinshubibinman1_link">
+        <Attributes>
+            <Table key="pcengine_kaizochoujinshubibinman1_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/8epifbpe8mta56s/KaizouChounin.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/8epifbpe8mta56s/KaizouChounin.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30046_00-SHUBIBINMAN0JH47</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/kaizochoujinshubibinman1.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_kaizochoujinshubibinman1_link" attr="pcengine_kaizochoujinshubibinman1_link" /></Items>
+    </View>
+    <!--LINKS DE Kaizo Choujin Shubibinman 2-->
+    <View id="pcengine_kaizochoujinshubibinman2_link">
+        <Attributes>
+            <Table key="pcengine_kaizochoujinshubibinman2_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/4o7rs9iutz3jt6p/KaizouChounin2.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/4o7rs9iutz3jt6p/KaizouChounin2.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30047_00-SHUBIBINMAN2JH48</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/kaizochoujinshubibinman2.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_kaizochoujinshubibinman2_link" attr="pcengine_kaizochoujinshubibinman2_link" /></Items>
+    </View>
+    <!--LINKS DE Kaizo Choujin Shubibinman 3-->
+    <View id="pcengine_kaizochoujinshubibinman3_link">
+        <Attributes>
+            <Table key="pcengine_kaizochoujinshubibinman3_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/omgyl3iiqs4ch2v/KaizouChounin3.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/omgyl3iiqs4ch2v/KaizouChounin3.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0805-NPJJ30059_00-SHUBIBINMAN3JC51</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/kaizochoujinshubibinman3.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_kaizochoujinshubibinman3_link" attr="pcengine_kaizochoujinshubibinman3_link" /></Items>
+    </View>
+    <!--LINKS DE Langrisser-->
+    <View id="pcengine_langrisser_link">
+        <Attributes>
+            <Table key="pcengine_langrisser_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/5dwxqhuw33g81q9/Langrisser.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/5dwxqhuw33g81q9/Langrisser.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30048_00-LANGRISSER00JS45</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/langrisser.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_langrisser_link" attr="pcengine_langrisser_link" /></Items>
+    </View>
+    <!--LINKS DE Necromancer-->
+    <View id="pcengine_necromancer_link">
+        <Attributes>
+            <Table key="pcengine_necromancer_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/ugkxaknt0ec2xhy/Necromancer.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/ugkxaknt0ec2xhy/Necromancer.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30005_00-NECROMANCER0JH05</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/necromancer.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_necromancer_link" attr="pcengine_necromancer_link" /></Items>
+    </View>
+    <!--LINKS DE Neutopia 1-->
+    <View id="pcengine_neutopia1_link">
+        <Attributes>
+            <Table key="pcengine_neutopia1_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/k3bve8ya85wvjm7/Neutopia.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/k3bve8ya85wvjm7/Neutopia.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30027_00-NEUTOPIA0000JH28</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/neutopia1.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_neutopia1_link" attr="pcengine_neutopia1_link" /></Items>
+    </View>
+    <!--LINKS DE Neutopia 2-->
+    <View id="pcengine_neutopia2_link">
+        <Attributes>
+            <Table key="pcengine_neutopia2_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/xgb3o2rwh1tejvb/NeutopiaII.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/xgb3o2rwh1tejvb/NeutopiaII.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30028_00-NEUTOPIA2000JH29</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/neutopia2.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_neutopia2_link" attr="pcengine_neutopia2_link" /></Items>
+    </View>
+    <!--LINKS DE New Adventure Island-->
+    <View id="pcengine_newadventureisland_link">
+        <Attributes>
+            <Table key="pcengine_newadventureisland_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/0ymjn3v6zuwhf2a/NewAdventureIsland.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/0ymjn3v6zuwhf2a/NewAdventureIsland.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0555-NPUF30014_00-BOUKENJIMA00EH04</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/newadventureisland.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_newadventureisland_link" attr="pcengine_newadventureisland_link" /></Items>
+    </View>
+    <!--LINKS DE Sengoku Mahjong-->
+    <View id="pcengine_sengokumahjong_link">
+        <Attributes>
+            <Table key="pcengine_sengokumahjong_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/acpdjxcsff4e8c7/SengokuMahjong.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/acpdjxcsff4e8c7/SengokuMahjong.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30002_00-SENGOKUMAHJOJH02</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/sengokumahjong.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_sengokumahjong_link" attr="pcengine_sengokumahjong_link" /></Items>
+    </View>
+    <!--LINKS DE Soldier Blade-->
+    <View id="pcengine_soldierblade_link">
+        <Attributes>
+            <Table key="pcengine_soldierblade_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/8g86a9ypykufrb0/SoldierBlade.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/8g86a9ypykufrb0/SoldierBlade.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30022_00-SOLDIERBLADEJH24</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/soldierblade.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_soldierblade_link" attr="pcengine_soldierblade_link" /></Items>
+    </View>
+    <!--LINKS DE Super Star Soldier-->
+    <View id="pcengine_superstarsoldier_link">
+        <Attributes>
+            <Table key="pcengine_superstarsoldier_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/w3ahywgcboktybz/SuperStarSoldier.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/w3ahywgcboktybz/SuperStarSoldier.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0555-NPUF30010_00-SUPERSTARSOLEH06</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/superstarsoldier.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_superstarsoldier_link" attr="pcengine_superstarsoldier_link" /></Items>
+    </View>
+    <!--LINKS DE The Kung Fu-->
+    <View id="pcengine_thekungfu_link">
+        <Attributes>
+            <Table key="pcengine_thekungfu_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/opesfyg74nxzo78/TheKungFu.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/opesfyg74nxzo78/TheKungFu.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30018_00-THEKUNFU0000JH19</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/thekungfu.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_thekungfu_link" attr="pcengine_thekungfu_link" /></Items>
+    </View>
+    <!--LINKS DE Twin Bee-->
+    <View id="pcengine_twinbee_link">
+        <Attributes>
+            <Table key="pcengine_twinbee_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/q654zmtf2r62cc2/TwinBee.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/q654zmtf2r62cc2/TwinBee.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30024_00-DETANATWINBEJH25</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/twinbee.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_twinbee_link" attr="pcengine_twinbee_link" /></Items>
+    </View>
+    <!--LINKS DE Valis I-->
+    <View id="pcengine_valis1_link">
+        <Attributes>
+            <Table key="pcengine_valis1_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/2g4epe7ftkxc8fh/Valis.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/2g4epe7ftkxc8fh/Valis.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30033_00-VALIS0000000JS34</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/valis1.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_valis1_link" attr="pcengine_valis1_link" /></Items>
+    </View>
+    <!--LINKS DE Valis II-->
+    <View id="pcengine_valis2_link">
+        <Attributes>
+            <Table key="pcengine_valis2_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/mkcwjzcfkmyiufe/ValisII.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/mkcwjzcfkmyiufe/ValisII.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0807-NPJJ30034_00-VALIS2000000JC51</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/valis2.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_valis2_link" attr="pcengine_valis2_link" /></Items>
+    </View>
+    <!--LINKS DE Victory Run-->
+    <View id="pcengine_victoryrun_link">
+        <Attributes>
+            <Table key="pcengine_victoryrun_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/xoba44ltum7246r/VictoryRun.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/xoba44ltum7246r/VictoryRun.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0555-NPUF30015_00-VICTORYRUN00EH21</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/victoryrun.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_victoryrun_link" attr="pcengine_victoryrun_link" /></Items>
+    </View>
+    <!--LINKS DE Winds of Thunder-->
+    <View id="pcengine_windsofthunder_link">
+        <Attributes>
+            <Table key="pcengine_windsofthunder_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/x1dte58uovehqqw/WindsofThunder.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/x1dte58uovehqqw/WindsofThunder.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30015_00-WINDSOFTHUNDJS14</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/windsofthunder.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_windsofthunder_link" attr="pcengine_windsofthunder_link" /></Items>
+    </View>
+    <!--LINKS DE Ys 1 e 2-->
+    <View id="pcengine_ys1e2_link">
+        <Attributes>
+            <Table key="pcengine_ys1e2_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/24w9cagxg2j74f4/YsIeII.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/24w9cagxg2j74f4/YsIeII.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30038_00-YS1200000000JC38</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/ys1e2.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_ys1e2_link" attr="pcengine_ys1e2_link" /></Items>
+    </View>
+    <!--LINKS DE Ys 3: Wanderers from Ys-->
+    <View id="pcengine_ys3wanderersfromys_link">
+        <Attributes>
+            <Table key="pcengine_ys3wanderersfromys_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/hzdlf0d90s2qeew/YsIII.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/hzdlf0d90s2qeew/YsIII.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0555-NPJJ30039_00-YS3000000000JC39</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/ys3wanderersfromys.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_ys3wanderersfromys_link" attr="pcengine_ys3wanderersfromys_link" /></Items>
+    </View>
+    <!--LINKS DE Ys IV: The Dawn of Ys-->
+    <View id="pcengine_ys4thedawnofys_link">
+        <Attributes>
+            <Table key="pcengine_ys4thedawnofys_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/x7im0ju240mgvde/YsIV.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/x7im0ju240mgvde/YsIV.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0808-NPJJ30040_00-YS4000000000JS40</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/PCENGINE/ys4thedawnofys.jpg</String></Pair>
+            </Table>
+        </Attributes>
+        <Items><Item class="type:x-xmb/xmlnpsignup" key="pcengine_ys4thedawnofys_link" attr="pcengine_ys4thedawnofys_link" /></Items>
+    </View>
+
+
+
+</XMBML>

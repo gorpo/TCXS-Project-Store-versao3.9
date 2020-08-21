@@ -1,0 +1,42 @@
+<XMBML version="1.0">
+	<View id="killzone3_items">
+		<Attributes>
+			<Table key="killzone3_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - DLC 1</String></Pair>
+				<Pair key="info"><String>TCXS - BCUS98234</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30838_00/VwNNPqTJzPEGCvdpUcEOoJLrvHTYSXIZSJMJyOEvGpscgRNMpGoRKjEFdkKvDpKzKZixvrlVCnytarcxJCYyVdyJKUwZEpMlnCTQn.pkg</String></Pair>
+      </Table>
+			<Table key="killzone3_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - MAP PACK 2</String></Pair>
+				<Pair key="info"><String>TCXS - BCUS98234</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/BCUS98234_00/NlnvsZuaVjCNiKbHPMLeKptHEMlwICbYNRmJPQvdrAPvsgURDAdECIzvkqIOPoIKhgwFIchHMBIFXZpSKdOKijIQCzrWSHaaBeYhc.pkg</String></Pair>
+      </Table>
+			<Table key="killzone3_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - MAP PACK 3</String></Pair>
+				<Pair key="info"><String>TCXS - BCUS98234</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/BCUS98234_00/qZdZRCevCnMXYxDkNMllppCOTyDkmmjhqJiVQruVawPhQOHdpyqZlzfgYApgOjLqoQQuGZqCktcnLAErXURxASBALfsSamOKIcHTC.pkg</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query
+        class="type:x-xmb/module-action"
+        key="killzone3_item_0"
+        attr="killzone3_item_0"/>
+		<Query
+        class="type:x-xmb/module-action"
+        key="killzone3_item_1"
+        attr="killzone3_item_1"/>
+		<Query
+        class="type:x-xmb/module-action"
+        key="killzone3_item_2"
+        attr="killzone3_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

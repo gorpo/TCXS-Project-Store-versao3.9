@@ -1,0 +1,163 @@
+<XMBML version="1.0">
+	<View id="seg_tv_items">
+		<Attributes>
+      <Table key="A_Freira">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>A Freira</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/nibw4girb97qdco/AFreira_2018_720p_DUBLADO.mp4</String></Pair>
+      </Table>
+			<Table key="A_Mulher_Mais_Assassinada_Mundo">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>A Mulher Mais Assassinada do Mundo</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/t1xw3ccf3qlprcm/AMulher_Mais_Assassinada_do_Mundo_1080p_2018.mp4</String></Pair>
+      </Table>
+			<Table key="Annabelle_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Annabelle 2</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/e4ygz65t06g7uwn/Annabelle_2.mp4</String></Pair>
+      </Table>
+			<Table key="BirdBox">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>BirdBox</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/cap8atchhroiehz/Birdbox.mp4</String></Pair>
+      </Table>
+      <Table key="Fundo_Mar2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Do Fundo do Mar 2</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/npsm5xfamqirq35/dofundodomar2.mp4</String></Pair>
+      </Table>
+			<Table key="Invocação_Mal2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Invocação do Mal 2</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/bedd6r7vvreq8df/invocacao_do_mal_2.mp4</String></Pair>
+      </Table>
+			<Table key="It_coisa">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>It_A_Coisa</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/pjuzb35l1yveu8n/it_a_coisa%282018%29.mp4</String></Pair>
+      </Table>
+			<Table key="It_coisa2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>It A Capitulo 2</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/4vi1wkqdrmbz279/IT%20Chapter%202%20%282019%29.mp4</String></Pair>
+      </Table>
+			<Table key="Jogos_Mortais">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Jogos Mortais</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/n28hnlwv92t5xl6/jogos_mortais1.mp4</String></Pair>
+      </Table>
+			<Table key="Jogos_Mortais2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Jogos Mortais 2</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/u002w065um5bbz0/jogos_mortais2.mp4</String></Pair>
+      </Table>
+			<Table key="Jogos_Mortais3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Jogos Mortais 3</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/aj38y2lg7gl9pqh/jogos_mortais3.mp4</String></Pair>
+      </Table>
+			<Table key="Jogos_Mortais4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Jogos Mortais 4</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/wroma0vop5dv15m/jogos_mortais4.mp4</String></Pair>
+      </Table>
+			<Table key="Jogos_Mortais5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Jogos Mortais 5</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/ne6683tqzilg7h5/jogos_mortais5.mp4</String></Pair>
+      </Table>
+			<Table key="Jogos_Mortais6">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Jogos Mortais 6</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/3uw1u06raz0pqvc/jogos_mortais6.mp4</String></Pair>
+      </Table>
+			<Table key="Jogos_Mortais7">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Jogos Mortais 7</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/8r9i8mwt18q3jqq/jogos_mortais7.mp4</String></Pair>
+      </Table>
+      <Table key="Lugar_Silencioso">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Um Lugar Silencioso</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/63y9zwzjm1z0oqp/Um.Lugar.Silencioso_2018-720p.mp4</String></Pair>
+      </Table>
+			<Table key="Megatubarão">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Megatubarão</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/qgvqve7qticlteq/Mega-Tubarao_2018_720p.mp4</String></Pair>
+      </Table>
+			<Table key="Mulher_preto">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Mulher de preto</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/1q6juymuuoytb3t/mulher_de_preto.avi</String></Pair>
+      </Table>
+			<Table key="Mulher_preto2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Mulher de preto 2</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/vf6bqgt8xgqujl5/mulher_de_preto2.avi</String></Pair>
+      </Table>
+      <Table key="quarto_sonhos">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Quarto dos Sonhos</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/dq9vfbcyeq7srai/O%20Quarto%20dos%20Desejos_2019-1080p.mp4</String></Pair>
+      </Table>
+      <Table key="poço">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>O Poço</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/wv0tdcqk59lirla/O-Po%C3%A7o_2019_1080p.mp4</String></Pair>
+      </Table>
+			<Table key="noite_crime3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Uma noite de crime 3</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/mm08oed9vil71o4/uma_noite_de_crime3.mp4</String></Pair>
+      </Table>
+    </Attributes>
+		<Items>
+      <Item class="type:x-xmb/module-action" key="A_Freira" attr="A_Freira"/>
+    	<Item class="type:x-xmb/module-action" key="A_Mulher_Mais_Assassinada_Mundo" attr="A_Mulher_Mais_Assassinada_Mundo"/>
+    	<Item class="type:x-xmb/module-action" key="Annabelle_2" attr="Annabelle_2"/>
+    	<Item class="type:x-xmb/module-action" key="BirdBox" attr="BirdBox"/>
+      <Item class="type:x-xmb/module-action" key="Fundo_Mar2" attr="Fundo_Mar2"/>
+    	<Item class="type:x-xmb/module-action" key="Invocação_Mal2" attr="Invocação_Mal2"/>
+    	<Item class="type:x-xmb/module-action" key="It_coisa" attr="It_coisa"/>
+    	<Item class="type:x-xmb/module-action" key="It_coisa2" attr="It_coisa2"/>
+    	<Item class="type:x-xmb/module-action" key="Jogos_Mortais" attr="Jogos_Mortais"/>
+    	<Item class="type:x-xmb/module-action" key="Jogos_Mortais2" attr="Jogos_Mortais2"/>
+    	<Item class="type:x-xmb/module-action" key="Jogos_Mortais3" attr="Jogos_Mortais3"/>
+    	<Item class="type:x-xmb/module-action" key="Jogos_Mortais4" attr="Jogos_Mortais4"/>
+    	<Item class="type:x-xmb/module-action" key="Jogos_Mortais5" attr="Jogos_Mortais5"/>
+    	<Item class="type:x-xmb/module-action" key="Jogos_Mortais6" attr="Jogos_Mortais6"/>
+    	<Item class="type:x-xmb/module-action" key="Jogos_Mortais7" attr="Jogos_Mortais7"/>
+	    <Item class="type:x-xmb/module-action" key="Lugar_Silencioso" attr="Lugar_Silencioso"/>
+    	<Item class="type:x-xmb/module-action" key="Megatubarão" attr="Megatubarão"/>
+      <Item class="type:x-xmb/module-action" key="Mulher_preto" attr="Mulher_preto"/>
+    	<Item class="type:x-xmb/module-action" key="Mulher_preto2" attr="Mulher_preto2"/>
+      <Item class="type:x-xmb/module-action" key="quarto_sonhos" attr="quarto_sonhos"/>
+      <Item class="type:x-xmb/module-action" key="poço" attr="poço"/>
+      <Item class="type:x-xmb/module-action" key="noite_crime3" attr="noite_crime3"/>
+    </Items>
+	</View>
+
+</XMBML>

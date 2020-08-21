@@ -1,0 +1,20 @@
+<XMBML version="1.0">
+	<View id="ascrvl_items">
+		<Attributes>
+			<Table key="ascrvl_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - UPlay Passport</String></Pair>
+				<Pair key="info"><String>TCXS - BLES01384</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP0001/BLES01384_00/xEWwcDhDNKWnqqMkGIDHfXNPmofOkGBCbxDTmbFNmcVCZYzAUwDAWgMgsWlsDBmj.pkg</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ascrvl_item_0"
+        attr="ascrvl_item_0"/>
+		</Items>
+	</View>
+
+</XMBML>

@@ -1,0 +1,75 @@
+<XMBML version="1.0">
+	<View id="dmc_items">
+		<Attributes>
+			<Table key="dmc_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Blody Palace</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30723</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS30723_00/PpZuCOMzuBRgSlTePiMYXXwWVoUKFujyJdDgjoyrnroSrUlRMaQyyItnZprjSAKr.pkg</String></Pair>
+      </Table>
+			<Table key="dmc_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Dante Original</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30723</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS30723_00/HfBAlEtugOQwYFXyHlkZMCDCBwufgBINzNagCsYEIAAgCdZKoEHWwcTdTnJCkoRu.pkg</String></Pair>
+      </Table>
+			<Table key="dmc_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Premium</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30723</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS30723_00/FrqADwkhbXJqbgwVAkkUGpQurDRfOzSzTBiVmHRWNYxeclMdgQYRIXaxJNswxhdL.pkg</String></Pair>
+      </Table>
+			<Table key="dmc_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Weapons Bone</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30723</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS30723_00/jpnqNtBlfdTXkNeoZVNQjHIOmvoRvEhYWqxAuqBNMQOfZpsXfPgJsbKECVucRgnm.pkg</String></Pair>
+      </Table>
+			<Table key="dmc_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Weapons Gold</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30723</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS30723_00/fsSuZxTEGWJgrKxKYIwqUCNkLAQzWzxSxWQQEtagzfznqJsKQGXzdHbRwSCCMJYP.pkg</String></Pair>
+      </Table>
+			<Table key="dmc_item_5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Weapons Samurai</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30723</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS30723_00/WjsbkaquNvrTOZwKzdDJVqDdnIKwIaPPJyktuFLUQIdvqnozOjDWcNbBhYahsSxQ.pkg</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="dmc_item_0"
+        attr="dmc_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="dmc_item_1"
+        attr="dmc_item_1"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="dmc_item_2"
+        attr="dmc_item_2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="dmc_item_3"
+        attr="dmc_item_3"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="dmc_item_4"
+        attr="dmc_item_4"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="dmc_item_5"
+        attr="dmc_item_5"/>
+		</Items>
+	</View>
+
+</XMBML>

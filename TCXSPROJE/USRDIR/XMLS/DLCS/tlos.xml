@@ -1,0 +1,53 @@
+<XMBML version="1.0">
+	<View id="tlos_items">
+		<Attributes>
+			<Table key="tlos_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Left Behind</String></Pair>
+				<Pair key="info"><String>TCXS - BCUS98174</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/BCUS98174_00/sraOKUguzOYPgiGwybkBrQUVqfrxwqynJazqXUgLVQephLLRPOFuNDizKxAlGKCU.pkg</String></Pair>
+      </Table>
+			<Table key="tlos_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Treachrous Territories Map Pack</String></Pair>
+				<Pair key="info"><String>TCXS - BCUS98174</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/BCUS98174_00/YqGTTrVudehRpoUSoGoqLzSJccrfEkrCKdpdkvaQLXFFJijXZAnFAUdfGaAUlwNb.pkg</String></Pair>
+      </Table>
+			<Table key="tlos_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Reclaimed Territories Map Pack</String></Pair>
+				<Pair key="info"><String>TCXS - BCUS98174</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/BCUS98174_00/ZHdnSVXLiQdpOpvlOAhNjrUUPKXTtnqcIprregICDMUYNWItbZxwUpoonlYaYsXxPSNMMoMWOGaADyyrhHoQIDGFtmYKnvLDqpKde.pkg</String></Pair>
+      </Table>
+			<Table key="tlos_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Abandoned Territories Map Pack</String></Pair>
+				<Pair key="info"><String>TCXS - BCUS98174</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/BCUS98174_00/rTYxspOmUXmReWsxbisvjCOzjaGvcbVZOdHCQwLhSgBOKbVxDxZdGzBdLdJIHayM.pkg</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="tlos_item_0"
+        attr="tlos_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="tlos_item_1"
+        attr="tlos_item_1"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="tlos_item_2"
+        attr="tlos_item_2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="tlos_item_3"
+        attr="tlos_item_3"/>
+		</Items>
+	</View>
+
+</XMBML>

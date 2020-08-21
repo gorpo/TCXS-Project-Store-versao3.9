@@ -1,0 +1,49 @@
+<XMBML version="1.0">
+	<View id="instaladorneogeo_items"> 
+		
+		<Attributes>			
+			<Table key="host_psn">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/hen/installerps1.png</String></Pair>
+				<Pair key="title"><String>Instalar jogos de NeoGeo</String></Pair>
+				<Pair key="info"><String>Instale ou delete aqui seus PKGs de NeoGeo</String></Pair>
+				<Pair key="str_noitem"><String>msg_tool_no_psn_content</String></Pair>
+				<Pair key="child"><String>segment</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+
+
+
+
+
+
+		</Attributes>
+			<Items>
+
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="host_psn" attr="host_psn"
+				src="#seg_install_files_psn_path"
+			/>
+
+
+
+
+			</Items>
+		</View>
+
+		<View id="seg_install_files_psn_path">
+			<Items>
+				<Query
+					class="type:x-xmb/folder-pixmap"
+					key="seg_hdd_install"
+					src="ese://localhost/query?type=install_game"
+				/>
+				<Query
+					class="type:x-xmb/folder-pixmap"
+					key="seg_pkg_install"
+					src="ese://localhost/query?type=install_pkg"
+				/>
+			</Items>
+		</View>
+
+</XMBML>

@@ -1,0 +1,20 @@
+<XMBML version="1.0">
+	<View id="mgs5_items">
+		<Attributes>
+			<Table key="mgs5_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Metal Gear Online</String></Pair>
+				<Pair key="info"><String>TCXS - NPUB31594</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0101/NPUB31594_00/UP0101-NPUB31594_00-MGOGAMEDATAVER01_bg_2_122a828e5a257a6ca322a802005d0047ab2fdac3.pkg</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="mgs5_item_0"
+        attr="mgs5_item_0"/>
+		</Items>
+	</View>
+
+</XMBML>

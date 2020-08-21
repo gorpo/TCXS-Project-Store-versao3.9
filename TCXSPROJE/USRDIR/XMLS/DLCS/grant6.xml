@@ -1,0 +1,53 @@
+<XMBML version="1.0">
+	<View id="gt6_items">
+		<Attributes>
+			<Table key="gt6_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Devastation</String></Pair>
+				<Pair key="info"><String>TCXS - BCUS98114</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/BCUS98114_00/XcTIeFpMCyMoJZdOhuSnRvcXAbiGrqPwPqdWzSzwfdACapIXZPWcjGjcHqRoTYpmnYABhzkRauZSjvOudwnylNZDpGxyBojCCiCYK.pkg</String></Pair>
+      </Table>
+			<Table key="gt6_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Nemesis</String></Pair>
+				<Pair key="info"><String>TCXS - BCUS98114</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/BCUS98114_00/hYdXuAmNXLDQrWmWIxsDwRVGAXqgwbAIwBbOfaTvvQtDfoknNKBJwurszrsqTZtCouzeCnPAHatOvFjHWPXzitmQOyAGngLnUCUgS.pkg</String></Pair>
+      </Table>
+			<Table key="gt6_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Onslaught</String></Pair>
+				<Pair key="info"><String>TCXS - BCUS98114</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/BCUS98114_00/jzLfojsHhwDwpCeCRZMOKANftRXNPBXYRrHmmMrmgaHIBxjQQCxguPIsZoadSRexAYwwdcflVMDEEFxptCfLDpBvTRuXhIsOzdpSg.pkg</String></Pair>
+      </Table>
+			<Table key="gt6_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Invasion</String></Pair>
+				<Pair key="info"><String>TCXS - BCUS98114</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/BCUS98114_00/IHstuOxuTDvCRMlLaDnhwyxZzPbhmAoaXjTJkjhdFUyTtlJmhRfXAzTGaQnurJOdPbafyGWwRbIygdyEtjdQcUOtBBVleMLUlbQhz.pkg</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="gt6_item_0"
+        attr="gt6_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="gt6_item_1"
+        attr="gt6_item_1"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="gt6_item_2"
+        attr="gt6_item_2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="gt6_item_3"
+        attr="gt6_item_3"/>
+		</Items>
+	</View>
+
+</XMBML>

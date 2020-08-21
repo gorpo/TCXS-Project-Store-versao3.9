@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > TV > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key=" EPISODIO 01"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 01</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/euhnkr7at3i3061/1.mp4</String></Pair></Table>
+<Table key=" EPISODIO 02"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 02</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/wn0lwdpvwp57zvf/2.mp4</String></Pair></Table>
+<Table key=" EPISODIO 03"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 03</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/wz8o2ivjijaj0m6/3.mp4</String></Pair></Table>
+<Table key=" EPISODIO 04"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 04</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/n7pfokn2tdo3fk1/4.mp4</String></Pair></Table>
+<Table key=" EPISODIO 05"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 05</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/mmu2rfkr1i58oa4/5.mp4</String></Pair></Table>
+<Table key=" EPISODIO 06"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 06</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/cr44uj95410hqmo/6.mp4</String></Pair></Table>
+<Table key=" EPISODIO 07"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 07</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/kiq5rod4654hkcl/7.mp4</String></Pair></Table>
+<Table key=" EPISODIO 08"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 08</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/j7knszon5pdkmiq/8.mp4</String></Pair></Table>
+<Table key=" EPISODIO 09"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 09</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/kv6dey6492594ya/9.mp4</String></Pair></Table>
+<Table key=" EPISODIO 10"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/t3bqkt5ffyos2ii/10.mp4</String></Pair></Table>
+<Table key=" EPISODIO 11"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 11</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/ao2fuy531mt6slh/11.mp4</String></Pair></Table>
+<Table key=" EPISODIO 12"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 12</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/4igmxgup94wnrah/12.mp4</String></Pair></Table>
+<Table key=" EPISODIO 13"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 13</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/8bpezswwgwljr2x/13.mp4</String></Pair></Table>
+<Table key=" EPISODIO 14"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 14</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/p8fke5vg6gdkr67/14.mp4</String></Pair></Table>
+<Table key=" EPISODIO 15"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 15</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/rh48o8fkgzb9we8/15.mp4</String></Pair></Table>
+<Table key=" EPISODIO 16"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 16</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/mjq2jmp6t4yak7r/16.mp4</String></Pair></Table>
+<Table key=" EPISODIO 17"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 17</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/n566kq3mhaxhjed/17.mp4</String></Pair></Table>
+<Table key=" EPISODIO 18"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 18</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/bqygor4tfnabx1s/18.mp4</String></Pair></Table>
+<Table key=" EPISODIO 19"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 19</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/lsdhqglme5vo6e0/19.mp4</String></Pair></Table>
+<Table key=" EPISODIO 20"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 20</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/kkrxo3dmcgpy5yr/20.mp4</String></Pair></Table>
+<Table key=" EPISODIO 21"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 21</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/v4w6lfks1q6c0vo/21.mp4</String></Pair></Table>
+<Table key=" EPISODIO 22"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 22</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/egoft5ee2e9ajul/22.mp4</String></Pair></Table>
+<Table key=" EPISODIO 23"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 23</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/osj4sivnnvlwlix/23.mp4</String></Pair></Table>
+<Table key=" EPISODIO 24"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 24</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/60tezgk8dmfo5dl/24.mp4</String></Pair></Table>
+<Table key=" EPISODIO 25"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 25</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/iybbso4x6fqwdbr/25.mp4</String></Pair></Table>
+<Table key=" EPISODIO 26"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 26</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/hjwjm3js8qx18ma/26.mp4</String></Pair></Table>
+<Table key=" EPISODIO 27"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 27</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/dob5uouhmy86gtb/27.mp4</String></Pair></Table>
+<Table key=" EPISODIO 28"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 28</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/se3kt4oxohrh11q/28.mp4</String></Pair></Table>
+<Table key=" EPISODIO 29"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 29</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/iavzuyzvokj9v0f/29.mp4</String></Pair></Table>
+<Table key=" EPISODIO 30"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 30</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/7vuzuyluvwh35zl/30.mp4</String></Pair></Table>
+<Table key=" EPISODIO 31"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 31</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/zgic5frjw243idf/31.mp4</String></Pair></Table>
+<Table key=" EPISODIO 32"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 32</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/sgxxcuzetej4ysf/32.mp4</String></Pair></Table>
+<Table key=" EPISODIO 33"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 33</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/ryxlvrqfcjx7unz/33.mp4</String></Pair></Table>
+<Table key=" EPISODIO 34"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 34</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/ln6yw8jtwigbwzm/34.mp4</String></Pair></Table>
+<Table key=" EPISODIO 35"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 35</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/eiahbyc0aaiztsk/35.mp4</String></Pair></Table>
+<Table key=" EPISODIO 36"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 36</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/o6nbmysyjjl1977/36.mp4</String></Pair></Table>
+<Table key=" EPISODIO 37"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String> EPISODIO 37</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/fnkflqzferz5gds/37.mp4</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 01" attr=" EPISODIO 01"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 02" attr=" EPISODIO 02"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 03" attr=" EPISODIO 03"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 04" attr=" EPISODIO 04"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 05" attr=" EPISODIO 05"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 06" attr=" EPISODIO 06"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 07" attr=" EPISODIO 07"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 08" attr=" EPISODIO 08"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 09" attr=" EPISODIO 09"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 10" attr=" EPISODIO 10"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 11" attr=" EPISODIO 11"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 12" attr=" EPISODIO 12"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 13" attr=" EPISODIO 13"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 14" attr=" EPISODIO 14"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 15" attr=" EPISODIO 15"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 16" attr=" EPISODIO 16"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 17" attr=" EPISODIO 17"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 18" attr=" EPISODIO 18"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 19" attr=" EPISODIO 19"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 20" attr=" EPISODIO 20"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 21" attr=" EPISODIO 21"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 22" attr=" EPISODIO 22"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 23" attr=" EPISODIO 23"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 24" attr=" EPISODIO 24"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 25" attr=" EPISODIO 25"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 26" attr=" EPISODIO 26"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 27" attr=" EPISODIO 27"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 28" attr=" EPISODIO 28"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 29" attr=" EPISODIO 29"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 30" attr=" EPISODIO 30"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 31" attr=" EPISODIO 31"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 32" attr=" EPISODIO 32"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 33" attr=" EPISODIO 33"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 34" attr=" EPISODIO 34"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 35" attr=" EPISODIO 35"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 36" attr=" EPISODIO 36"/>
+<Item class="type:x-xmb/module-action" key=" EPISODIO 37" attr=" EPISODIO 37"/>
+</Items>
+	</View>
+
+</XMBML>

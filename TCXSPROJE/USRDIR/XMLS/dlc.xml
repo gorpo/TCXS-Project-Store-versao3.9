@@ -1,0 +1,883 @@
+﻿<XMBML version="1.0">
+    <View id="dlc_items">
+		<Attributes>
+			<Table key="dlc_codaw">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/image.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Call of Duty Advanced Warfare</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31553</String></Pair>
+			</Table>
+			
+			<Table key="dlc_codbo2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/blackops2.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Call of Duty Black Ops 2</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31054 </String></Pair>
+			</Table>
+			
+			<Table key="dlc_destiny">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/Destiny.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Destiny</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31202 </String></Pair>
+			</Table>
+			
+			<Table key="dlc_legom">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/legomarvelsh.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Lego Marvel Super Heroes</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31236 </String></Pair>
+			</Table>
+			
+			<Table key="dlc_codghost">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/ghosts.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Call of Duty Ghosts</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31301 </String></Pair>
+			</Table>
+			<Table key="dlc_codbo1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/blackops.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Call of Duty Black Ops</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB30584 </String></Pair>
+			</Table>
+			<Table key="dlc_tlou">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/tlos.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - The Last of Us</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUA80960 </String></Pair>
+			</Table>
+			<Table key="dlc_gowasc">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/gowascension.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - God of War Ascension</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUA80918 </String></Pair>
+			</Table>
+			<Table key="dlc_oppw">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/oppw.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - One Piece Pirate Warriors</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB30836 </String></Pair>
+			</Table>
+			<Table key="dlc_oppw2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/oppw2.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - One Piece Pirate Warriors 2</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31295 </String></Pair>
+			</Table>
+			<Table key="dlc_oppw3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/oppw3.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - One Piece Pirate Warriors 3</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31676 </String></Pair>
+			</Table>
+			<Table key="dlc_bf4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/battlefield4.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Battlefield 4</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31148 </String></Pair>
+			</Table>
+			<Table key="dlc_midla">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/mnclace.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Midnight Club LA</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB30471 </String></Pair>
+			</Table>
+			<Table key="dlc_grid">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/gridas.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - GRID Autosport</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31527 </String></Pair>
+			</Table>
+			<Table key="dlc_dmc">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/dmc.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - DmC: Devil may Cry</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB30830 </String></Pair>
+			</Table>
+			<Table key="dlc_infa2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/infamous2.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Infamous 2</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUA80638 </String></Pair>
+			</Table>
+			<Table key="dlc_asc4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/ac4.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Assasin's Creed 4: Black Flag</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31246 </String></Pair>
+			</Table>
+			<Table key="dlc_taspider2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/tas2.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - The Amazing Spider-Man 2</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31351 </String></Pair>
+			</Table>
+			<Table key="dlc_revil6">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/re6.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Resident Evil 6</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB30984 </String></Pair>
+			</Table>
+			<Table key="dlc_revilr">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/rer.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Resident Evil Revelations</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB30991 </String></Pair>
+			</Table>
+			<Table key="dlc_mk">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/mk.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Mortal Kombat</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB30668 </String></Pair>
+			</Table>
+			<Table key="dlc_legojuw">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/ljw.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - LEGO Jurassic World</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31643 </String></Pair>
+			</Table>
+			<Table key="dlc_midearth">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/mesom.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Middle-Earth: Shadow of Mordor</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31436 </String></Pair>
+			</Table>
+			<Table key="dlc_legohob">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/lth.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - LEGO The Hobbit</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31429 </String></Pair>
+			</Table>
+			<Table key="dlc_bey2s">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/bts.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Beyond: two souls</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUA81087 </String></Pair>
+			</Table>
+			<Table key="dlc_recordawz">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/roawz.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Record of Agarest War Zero</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB30776 </String></Pair>
+			</Table>
+			<Table key="dlc_playroyale">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/pasbr.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - PlayStation All-Stars Battle Royale</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUA80316 </String></Pair>
+			</Table>
+			<Table key="dlc_wwe15">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/wwe15.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - WWE 2k15</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31546 </String></Pair>
+			</Table>
+			<Table key="dlc_uncharted2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/uncharted2.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Uncharted 2 Among Thieves</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUA80698 </String></Pair>
+			</Table>
+			<Table key="dlc_mafia2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/mafia2.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Mafia 2</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB30656 </String></Pair>
+			</Table>
+			<Table key="dlc_batorigins">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/bao.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Batman Arkham Origins</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31261 </String></Pair>
+			</Table>
+			<Table key="dlc_dragdoga">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/ddda.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Dragon's Dogma: Dark Arisen</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31117 </String></Pair>
+			</Table>
+			<Table key="dlc_pes14">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/pes14.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Pro Evolution Soccer 2014</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31337 </String></Pair>
+			</Table>
+			<Table key="dlc_grid2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/grid2.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Grid 2</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31075 </String></Pair>
+			</Table>
+			<Table key="dlc_watchdogs">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/wd.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Watch Dogs</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31254 </String></Pair>
+			</Table>
+			<Table key="dlc_revilr2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/rer22.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Resident Evil Revelations 2</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31518 </String></Pair>
+			</Table>
+			<Table key="dlc_tombraider">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/tr.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Tomb Raider</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31146 </String></Pair>
+			</Table>
+			<Table key="dlc_legobat3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/lb3.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - LEGO Batman 3 - Beyond Gotham</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31499 </String></Pair>
+			</Table>
+			<Table key="dlc_minecraft">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/minecraft.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Minecraft</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31419 </String></Pair>
+			</Table>
+			<Table key="dlc_uncharted3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/uncharted3.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Uncharted 3 - Drakes Deception</String></Pair>
+				<Pair key="info"><String>DLC PARA BCUS98233 </String></Pair>
+			</Table>
+			<Table key="dlc_aliensiso">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/ai.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Alien: Isolation</String></Pair>
+				<Pair key="info"><String>DLC PARA NPEB01921 </String></Pair>
+			</Table>
+			<Table key="dlc_superstreet4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/ssf4.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Super Street Fighter 4 Arcade Edition</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB30649 </String></Pair>
+			</Table>
+			<Table key="dlc_codmw2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/codmw2.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Call of Duty: Modern Warfare 2</String></Pair>
+				<Pair key="info"><String>DLC PARA NPEB00731 </String></Pair>
+			</Table>
+			<Table key="dlc_codmw3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/codmw3.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Call of Duty: Modern Warfare 3</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB30787 </String></Pair>
+			</Table>
+			<Table key="dlc_maxpayne3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/mp3.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Max Payne 3</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB30902 </String></Pair>
+			</Table>
+			<Table key="dlc_metalgear5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/mgs5.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Metal Gear Solid V: The Phantom Pain</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31594 </String></Pair>
+			</Table>
+			<Table key="dlc_lifestrange">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/lis2.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Life Is Strange</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31636 </String></Pair>
+			</Table>
+			<Table key="dlc_grant6">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/gt6.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Gran Turismo 6</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUA81049 </String></Pair>
+			</Table>
+			<Table key="dlc_dynwar8">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/dw8.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - DYNASTY WARRIORS 8</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31234 </String></Pair>
+			</Table>
+			<Table key="dlc_killzone3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/killzone3.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Killzone 3</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUA30067 </String></Pair>
+			</Table>
+			<Table key="dlc_littlebigp">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/lbp.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Little Big Planet</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUA80472 </String></Pair>
+			</Table>
+			<Table key="dlc_littlebigp2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/lbp2.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Little Big Planet 2</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUA80662 </String></Pair>
+			</Table>
+			<Table key="dlc_littlebigp3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/lbp3.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Little Big Planet 3</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUA81116 </String></Pair>
+			</Table>
+			<Table key="dlc_littlebigpkrt">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/lbpk.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Little Big Planet Karting</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUA80848 </String></Pair>
+			</Table>
+			<Table key="dlc_lostp3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/lp3.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Lost Planet 3</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31125 </String></Pair>
+			</Table>
+			<Table key="dlc_streetxtek">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/sfxt.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - Street Fighter X TEKKEN</String></Pair>
+				<Pair key="info"><String>DLC PARA NPEB01792 </String></Pair>
+			</Table>
+			<Table key="dlc_mxvsatx">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/EXCLUSIVOS/mva.jpg</String></Pair>
+				<Pair key="title"><String> TCXS - MX vs ATX</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB30602 </String></Pair>
+			</Table>
+			<Table key="dlc_alienscm">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/alienscm.png</String></Pair>
+				<Pair key="title"><String> TCXS - Aliens Colonial Marines (US)</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB31071</String></Pair>
+			</Table>
+			<Table key="dlc_saintsrow2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/saintsrow2.png</String></Pair>
+				<Pair key="title"><String> TCXS - Saints Row 2 (US)</String></Pair>
+				<Pair key="info"><String>DLC PARA BLUS0302001</String></Pair>
+			</Table>
+			<Table key="dlc_saintsrow3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/saintsrow3.png</String></Pair>
+				<Pair key="title"><String> TCXS - Saints Row 3 (US)</String></Pair>
+				<Pair key="info"><String>DLC PARA BLUS30666</String></Pair>
+			</Table>
+			<Table key="dlc_saintsrow4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/saintsrow4.png</String></Pair>
+				<Pair key="title"><String> TCXS - Saints Row 4 (US)</String></Pair>
+				<Pair key="info"><String>DLC PARA BLUS31205</String></Pair>
+			</Table>
+			<Table key="dlc_alicemadness">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/alicemadness.png</String></Pair>
+				<Pair key="title"><String> TCXS - Alice: Madness Returns (US)</String></Pair>
+				<Pair key="info"><String>DLC PARA NPUB30545</String></Pair>
+			</Table>
+			<Table key="dlc_acecbh">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/acecbh.png</String></Pair>
+				<Pair key="title"><String> TCXS - Ace Combat - Assault Horizon (EU/US)</String></Pair>
+				<Pair key="info"><String>DLC PARA BLES01393/BLUS30613</String></Pair>
+			</Table>
+			<Table key="dlc_007ger">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/007ger.png</String></Pair>
+				<Pair key="title"><String> TCXS - 007 GoldenEye: Reloaded (US)</String></Pair>
+				<Pair key="info"><String>DLC PARA BLUS30755</String></Pair>
+			</Table>
+			<Table key="dlc_asc3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/asc3.png</String></Pair>
+				<Pair key="title"><String> TCXS - Assassin's Creed 3 (US)</String></Pair>
+				<Pair key="info"><String>DLC PARA BLUS30991</String></Pair>
+			</Table>
+			<Table key="dlc_asc31">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/asc3.png</String></Pair>
+				<Pair key="title"><String> TCXS - Assassin's Creed 3 (EU)</String></Pair>
+				<Pair key="info"><String>DLC PARA BLES01667</String></Pair>
+			</Table>
+			<Table key="dlc_ascbrother">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/ascbrother.png</String></Pair>
+				<Pair key="title"><String> TCXS - Assassin's Creed Brotherhood (EU)</String></Pair>
+				<Pair key="info"><String>DLC PARA BLES00909</String></Pair>
+			</Table>
+			<Table key="dlc_ascrvl">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/ascrvl.png</String></Pair>
+				<Pair key="title"><String> TCXS - Assassin's Creed: Revelations (EU)</String></Pair>
+				<Pair key="info"><String>DLC PARA BLES01467</String></Pair>
+			</Table>
+			<Table key="dlc_ascrogue">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/ascrogue.png</String></Pair>
+				<Pair key="title"><String> TCXS - Assassin's Creed: Rogue (EU)</String></Pair>
+				<Pair key="info"><String>DLC PARA BLES02061</String></Pair>
+			</Table>
+			<Table key="dlc_farcry3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/farcry3.png</String></Pair>
+				<Pair key="title"><String> TCXS - Far Cry 3 (EU)</String></Pair>
+				<Pair key="info"><String>DLC PARA BLES01138</String></Pair>
+			</Table>
+			<Table key="dlc_farcry31">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/farcry3.png</String></Pair>
+				<Pair key="title"><String> TCXS - Far Cry 3 (US)</String></Pair>
+				<Pair key="info"><String>DLC PARA BLUS30687</String></Pair>
+			</Table>
+			<Table key="dlc_farcry4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/farcry4.png</String></Pair>
+				<Pair key="title"><String> TCXS - Far Cry 4 (EU)</String></Pair>
+				<Pair key="info"><String>DLC PARA BLES02011</String></Pair>
+			</Table>
+			<Table key="dlc_borderlands">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/borderlands.png</String></Pair>
+				<Pair key="title"><String> TCXS - Borderlands (EU)</String></Pair>
+				<Pair key="info"><String>DLC PARA BLES00697</String></Pair>
+			</Table>
+			<Table key="dlc_borderlands1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/borderlands.png</String></Pair>
+				<Pair key="title"><String> TCXS - Borderlands (US)</String></Pair>
+				<Pair key="info"><String>DLC PARA BLUS30386</String></Pair>
+			</Table>
+			<Table key="dlc_borderlands2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/borderlands2.png</String></Pair>
+				<Pair key="title"><String> TCXS - Borderlands 2 (US/EU)</String></Pair>
+				<Pair key="info"><String>DLC PARA BLUS30991</String></Pair>
+			</Table>
+			<Table key="dlc_batcity1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/batcity.png</String></Pair>
+				<Pair key="title"><String> TCXS - Batman Arkham City (US)</String></Pair>
+				<Pair key="info"><String>DLC PARA BLUS30538</String></Pair>
+			</Table>
+			<Table key="dlc_batcity">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/batcity.png</String></Pair>
+				<Pair key="title"><String> TCXS - Batman Arkham City (EU)</String></Pair>
+				<Pair key="info"><String>DLC PARA BLES00926</String></Pair>
+			</Table>
+			<Table key="dlc_batasylum1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/batasylum.png</String></Pair>
+				<Pair key="title"><String> TCXS - Batman Arkham Asylum (US)</String></Pair>
+				<Pair key="info"><String>DLC PARA BLUS30279</String></Pair>
+			</Table>
+			<Table key="dlc_batasylum">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/batasylum.png</String></Pair>
+				<Pair key="title"><String> TCXS - Batman Arkham Asylum (EU)</String></Pair>
+				<Pair key="info"><String>DLC PARA BLES00503</String></Pair>
+			</Table>
+	
+		</Attributes>
+			<Items>
+				<Query 
+					class="type:x-xmb/xmlpackagefolder" 
+					key="dlc_007ger" 
+					attr="dlc_007ger" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/007ger.xml#007ger_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_aliensiso" 
+					attr="dlc_aliensiso" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/aliensiso.xml#ai_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_alienscm" 
+					attr="dlc_alienscm" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/alienscm.xml#alienscm_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_acecbh" 
+					attr="dlc_acecbh" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/acecbh.xml#acecbh_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_alicemadness" 
+					attr="dlc_alicemadness" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/alicemadness.xml#alicemadness_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_asc3" 
+					attr="dlc_asc3" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/asc3.xml#asc3_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_asc31" 
+					attr="dlc_asc31" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/asc31.xml#asc31_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_asc4" 
+					attr="dlc_asc4" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/asc4.xml#ac4_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_ascbrother" 
+					attr="dlc_ascbrother" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/ascbrother.xml#ascbrother_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_ascrogue" 
+					attr="dlc_ascrogue" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/ascrogue.xml#ascrogue_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_ascrvl" 
+					attr="dlc_ascrvl" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/ascrvl.xml#ascrvl_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_batcity" 
+					attr="dlc_batcity" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/batcity.xml#batcity_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_batcity1" 
+					attr="dlc_batcity1" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/batcity1.xml#batcity1_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_batasylum" 
+					attr="dlc_batasylum" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/batasylum.xml#batasylum_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_batasylum1" 
+					attr="dlc_batasylum1" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/batasylum1.xml#batasylum1_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_batorigins" 
+					attr="dlc_batorigins" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/batorigins.xml#bao_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_borderlands" 
+					attr="dlc_borderlands" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/borderlands.xml#borderlands_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_borderlands1" 
+					attr="dlc_borderlands1" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/borderlands1.xml#borderlands1_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_borderlands2" 
+					attr="dlc_borderlands2" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/borderlands2.xml#borderlands2_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_bey2s" 
+					attr="dlc_bey2s" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/bey2s.xml#bts_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_bf4" 
+					attr="dlc_bf4" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/bf4.xml#battlefield4_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_codaw" 
+					attr="dlc_codaw" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/codaw.xml#advanced_warfare_items"					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_codbo1" 
+					attr="dlc_codbo1" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/codbo1.xml#black_ops_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_codbo2" 
+					attr="dlc_codbo2" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/codbo2.xml#black_ops_ii_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_codghost" 
+					attr="dlc_codghost" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/codghost.xml#ghosts_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_codmw2" 
+					attr="dlc_codmw2" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/codmw2.xml#mw2_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_codmw3" 
+					attr="dlc_codmw3" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/codmw3.xml#mw3_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_destiny" 
+					attr="dlc_destiny" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/destiny.xml#destiny_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_dmc" 
+					attr="dlc_dmc"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/dmc.xml#dmc_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_dragdoga" 
+					attr="dlc_dragdoga"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/dragdoga.xml#ddda_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_dynwar8" 
+					attr="dlc_dynwar8"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/dynwar8.xml#dw8_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_farcry3" 
+					attr="dlc_farcry3" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/farcry3.xml#farcry3_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_farcry31" 
+					attr="dlc_farcry31" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/farcry31.xml#farcry31_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_farcry4" 
+					attr="dlc_farcry4" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/farcry4.xml#farcry4_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_gowasc" 
+					attr="dlc_gowasc" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/gowasc.xml#gowa_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_grant6" 
+					attr="dlc_grant6" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/grant6.xml#gt6_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_grid" 
+					attr="dlc_grid" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/grid.xml#grid_items"
+					/>
+				<Query
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_grid2" 
+					attr="dlc_grid2" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/grid2.xml#grid2_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_infa2" 
+					attr="dlc_infa2" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/infa2.xml#infamous2_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_killzone3" 
+					attr="dlc_killzone3" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/killzone3.xml#killzone3_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_legobat3" 
+					attr="dlc_legobat3" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/legobat3.xml#lb3_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_legojuw" 
+					attr="dlc_legojuw" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/legojuw.xml#ljw_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_legom" 
+					attr="dlc_legom" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/legom.xml#legomarvelsh_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_legohob" 
+					attr="dlc_legohob" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/legohob.xml#lth_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_lifestrange" 
+					attr="dlc_lifestrange" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/lifestrag2.xml#lis_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_littlebigp" 
+					attr="dlc_littlebigp" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/littlebigp.xml#lbp_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_littlebigp2" 
+					attr="dlc_littlebigp2" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/littlebigp2.xml#lbp2_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_littlebigp3" 
+					attr="dlc_littlebigp3" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/littlebigp3.xml#lbp3_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_littlebigpkrt" 
+					attr="dlc_littlebigpkrt" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/littlebigpkrt.xml#lbpk_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_lostp3" 
+					attr="dlc_lostp3" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/lostplanet3.xml#lp3_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_mafia2" 
+					attr="dlc_mafia2" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/mafia2.xml#mafia2_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_maxpayne3" 
+					attr="dlc_maxpayne3" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/maxpayne3.xml#mp3_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_metalgear5" 
+					attr="dlc_metalgear5" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/metalgear5.xml#mgs5_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_mxvsatx" 
+					attr="dlc_mxvsatx" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/mxvsatv.xml#mva_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_midearth" 
+					attr="dlc_midearth" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/midearth.xml#mesom_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_midla" 
+					attr="dlc_midla" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/midla.xml#midnightcelace_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_minecraft" 
+					attr="dlc_minecraft" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/minecraft.xml#minecraft_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_mk" 
+					attr="dlc_mk" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/mk.xml#mk_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_oppw" 
+					attr="dlc_oppw" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/oppw.xml#oppw_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_oppw2" 
+					attr="dlc_oppw2" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/oppw2.xml#oppw2_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_oppw3" 
+					attr="dlc_oppw3" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/oppw3.xml#oppw3_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_playroyale" 
+					attr="dlc_playroyale" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/playroyale.xml#pasbr_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_pes14" 
+					attr="dlc_pes14" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/pes14.xml#pes14_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_revil6" 
+					attr="dlc_revil6"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/revil6.xml#re6_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_revilr" 
+					attr="dlc_revilr"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/revilr.xml#rer_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_revilr2" 
+					attr="dlc_revilr2"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/revilr2.xml#rer2_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_recordawz" 
+					attr="dlc_recordawz"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/recordawz.xml#roawz_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_saintsrow2" 
+					attr="dlc_saintsrow2" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/saintsrow2.xml#saintsrow2_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_saintsrow3" 
+					attr="dlc_saintsrow3" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/saintsrow3.xml#saintsrow3_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_saintsrow4" 
+					attr="dlc_saintsrow4" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/saintsrow4.xml#saintsrow4_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_superstreet4" 
+					attr="dlc_superstreet4"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/superstreet4.xml#ssf4_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_streetxtek" 
+					attr="dlc_streetxtek"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/streetxtek.xml#sfxt_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_uncharted2" 
+					attr="dlc_uncharted2"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/uncharted2.xml#uncharted2_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_uncharted3" 
+					attr="dlc_uncharted3"
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/uncharted3.xml#uncharted3_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_taspider2" 
+					attr="dlc_taspider2" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/taspider2.xml#tas2_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_tlou" 
+					attr="dlc_tlou" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/tlos.xml#tlos_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_tombraider" 
+					attr="dlc_tombraider" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/tombraider.xml#tr_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_watchdogs" 
+					attr="dlc_watchdogs" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/watchdogs.xml#wd_items"
+					/>
+				<Query 
+					class="type:x-xmb/folder-pixmap" 
+					key="dlc_wwe15" 
+					attr="dlc_wwe15" 
+src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/DLCS/wwe15.xml#wwe15_items"
+					/>
+			</Items>
+		</View>
+
+
+</XMBML>

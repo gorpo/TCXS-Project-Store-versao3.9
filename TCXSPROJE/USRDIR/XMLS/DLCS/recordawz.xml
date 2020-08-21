@@ -1,0 +1,53 @@
+<XMBML version="1.0">
+	<View id="roawz_items">
+		<Attributes>
+			<Table key="roawz_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Traje Adicional 1</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30686</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1024/BLUS30686_00/tnkfUeOLIRJJzfYFmknolloxeNtigoZJmKWuEaDwfNAcnasOADGuRAlLInwwAbBLLihvZzzOjLesLsIwlTnccQisIJToxYvBZsLoa.pkg</String></Pair>
+      </Table>
+			<Table key="roawz_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Traje Adicional 2</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30686</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1024/BLUS30686_00/tjudjAmfwxROWVnaXYBqBWMHgwSgClIcKhIoNJShiglQqMOJXhYsaDgYMGeCxIQFXeImKaXYtWXXatbKAdBapdQBSDFpvcxZcqZnd.pkg</String></Pair>
+      </Table>
+			<Table key="roawz_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Pacote de Adição de Pontos</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30686</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1024/BLUS30686_00/eFqGCIePpFlnLAaWsUpkqJpOSczCVPXVNrnXJqaEKNlVeXGZkHkAEujLFBzPVoSSPnnHVfACsXjhOEDuFofCrwQsEMSaKfiPXgdsc.pkg</String></Pair>
+      </Table>
+			<Table key="roawz_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Pacote de Adição de PP</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30686</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1024/BLUS30686_00/mvDJlygJrifiZInFLqloFKKbevMnPTqYRScZydFJstPZQKSXKWncGKVshTjGCgTjVrwAYTjzpCHDQhpUwplsqJTcNDmYxWReuCsyp.pkg</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="roawz_item_0"
+        attr="roawz_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="roawz_item_1"
+        attr="roawz_item_1"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="roawz_item_2"
+        attr="roawz_item_2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="roawz_item_3"
+        attr="roawz_item_3"/>
+		</Items>
+	</View>
+
+</XMBML>

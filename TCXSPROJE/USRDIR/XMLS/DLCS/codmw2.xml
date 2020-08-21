@@ -1,0 +1,31 @@
+<XMBML version="1.0">
+	<View id="mw2_items">
+		<Attributes>
+			<Table key="mw2_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Stimulus</String></Pair>
+				<Pair key="info"><String>TCXS - BLES00683</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP0002/BLES00683_00/KthvNgWvRtrrETTnbtn05Fah8Uy6vTvEdFVGOXnKPxgYLAjMo1L0O4OmC5YMCyM9ttDYdKdiu2W1VQM4PkSxhUhAT6U1rJ239JFwg.pkg</String></Pair>
+      </Table>
+			<Table key="mw2_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Resurgence</String></Pair>
+				<Pair key="info"><String>TCXS - BLES00683</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP0002/BLES00683_00/fn22g244je2CVQnlETyMoiAl9IW9jsfNRyBMNxgu7Sgdxj7fHdOM8gkiUtHJd5cGYBTym3kqnFoDKWeR9F4napI3tc9OUlCWkHNbF.pkg</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="mw2_item_0"
+        attr="mw2_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="mw2_item_1"
+        attr="mw2_item_1"/>
+		</Items>
+	</View>
+
+</XMBML>

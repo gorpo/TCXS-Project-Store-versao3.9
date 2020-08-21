@@ -1,0 +1,78 @@
+<XMBML version="1.0">
+	<View id="seg_tv_items">
+		<Attributes>
+			<Table key="50_tons_de_liberdade">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>50 tons de liberdade</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/lp532ife7pabco7/50%20tons%20de%20liberdade.mp4</String></Pair>
+      </Table>
+			<Table key="A_Barraca_Do_Beijo">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>A Barraca Do Beijo</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/lryhvcfmatl0hlq/barraca_do_beijo.mp4</String></Pair>
+      </Table>
+			<Table key="dama_vagabundo">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>A Dama e o Vgabundo (2019)</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/942vxndek7xt033/A%20Dama%20e%20o%20Vagabundo%20%282019%29-720p.mp4</String></Pair>
+      </Table>
+			<Table key="Cinquenta_Tons_Preto">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Cinquenta Tons de Preto</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/u52k1huggxxlbj3/Cinquenta_Tons_Preto_2016_720p.mp4</String></Pair>
+      </Table>
+			<Table key="crepusculo">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Crepusculo</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/lvwdenmfqochyuw/Crepusculo%202008%20Dual.mp4</String></Pair>
+      </Table>
+			<Table key="Crepusculo_Lua_Nova">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Crepusculo Lua Nova</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/uta2bia0wb4yb3o/Crepusculo%20Lua%20Nova.MP4.DUB.BaixarSeriesMP4.Com.mp4</String></Pair>
+      </Table>
+			<Table key="Crepusculo_Amanhecer">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Crepusculo Amanhecer</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/86orm8yrmn1ufl1/Crepusculo%20Amanhecer%20PT.1%202011%20BDRip%20Dual.mp4</String></Pair>
+      </Table>
+			<Table key="Crepusculo_Amanhecer2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Crepusculo Amanhecer 2 </String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/3k7myue8u1opn84/Amanhecer%20Parte%202.720p.Dub.%5Bwww.Brasilmegaseries.Net%5D.mp4</String></Pair>
+      </Table>
+			<Table key="Para_todos_garotos_amei">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Para todos os garotos que ja amei</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/w36ew5v74fmgg3n/para_todos_garotos_que_ja_ammmeiei.mp4</String></Pair>
+      </Table>
+			<Table key="segunda_chance">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Uma Segunda Chance para Amar</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/p8a0f7a7izqovst/Uma%20Segunda%20Chance%20para%20Amar_2019-1080p.mp4</String></Pair>
+      </Table>
+    </Attributes>
+		<Items>
+      <Item class="type:x-xmb/module-action" key="50_tons_de_liberdade" attr="50_tons_de_liberdade"/>
+	    <Item class="type:x-xmb/module-action" key="A_Barraca_Do_Beijo" attr="A_Barraca_Do_Beijo"/>
+	    <Item class="type:x-xmb/module-action" key="dama_vagabundo" attr="dama_vagabundo"/>
+	    <Item class="type:x-xmb/module-action" key="Cinquenta_Tons_Preto" attr="Cinquenta_Tons_Preto"/>
+	    <Item class="type:x-xmb/module-action" key="crepusculo" attr="crepusculo"/>
+	    <Item class="type:x-xmb/module-action" key="Crepusculo_Lua_Nova" attr="Crepusculo_Lua_Nova"/>
+	    <Item class="type:x-xmb/module-action" key="Crepusculo_Amanhecer" attr="Crepusculo_Amanhecer"/>
+	    <Item class="type:x-xmb/module-action" key="Crepusculo_Amanhecer2" attr="Crepusculo_Amanhecer2"/>
+	    <Item class="type:x-xmb/module-action" key="Para_todos_garotos_amei" attr="Para_todos_garotos_amei"/>
+		</Items>
+	</View>
+
+</XMBML>

@@ -1,0 +1,86 @@
+<XMBML version="1.0">
+	<View id="mafia2_items">
+		<Attributes>
+			<Table key="mafia2_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Greaser Pack</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30281</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1001/BLUS30281_00/Mg4q4FYo87ImE7U6vgfEFko69dH3JFWwEwOise0KVkGb3jpA0GcXoX4I1yue4FyA63vh0iPYh3IPf111HVWrxQ7A0tCo6xeCXCJpH.pkg</String></Pair>
+      </Table>
+			<Table key="mafia2_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Jimmys Vendetta</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30281</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1001/BLUS30281_00/6pAcN5pxfTKFn6ADCDSlXI1pF8Q5cI947N2VcOmK3ll1aRY89HVK2EFCR8D02nnGku1si9E3RML1I8DLT233cQfTbTmUwcVurQfFB.pkg</String></Pair>
+      </Table>
+			<Table key="mafia2_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Joes Adventure</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30281</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1001/BLUS30281_00/lSZRfakJkKGoGijofhbTzPVFCoPgOEznWZtuAludhohKEwCOsLQyDDmvEEYMFFBMSkhNZncHbZJGNujNgbjBZRguezaTdxatuSsgJ.pkg</String></Pair>
+      </Table>
+			<Table key="mafia2_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Renegade Pack</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30281</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1001/BLUS30281_00/x0C47OeMVDyNP2TegWyiqB0T9bklBJVqB8aslP6U27Jp4lifuraY6EfNtU9exwtyModFPiAPFMR7lj7yqxw51rCMuVY5GNva5gRil.pkg</String></Pair>
+      </Table>
+			<Table key="mafia2_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - The Betrayal of Jimmy</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30281</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1001/BLUS30281_00/hFo2CggYApAf8lVE0eRe0b0GlJPXnNgRCiDe5T5kjmut9KovO5RiDxlTdBvS5rjfX09jjumoINM2QouOrEX2qfkAr8ilNTMTmExPp.pkg</String></Pair>
+      </Table>
+			<Table key="mafia2_item_5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Vegas Pack</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30281</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1001/BLUS30281_00/xTguLfVU77YUh1hrnHcEu38xsbdpApMWCCC2YjmmrTMGusLPLLunj5tSWWumlJ1YCAXqruKxd8kPpPgThucwnS4A0hYAdqGMJBXVa.pkg</String></Pair>
+      </Table>
+			<Table key="mafia2_item_6">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - War Hero Pack</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30281</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1001/BLUS30281_00/c1AhbXXYSjhPKHm0Qnq6hKHW6QQcPnP5Q1nyWIknnQUGB7PRNWqXo0w75f7hTdsY7tiS31LoMdfysToVDSVc8SBRlOHPifDlvTPG8.pkg</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="mafia2_item_0"
+        attr="mafia2_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="mafia2_item_1"
+        attr="mafia2_item_1"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="mafia2_item_2"
+        attr="mafia2_item_2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="mafia2_item_3"
+        attr="mafia2_item_3"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="mafia2_item_4"
+        attr="mafia2_item_4"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="mafia2_item_5"
+        attr="mafia2_item_5"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="mafia2_item_6"
+        attr="mafia2_item_6"/>
+		</Items>
+	</View>
+
+</XMBML>

@@ -1,0 +1,140 @@
+<XMBML version="1.0">
+	<View id="seg_tv_items">
+		<Attributes>
+			<Table key="angel_beats">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/angel_beats.png</String></Pair>
+				<Pair key="title"><String>Angel Beats</String></Pair>
+				<Pair key="info"><String></String></Pair>
+      </Table>
+			<Table key="bakugan">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/bakugan.png</String></Pair>
+				<Pair key="title"><String>Bakugan</String></Pair>
+				<Pair key="info"><String></String></Pair>
+      </Table>
+			<Table key="death_note">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/death_note.png</String></Pair>
+				<Pair key="title"><String>Death Note</String></Pair>
+				<Pair key="info"><String></String></Pair>
+      </Table>
+			<Table key="desencanto">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/desencanto.png</String></Pair>
+				<Pair key="title"><String>Des Encanto</String></Pair>
+				<Pair key="info"><String></String></Pair>
+      </Table>
+			<Table key="fudencio">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/fudencio.png</String></Pair>
+				<Pair key="title"><String>fudencio</String></Pair>
+				<Pair key="info"><String></String></Pair>
+      </Table>
+			<Table key="hamtaro">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/hamtaro.png</String></Pair>
+				<Pair key="title"><String>Hamtaro</String></Pair>
+				<Pair key="info"><String></String></Pair>
+      </Table>
+			<Table key="mr_pickles">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/mr_pickles.png</String></Pair>
+				<Pair key="title"><String>Mr.Picles</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			   </Table>
+			<Table key="o_maskara">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/o_maskara.png</String></Pair>
+				<Pair key="title"><String>O Maskara</String></Pair>
+				<Pair key="info"><String></String></Pair>
+      </Table>
+			<Table key="overlord">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/overlord.png</String></Pair>
+				<Pair key="title"><String>Overlord</String></Pair>
+				<Pair key="info"><String></String></Pair>
+      </Table>
+			<Table key="rick_and_morty">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/rick_and_morty.png</String></Pair>
+				<Pair key="title"><String>Rick And Morty</String></Pair>
+				<Pair key="info">EM !!MANUTENÇÃO!!<String></String></Pair>
+      </Table>
+			<Table key="sword_art_online">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/sword_art_online.png</String></Pair>
+				<Pair key="title"><String>Sword Art Online</String></Pair>
+				<Pair key="info"><String></String></Pair>
+      </Table>
+			<Table key="urso_sem_curso">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/urso_sem_curso.png</String></Pair>
+				<Pair key="title"><String>Urso Sem Curso</String></Pair>
+				<Pair key="info"><String></String></Pair>
+      </Table>
+			<Table key="winx">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/IMAGENS/winx.png</String></Pair>
+				<Pair key="title"><String>WinX</String></Pair>
+				<Pair key="info"><String></String></Pair>
+
+      </Table>
+		</Attributes>
+		<Items>
+		<!--<Query
+        class="type:x-xmb/folder-pixmap"
+        key="angel_beats"
+        attr="angel_beats"
+        src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/DESENHOS/angel_beats.xml#seg_tv_items"/>-->
+		<Query
+        class="type:x-xmb/folder-pixmap"
+        key="bakugan"
+        attr="bakugan"
+        src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/DESENHOS/bakugan.xml#seg_tv_items"/>
+		<!--<Query
+        class="type:x-xmb/folder-pixmap"
+        key="death_note"
+        attr="death_note"
+        src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/DESENHOS/death_note.xml#seg_tv_items"/>-->
+		<Query
+        class="type:x-xmb/folder-pixmap"
+        key="desencanto"
+        attr="desencanto"
+        src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/DESENHOS/desencanto.xml#seg_tv_items"/>
+		<Query
+        class="type:x-xmb/folder-pixmap"
+        key="fudencio"
+        attr="fudencio"
+        src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/DESENHOS/fudencio.xml#seg_tv_items"/>
+		<Query
+        class="type:x-xmb/folder-pixmap"
+        key="hamtaro"
+        attr="hamtaro"
+        src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/DESENHOS/hamtaro.xml#seg_tv_items"/>
+		<Query
+        class="type:x-xmb/folder-pixmap"
+        key="mr_pickles"
+        attr="mr_pickles"
+        src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/DESENHOS/mr_pickles.xml#seg_tv_items"/>
+		<Query
+        class="type:x-xmb/folder-pixmap"
+        key="o_maskara"
+        attr="o_maskara"
+        src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/DESENHOS/o_maskara.xml#seg_tv_items"/>
+		<!--<Query
+        class="type:x-xmb/folder-pixmap"
+        key="overlord"
+        attr="overlord"
+        src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/DESENHOS/overlord.xml#seg_tv_items"/>
+		<Query
+        class="type:x-xmb/folder-pixmap"
+        key="rick_and_morty"
+        attr="rick_and_morty"
+        src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/DESENHOS/rick_and_morty.xmlseg_tv_items"/>-->
+		<Query
+        class="type:x-xmb/folder-pixmap"
+        key="sword_art_online"
+        attr="sword_art_online"
+        src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/DESENHOS/sword_art_online.xml#seg_tv_items"/>
+		<Query
+        class="type:x-xmb/folder-pixmap"
+        key="urso_sem_curso"
+        attr="urso_sem_curso"
+        src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/DESENHOS/urso_sem_curso.xml#seg_tv_items"/>
+		<Query
+        class="type:x-xmb/folder-pixmap"
+        key="winx"
+        attr="winx"
+        src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/TVBOXUSB/VOD/DESENHOS/winx.xml#seg_tv_items"/>
+		</Items>
+	</View>
+
+</XMBML>

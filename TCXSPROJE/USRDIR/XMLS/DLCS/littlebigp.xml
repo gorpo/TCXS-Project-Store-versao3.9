@@ -1,0 +1,42 @@
+<XMBML version="1.0">
+	<View id="lbp_items">
+		<Attributes>
+			<Table key="lbp_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - DLC</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30838</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/BCUS98148_00/SNGN8HtRsHf7nRW57DMrY3koJW8ooyVy9yNpys4b7BpqluOXyYABnNsI2iHwCEdewEOlOTAMYs7v734yovcGxv6pK9MvGbKSHSBh3.pkg</String></Pair>
+      </Table>
+			<Table key="lbp_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - DLC 2</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30838</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/BCUS98148_00/DnI1G5tA4woNM4NvbsACf2QaPkYhFu897wTkwQbdyrgu7tlKr3QA5QtTvL2rRsKmhjKgcUOpNlUV4wfEu1C1wNlcRq3LAhLXpU5sC.pkg</String></Pair>
+      </Table>
+			<Table key="lbp_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - DLC 3</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30838</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/BCUS98148_00/aEHx6o38gev7NvLQmGoW3rmIVHIYaapCiNVEeMSGSJ25MfO2uOLbcOWt0byPqBaygeO3jJEFt6flNODLCTGCEd96ektT6cKb5AvyD.pkg</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="lbp_item_0"
+        attr="lbp_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="lbp_item_1"
+        attr="lbp_item_1"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="lbp_item_2"
+        attr="lbp_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

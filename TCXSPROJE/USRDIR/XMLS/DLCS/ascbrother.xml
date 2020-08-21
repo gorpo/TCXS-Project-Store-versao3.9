@@ -1,0 +1,53 @@
+<XMBML version="1.0">
+	<View id="ascbrother_items">
+		<Attributes>
+			<Table key="ascbrother_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Animus Project 1.0</String></Pair>
+				<Pair key="info"><String>TCXS - BLES00909</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ares.dl.playstation.net/cdn/EP0001/BLES00909_00/qcBAiOdDHoJLluRntZxLWtKBmWeAeDmLhurryvFQrdViLmlUgtwmBXhJfncRGQZJ.pkg</String></Pair>
+      </Table>
+			<Table key="ascbrother_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Animus Project 2.0</String></Pair>
+				<Pair key="info"><String>TCXS - BLES00909</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ares.dl.playstation.net/cdn/EP0001/BLES00909_00/afKeYOYaIxPeZmzjzWCSjmvHVTQZwjAiXiBUNspFNGrRDcDUNhccREqqNGcYbtyS.pkg</String></Pair>
+      </Table>
+			<Table key="ascbrother_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Copernicus Conspiracy Missions</String></Pair>
+				<Pair key="info"><String>TCXS - BLES00909</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ares.dl.playstation.net/cdn/EP0001/BLES00909_00/9h7Xop2SL8vkjJSlFeBWt0aCLjb2m0iHrQfQW0p1g9xUB94IvG0c3ykrsVbFxy8D.pkg</String></Pair>
+      </Table>
+			<Table key="ascbrother_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Da Vinci Disappearance</String></Pair>
+				<Pair key="info"><String>TCXS - BLES00909</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP0001/BLES00909_00/zfrcoYGIItZZPjVZrNuCHzJtlIJBzLpFmQvVEBMAXxQGLMadbidDmxQitVbgPMTf.pkg</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ascbrother_item_0"
+        attr="ascbrother_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ascbrother_item_1"
+        attr="ascbrother_item_1"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ascbrother_item_2"
+        attr="ascbrother_item_2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ascbrother_item_3"
+        attr="ascbrother_item_3"/>
+		</Items>
+	</View>
+
+</XMBML>

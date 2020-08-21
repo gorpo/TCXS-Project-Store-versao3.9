@@ -1,0 +1,79 @@
+<XMBML version="1.0">
+	<View id="seg_tv_items">
+		<Attributes>
+      <Table key="ResidentEvil">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Resident Evil - Hospede Maldito</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/dnk9u4y9wer19bl/Resident%20Evil%201%20-%20O%20Hospede%20Maldito.mp4</String></Pair>
+      </Table>
+			<Table key="ResidentEvil2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Resident Evil- Apocalypse</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/nm88fgppqye2ink/Resident%20Evil%202%20-%20Apocalipse.mp4</String></Pair>
+      </Table>
+			<Table key="ResidentEvil3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Resident Evil- Extinção</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/nf5i94ey3nkpy5h/Resident%20Evil%203%20-%20A%20Extin%C3%A7%C3%A3o.mp4</String></Pair>
+      </Table>
+			<Table key="ResidentEvil4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Resident Evil- O Recomeço</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/ujxabttl1sb7id8/Resident%20Evil%204%20-%20Recome%C3%A7o.mp4</String></Pair>
+      </Table>
+			<Table key="ResidentEvil5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Resident Evil- Retribuição</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/4mnm93w94eb0yj6/Resident%20Evil%205%20-%20Retribui%C3%A7%C3%A3o.mp4</String></Pair>
+      </Table>
+			<Table key="ResidentEvil6">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Resident Evil- Capitulo Final</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/ig1mx6b0s4ejkxz/Resident%20Evil%206%20-%20O%20Cap%C3%ADtulo%20Final.mp4</String></Pair>
+      </Table>
+			<Table key="ResidentEvil7">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Resident Evil- Condenação</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/yxiytch4a04r7dh/Resident%20Evil%20-%20Condena%C3%A7%C3%A3o.mp4</String></Pair>
+      </Table>
+			<Table key="ResidentEvil8">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Resident Evil- Degeneração </String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/dtqn35ro1qk55mi/Resident%20Evil%20-%20Degenera%C3%A7%C3%A3o.mp4</String></Pair>
+      </Table>
+			<Table key="ResidentEvil9">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Resident Evil- Vendetta</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/4b72ihla38nen28/Resident%20Evil%20-%20Vendetta.mp4</String></Pair>
+      </Table>
+      <Table key="Zombieland2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Zombie Land 2</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/7zk33h432ijbprl/Zombie%20Land%202%20.mp4</String></Pair>
+      </Table>
+    </Attributes>
+		<Items>
+      <Item class="type:x-xmb/module-action" key="ResidentEvil" attr="ResidentEvil"/>
+    	<Item class="type:x-xmb/module-action" key="ResidentEvil2" attr="ResidentEvil2"/>
+    	<Item class="type:x-xmb/module-action" key="ResidentEvil3" attr="ResidentEvil3"/>
+    	<Item class="type:x-xmb/module-action" key="ResidentEvil4" attr="ResidentEvil4"/>
+    	<Item class="type:x-xmb/module-action" key="ResidentEvil5" attr="ResidentEvil5"/>
+    	<Item class="type:x-xmb/module-action" key="ResidentEvil6" attr="ResidentEvil6"/>
+    	<Item class="type:x-xmb/module-action" key="ResidentEvil7" attr="ResidentEvil7"/>
+    	<Item class="type:x-xmb/module-action" key="ResidentEvil8" attr="ResidentEvil8"/>
+    	<Item class="type:x-xmb/module-action" key="ResidentEvil9" attr="ResidentEvil9"/>
+      <Item class="type:x-xmb/module-action" key="Zombieland2" attr="Zombieland2"/>
+    </Items>
+	</View>
+
+</XMBML>

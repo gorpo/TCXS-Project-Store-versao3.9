@@ -1,0 +1,310 @@
+<XMBML version="1.0">
+	<View id="seg_tv_items">
+		<Attributes>
+      <Table key="A_Morte_Retorno_Superman">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>A Morte e o Retorno Superman</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/127xczfc57t147q/A%20morte%20e%20o%20retorno%20do%20Superman%20%282019%29.mp4</String></Pair>
+      </Table>
+      <Table key="Angry_Birds_2">
+        <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+        <Pair key="title"><String>Angry Birds 2</String></Pair>
+        <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+        <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/u48xj14e4xaag6r/Angry%20Birds%202%20-%20O%20Filme%20%282019%29.mp4</String></Pair>
+      </Table>
+      <Table key="astro_kid">
+        <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+        <Pair key="title"><String>Astro Kid</String></Pair>
+        <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+        <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/2zzjsbupq4ia78y/Astro%20Kid_2019-1080p.mp4</String></Pair>
+      </Table>
+      <Table key="A_viagem_de_Chihiro">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>A Viagem de Chihiro</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/xtsujllblpucxzf/a%20viagem%20de%20chihiro.mp4</String></Pair>
+	    </Table>
+      <Table key="batman_tartarugas">
+ 				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 				<Pair key="title"><String>Batman vs As Tartarugas Ninjas</String></Pair>
+ 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/25q7qgvp3t3comy/Batman.vs.teenage.mutant.ninja.turtles.2019.1080p-dual-por-cinemaqualidade.to.mp4</String></Pair>
+      </Table>
+      <Table key="batman_duascaras">
+ 				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 				<Pair key="title"><String>Batman vs. Duas-Caras</String></Pair>
+ 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/8jtufv83twuqzj8/Batman.vs.two-face.2017.1080p-dual-por-cinemaqualidade.to.mp4</String></Pair>
+      </Table>
+      <Table key="batman_gotham">
+ 				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 				<Pair key="title"><String>Gotham City 1889: Um Conto de Batman</String></Pair>
+ 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/wbxhs2gqkmn09yk/Batman.gotham.by.gaslight.2018.1080p-dual-por.mp4</String></Pair>
+      </Table>
+      <Table key="batman_harleyquinn">
+ 				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 				<Pair key="title"><String>Batman e Arlequina: Pancadas e Risadas</String></Pair>
+ 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/z7klyioum36tbi1/Batman.and.harley.quinn.2017.1080p-dual-por.mp4</String></Pair>
+      </Table>
+      <Table key="batman_piada">
+ 				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 				<Pair key="title"><String>Batman: A Piada Mortal</String></Pair>
+ 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/mu3k40s8awew7rs/Batman.the.killing.joke.2016.1080p-dual-por.mp4</String></Pair>
+      </Table>
+      <Table key="batman_sangue">
+ 				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 				<Pair key="title"><String>Batman: Sangue Ruim</String></Pair>
+ 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/gb6hzhanw9qr9q8/Batman.bad.blood.2016.1080p-dual-por.mp4</String></Pair>
+      </Table>
+      <Table key="batman_robin">
+ 				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 				<Pair key="title"><String>Batman vs. Robin</String></Pair>
+ 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/pn90v2bysmuoohw/Batman.vs.robin.2015.hd-dual-por.mp4</String></Pair>
+      </Table>
+      <Table key="Batman_Ninja">
+ 				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 				<Pair key="title"><String>Batman Ninja</String></Pair>
+ 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/qlxfyh5vwjl3gkq/Batman_Ninja.mp4</String></Pair>
+      </Table>
+      <Table key="Batman_Silêncio">
+ 				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 				<Pair key="title"><String>Batman Silêncio</String></Pair>
+ 			  <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/vfd4flyilzrzj7t/Batman-Sil%C3%AAncio%20%282019%29.mp4</String></Pair>
+     </Table>
+	   <Table key="Batman_vs_Superman">
+ 				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 				<Pair key="title"><String>Batman vs Superman - A Origem da Justiça</String></Pair>
+ 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/tpseq5k4krmr98w/Batman%20vs%20Superman%20-%20A%20Origem%20da%20Justi%C3%A7a%20%5BVers%C3%A3o%20Estendida%5D%20%282016%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29.mp4?dl=1</String></Pair>
+      </Table>
+      <Table key="Bleach">
+ 				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 				<Pair key="title"><String>Bleach - Live Action</String></Pair>
+ 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/5s7l8bayvdsqse8/Bleach_live_action.mp4</String></Pair>
+      </Table>
+      <Table key="dois_irmao">
+ 				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 				<Pair key="title"><String>Dois Irmãos! uma jornada fantástica</String></Pair>
+ 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/1zz3qsb1o964v5v/Dois%20Irm%C3%A3os%21%20uma%20jornada%20fant%C3%A1stica_1080p.mp4</String></Pair>
+      </Table>
+      <Table key="Frozen">
+ 				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 				<Pair key="title"><String>Frozen</String></Pair>
+ 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 				<Pair key="module_action"><String>_</String></Pair>
+      </Table>
+ 			<Table key="Frozen2">
+ 				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 				<Pair key="title"><String>Frozen 2</String></Pair>
+ 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/h1ajz5tkzbrw57c/Frozen2_108p.mp4</String></Pair>
+      </Table>
+      <Table key="HomemAranha_Aranhaverso">
+ 				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 				<Pair key="title"><String>Homem-Aranha_Aranhaverso</String></Pair>
+ 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/uneyc9iu9lp84lo/Homem-Aranha.no.Aranhaverso720p.mp4</String></Pair>
+      </Table>
+      <Table key="Hotel_Transylvania">
+  	    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+      	<Pair key="title"><String>Hotel Transylvania</String></Pair>
+      	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+      	<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/pbmvmfpn5pman5n/Hotel-Transylvania.mp4</String></Pair>
+     </Table>
+     <Table key="Hotel_Transilvânia3">
+       <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+       <Pair key="title"><String>Hotel Transilvânia 3</String></Pair>
+       <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+       <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/agsuri8nge0cq72/Hotel.Transilv%C3%A2nia.3.F%C3%A9rias.Monstruosas_2018-720p.mp4</String></Pair>
+     </Table>
+     <Table key="Incriveis2">
+       <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+       <Pair key="title"><String>Os Incriveis 2</String></Pair>
+       <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+       <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/hmkqrylv0e2ltqb/OsIncr%C3%ADveis2_2018-720p.mp4</String></Pair>
+     </Table>
+     <Table key="lego_batman_familia">
+  	   <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+  		 <Pair key="title"><String>LEGO DC: Batman - Assuntos de Família</String></Pair>
+  		 <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+  		 <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/wn4asqsjkqq9sad/Lego.batman.family.matters.2019.1080p-dual-por-cinemaqualidade.to.mp4</String></Pair>
+     </Table>
+     <Table key="lego_batman">
+  	   <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+  		 <Pair key="title"><String>LEGO Batman: O Filme</String></Pair>
+  		 <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+  		 <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/43a160uebhhfvyd/The.lego.batman.movie.2017.1080p-dual-por.mp4</String></Pair>
+     </Table>
+     <Table key="lego_liga_justiça">
+  	   <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+  		 <Pair key="title"><String>Lego Liga da Justiça: Fuga em massa em Gotham City</String></Pair>
+  		 <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+  		 <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/q4nljabebn9gpb2/Lego.dc.comics.super.heroes.justice.league.gotham.city.breakout.2016.1080p-dual-por.mp4</String></Pair>
+     </Table>
+     <Table key="lego_liga_justiça2">
+  	   <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+  		 <Pair key="title"><String>LEGO Liga da Justiça – O Ataque da Legião do Mal</String></Pair>
+  		 <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+  		 <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/uz3oifdtqxcx499/Lego.dc.comics.super.heroes.justice.league.attack.of.the.legion.of.doom.2015.hd-dual-por.mp4</String></Pair>
+     </Table>
+     <Table key="lego_liga_vs_justiça">
+  	   <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+  		 <Pair key="title"><String>Lego Super Heróis: Liga da Justiça vs. Liga Bizarra</String></Pair>
+  		 <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+  		 <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/gjogiet4ds7qhch/Lego.justice.league.vs.bizarro.league.2015.bluray-portugues-e-ingles-leg.mp4</String></Pair>
+     </Table>
+     <Table key="liga_justiça_deuses">
+  	   <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+  		 <Pair key="title"><String>Liga da Justiça: Deuses e Monstros</String></Pair>
+  		 <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+  		 <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/v2b7395b9u4srts/Justice.League.Gods.And.Monsters.2015.hd-dual-por.mp4</String></Pair>
+     </Table>
+     <Table key="Lego_super_girls">
+  	   <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+  		 <Pair key="title"><String>Lego super Girls</String></Pair>
+  		 <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+  		 <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/n27my2pgxv6bkgs/Lego_Super_Girls.mp4</String></Pair>
+     </Table>
+     <Table key="little_witch_academia">
+ 			 <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 			 <Pair key="title"><String>Little Witch Academia</String></Pair>
+ 			 <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 			 <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/4461gte0dxgog27/Little_Witch_Academia_A_Parada.mp4</String></Pair>
+     </Table>
+     <Table key="Mazinger_Infinit">
+ 		   <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 			 <Pair key="title"><String>Mazinger Z Infinit</String></Pair>
+ 			 <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 			 <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/yrebegr2jgpq3u3/Mazinger.Z.Infinito.Dublado.720.mp4</String></Pair>
+     </Table>
+     <Table key="Mulher_Maravilha">
+ 		   <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 			 <Pair key="title"><String>Mulher Maravilha Linhagem de Sangue</String></Pair>
+ 			 <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 			 <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/mpsidikn9zjnv84/Mulher%20Maravilha-Linhagem%20de%20Sangue%20%282019%29.mp4?dl=1</String></Pair>
+     </Table>
+     <Table key="Mulher_Maravilha_Linhagem_Sangue">
+ 		   <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 			 <Pair key="title"><String>Mulher Maravilha Linhagem de Sangue</String></Pair>
+ 			 <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 			 <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/ww26qfd2pt2o235/Mulher%20Maravilha-Linhagem%20de%20Sangue%20%282019%29.mp4</String></Pair>
+     </Table>
+     <Table key="mk_legend_scorpion">
+ 		   <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 			 <Pair key="title"><String>Mortal Kombat Legends: Scorpion Revenge</String></Pair>
+ 			 <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 			 <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/c20mqotoixy9nyl/Mortal.KOMBAT.LEGENDS.SCORPIONS.REVENGE.2020.1080P-DUAL-POR-CINEMAQUALIDADE.IS.MP4</String></Pair>
+     </Table>
+     <Table key="Next_Gen">
+       <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+       <Pair key="title"><String>Next Gen</String></Pair>
+       <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+       <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/ew55yv2gzgh275w/next_gen.mp4</String></Pair>
+     </Table>
+     <Table key="Pets2">
+ 			 <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 			 <Pair key="title"><String>Pets-A Vida Secreta dos Bichos 2</String></Pair>
+ 			 <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 			 <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/wdf8c6hw4lxpb9f/Pets-A%20Vida%20Secreta%20dos%20Bichos%202%20%282019%29.mp4</String></Pair>
+     </Table>
+ 		 <Table key="Pica_Pau">
+ 			 <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 			 <Pair key="title"><String>Pica-Pau - O Filme</String></Pair>
+ 			 <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 			 <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/vw3xdf367c3bnyk/Pica_pau.mp4</String></Pair>
+     </Table>
+     <Table key="Steven_Universo">
+       <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+       <Pair key="title"><String>Steven Universo O Filme</String></Pair>
+       <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+       <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/alsau32pt1e8h49/Steven%20Universo%20O%20Filme%20%282019%29.mp4</String></Pair>
+     </Table>
+     <Table key="Sonic">
+ 			 <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 			 <Pair key="title"><String>Sonic</String></Pair>
+ 			 <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 			 <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/fa2cqvayy8d2qu4/S4NICLEGHD-BAIXO.mp4</String></Pair>
+     </Table>
+ 		 <Table key="SupermanSol">
+ 			 <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 			 <Pair key="title"><String>Super Man Sol Vermelho</String></Pair>
+ 			 <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 			 <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/8xm7xj6fd5lyiss/SUPERMANREDSONLEG-BAIXO.mp4</String></Pair>
+     </Table>
+ 		 <Table key="Shiki_Oriori">
+ 			 <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 			 <Pair key="title"><String>Shiki Oriori</String></Pair>
+ 			 <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 			 <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/k8jn8w61f1s90x9/Shiki%20Oriori%20O%20Sabor%20da%20Juventude.mp4</String></Pair>
+     </Table>
+     <Table key="ToyStory4">
+ 			 <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 			 <Pair key="title"><String>Toy Story 4</String></Pair>
+ 			 <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 			 <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/0u75vq6ou8hnh4h/Toy%20Story%204%20%282019%29.mp4</String></Pair>
+       </Table>
+     <Table key="espeiao_animal">
+ 			 <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+ 			 <Pair key="title"><String>Um Espeião Animal</String></Pair>
+ 			 <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+ 			 <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/q0wmfeyqz3ch15x/Um%20Espi%C3%A3o%20Animal_2019-1080p.mp4</String></Pair>
+       </Table>
+     </Attributes>
+     <Items>
+       <Item class="type:x-xmb/module-action" key="A_Morte_Retorno_Superman" attr="A_Morte_Retorno_Superman"/>
+       <Item class="type:x-xmb/module-action" key="Angry_Birds_2" attr="Angry_Birds_2"/>
+       <Item class="type:x-xmb/module-action" key="astro_kid" attr="astro_kid"/>
+       <Item class="type:x-xmb/module-action" key="A_viagem_de_Chihiro" attr="A_viagem_de_Chihiro"/>
+       <Item class="type:x-xmb/module-action" key="batman_duascaras" attr="batman_duascaras"/>
+       <Item class="type:x-xmb/module-action" key="batman_gotham" attr="batman_gotham"/>
+       <Item class="type:x-xmb/module-action" key="batman_harleyquinn" attr="batman_harleyquinn"/>
+       <Item class="type:x-xmb/module-action" key="batman_piada" attr="batman_piada"/>
+       <Item class="type:x-xmb/module-action" key="batman_robin" attr="batman_robin"/>
+       <Item class="type:x-xmb/module-action" key="batman_sangue" attr="batman_sangue"/>
+       <Item class="type:x-xmb/module-action" key="Batman_vs_Superman" attr="Batman_vs_Superman"/>
+       <Item class="type:x-xmb/module-action" key="batman_tartarugas" attr="batman_tartarugas"/>
+       <Item class="type:x-xmb/module-action" key="Batman_Ninja" attr="Batman_Ninja"/>
+     	 <Item class="type:x-xmb/module-action" key="Batman_Silêncio" attr="Batman_Silêncio"/>
+     	 <Item class="type:x-xmb/module-action" key="dois_irmao" attr="dois_irmao"/>
+       <Item class="type:x-xmb/module-action" key="Bleach" attr="Bleach"/>
+       <Item class="type:x-xmb/module-action" key="Frozen" attr="Frozen"/>
+       <Item class="type:x-xmb/module-action" key="Frozen2" attr="Frozen2"/>
+       <Item class="type:x-xmb/module-action" key="HomemAranha_Aranhaverso" attr="HomemAranha_Aranhaverso"/>
+       <Item class="type:x-xmb/module-action" key="Hotel_Transylvania" attr="Hotel_Transylvania"/>
+       <Item class="type:x-xmb/module-action" key="Hotel_Transilvânia3" attr="Hotel_Transilvânia3"/>
+       <Item class="type:x-xmb/module-action" key="Incriveis2" attr="Incriveis2"/>
+       <Item class="type:x-xmb/module-action" key="lego_batman" attr="lego_batman"/>
+       <Item class="type:x-xmb/module-action" key="lego_batman_familia" attr="lego_batman_familia"/>
+       <Item class="type:x-xmb/module-action" key="lego_liga_justiça2" attr="lego_liga_justiça2"/>
+       <Item class="type:x-xmb/module-action" key="lego_liga_justiça" attr="lego_liga_justiça"/>
+       <Item class="type:x-xmb/module-action" key="lego_liga_vs_justiça" attr="lego_liga_vs_justiça"/>
+       <Item class="type:x-xmb/module-action" key="liga_justiça_deuses" attr="liga_justiça_deuses"/>
+       <Item class="type:x-xmb/module-action" key="Lego_super_girls" attr="Lego_super_girls"/>
+       <Item class="type:x-xmb/module-action" key="little_witch_academia" attr="little_witch_academia"/>
+     	 <Item class="type:x-xmb/module-action" key="Mazinger_Infinit" attr="Mazinger_Infinit"/>
+       <Item class="type:x-xmb/module-action" key="mk_legend_scorpion" attr="mk_legend_scorpion"/>
+       <Item class="type:x-xmb/module-action" key="Mulher_Maravilha_Linhagem_Sangue" attr="Mulher_Maravilha_Linhagem_Sangue"/>
+       <Item class="type:x-xmb/module-action" key="Mulher_Maravilha" attr="Mulher_Maravilha"/>
+       <Item class="type:x-xmb/module-action" key="Next_Gen" attr="Next_Gen"/>
+       <Item class="type:x-xmb/module-action" key="Pets2" attr="Pets2"/>
+     	 <Item class="type:x-xmb/module-action" key="Pica_Pau" attr="Pica_Pau"/>
+       <Item class="type:x-xmb/module-action" key="Sonic" attr="Sonic"/>
+     	 <Item class="type:x-xmb/module-action" key="SupermanSol" attr="SupermanSol"/>
+     	 <Item class="type:x-xmb/module-action" key="Shiki_Oriori" attr="Shiki_Oriori"/>
+       <Item class="type:x-xmb/module-action" key="Steven_Universo" attr="Steven_Universo"/>
+       <Item class="type:x-xmb/module-action" key="ToyStory4" attr="ToyStory4"/>
+       <Item class="type:x-xmb/module-action" key="espeiao_animal" attr="espeiao_animal"/>
+     </Items>
+ 	</View>
+
+ </XMBML>

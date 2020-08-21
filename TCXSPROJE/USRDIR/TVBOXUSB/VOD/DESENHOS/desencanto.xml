@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > TV > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="1x1"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1x1</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/z6ucq5yrsw3447w/1.mp4</String></Pair></Table>
+<Table key="1x2"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1x2</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/pnk2uy8k53uk37e/2.mp4</String></Pair></Table>
+<Table key="1x3"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1x3</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/kgtcf09dcot69l7/3.mp4</String></Pair></Table>
+<Table key="1x4"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1x4</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/w2syir4pbq1wflf/4.mp4</String></Pair></Table>
+<Table key="1x5"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1x5</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/o0tlxtd4vhytaqo/5.mp4</String></Pair></Table>
+<Table key="1x6"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1x6</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/2d561flfb93v12n/6.mp4</String></Pair></Table>
+<Table key="1x7"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1x7</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/nxo6bm9nocynxwp/7.mp4</String></Pair></Table>
+<Table key="1x8"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1x8</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/jojrzp7bdzglsxn/8.mp4</String></Pair></Table>
+<Table key="1x9"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1x9</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/fs5u0ktadhkxp8a/9.mp4</String></Pair></Table>
+<Table key="1x10"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1x10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/m9axfvwsyctz3ac/10.mp4</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="1x1" attr="1x1"/>
+<Item class="type:x-xmb/module-action" key="1x2" attr="1x2"/>
+<Item class="type:x-xmb/module-action" key="1x3" attr="1x3"/>
+<Item class="type:x-xmb/module-action" key="1x4" attr="1x4"/>
+<Item class="type:x-xmb/module-action" key="1x5" attr="1x5"/>
+<Item class="type:x-xmb/module-action" key="1x6" attr="1x6"/>
+<Item class="type:x-xmb/module-action" key="1x7" attr="1x7"/>
+<Item class="type:x-xmb/module-action" key="1x8" attr="1x8"/>
+<Item class="type:x-xmb/module-action" key="1x9" attr="1x9"/>
+<Item class="type:x-xmb/module-action" key="1x10" attr="1x10"/>
+</Items>
+	</View>
+
+</XMBML>

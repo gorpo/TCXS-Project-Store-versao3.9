@@ -1,0 +1,145 @@
+<XMBML version="1.0">
+		<View id="rer_items">
+        <Attributes>
+            <Table key="rer_item_0">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/rerro.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Rachael Ooze</String></Pair>
+                <Pair key="info"><String>BLUS31051 - 90.91 Mb</String></Pair>
+            </Table>
+            <Table key="rer_item_1">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/rer.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Pack de Arma</String></Pair>
+                <Pair key="info"><String>BLUS31051 - 15.13 Mb</String></Pair>
+            </Table>
+            <Table key="rer_item_2">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/rerlh.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Catalog Data Raid Outfit for Lady Hunk</String></Pair>
+                <Pair key="info"><String>BLUS31051 - 106.17 Mb</String></Pair>
+            </Table>
+            <Table key="rer_item_3">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/rerlh.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Raid Outfit for Lady Hunk</String></Pair>
+                <Pair key="info"><String>BLUS31051 - 2.25 Mb</String></Pair>
+            </Table>
+            <Table key="rer_item_4">
+                <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/rerro.jpg</String></Pair>
+                <Pair key="title"><String> TCXS - Raid Outfit for Rachael Ooze</String></Pair>
+                <Pair key="info"><String>BLUS31051 - 2.25 Mb</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="rer_item_0"
+                attr="rer_item_0"
+                src="#rer_item_0_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="rer_item_1"
+                attr="rer_item_1"
+                src="#rer_item_1_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="rer_item_2"
+                attr="rer_item_2"
+                src="#rer_item_2_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="rer_item_3"
+                attr="rer_item_3"
+                src="#rer_item_3_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="rer_item_4"
+                attr="rer_item_4"
+                src="#rer_item_4_link"
+            />
+       </Items>
+    </View>
+
+
+	<View id="rer_item_0_link">
+        <Attributes>
+            <Table key="rer_item_0">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS31051_00/yDESvZyYMDySfYKhfBOHqCVtqpIIxVqNRRYOdRMkhaLmnrATBAfwdUruBmJJxYFj.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS31051_00/yDESvZyYMDySfYKhfBOHqCVtqpIIxVqNRRYOdRMkhaLmnrATBAfwdUruBmJJxYFj.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0102-NPUB30991_00-HDDBOOTBHRUE0001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+         </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="rer_item_0" attr="rer_item_0"/>
+        </Items>
+    </View>
+	
+	<View id="rer_item_1_link">
+        <Attributes>
+            <Table key="rer_item_1">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS31051_00/BsCKCOjsmQGWbOqRnRojMPLuMlhqxyVpixIxOpmLtuCxRMhfisIAiOVDVoCYmOXy.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS31051_00/BsCKCOjsmQGWbOqRnRojMPLuMlhqxyVpixIxOpmLtuCxRMhfisIAiOVDVoCYmOXy.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0102-NPUB30991_00-HDDBOOTBHRUE0001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+         </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="rer_item_1" attr="rer_item_1"/>
+        </Items>
+    </View>
+	
+	<View id="rer_item_2_link">
+        <Attributes>
+            <Table key="rer_item_2">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS31051_00/gvzWFlMJHUUIKRtPkYWLYrAkQVUGicxdDxokhRMezVmFokdrWDYSLFfgCtwrUkIm.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS31051_00/gvzWFlMJHUUIKRtPkYWLYrAkQVUGicxdDxokhRMezVmFokdrWDYSLFfgCtwrUkIm.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0102-NPUB30991_00-HDDBOOTBHRUE0001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+         </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="rer_item_2" attr="rer_item_2"/>
+        </Items>
+    </View>
+	
+	<View id="rer_item_3_link">
+        <Attributes>
+            <Table key="rer_item_3">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS31051_00/lNkpWZyBflVZdWrlmZEYwejQEovGcEBpisfUttlrRhXtPelVOyckdeVTrvWnEqwe.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS31051_00/lNkpWZyBflVZdWrlmZEYwejQEovGcEBpisfUttlrRhXtPelVOyckdeVTrvWnEqwe.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0102-BLUS31051_00-ULKPLRACHELHUNK1</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+         </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="rer_item_3" attr="rer_item_3"/>
+        </Items>
+    </View>
+	
+	<View id="rer_item_4_link">
+        <Attributes>
+            <Table key="rer_item_4">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS31051_00/HbysETnBakKihAgNvUQlKwnhJLexYlOFIHGcDRusVVLLmDNzbyLOCWvqPosPKTrr.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0102/BLUS31051_00/HbysETnBakKihAgNvUQlKwnhJLexYlOFIHGcDRusVVLLmDNzbyLOCWvqPosPKTrr.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0102-BLUS31051_00-ULKPLRACHELOOZE1</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+         </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="rer_item_4" attr="rer_item_4"/>
+        </Items>
+    </View>
+
+</XMBML>

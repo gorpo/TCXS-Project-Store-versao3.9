@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+
+ <View id="sony_games">
+  <Attributes>
+   <Table key="psnstuff">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/play32.png</String></Pair>
+    <Pair key="title"><String>ツTCXS - JOGOS PS3◉</String></Pair>
+    <Pair key="info"><String>☆Jogos Divididos, Exclusivos, PsnStuff e DLC's☆</String></Pair>
+      </Table>
+   <Table key="ps1">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/play1.png</String></Pair>
+    <Pair key="title"><String>ツTCXS - JOGOS PS1◉</String></Pair>
+    <Pair key="info"><String>☆Jogos PlayStation 1 (OBRIGATÓRIO TER LIC ATIVADA)☆</String></Pair>
+      </Table>
+   <Table key="ps2">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/play2.png</String></Pair>
+    <Pair key="title"><String>ツTCXS - JOGOS PS2◉</String></Pair>
+    <Pair key="info"><String>☆Jogos PlayStation 2 (OBRIGATÓRIO TER LIC ATIVADA)☆</String></Pair>
+      </Table>
+   <Table key="psp">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/psp.png</String></Pair>
+    <Pair key="title"><String>ツTCXS - JOGOS PSP◉</String></Pair>
+    <Pair key="info"><String>☆Jogos PSP (OBRIGATÓRIO TER LIC ATIVADA)☆</String></Pair>
+      </Table>
+   <Table key="offline_tcxs">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/nopsn.png</String></Pair>
+    <Pair key="title"><String>ツTCXS - NO-PSN◉</String></Pair>
+    <Pair key="info"><String>☆APPS para usar sem precisar entrar na PSN!☆</String></Pair>
+      </Table>
+      <Table key="offline_tcxs_update">
+    <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/nopsn.png</String></Pair>
+    <Pair key="title"><String>ツTCXS Updates◉</String></Pair>
+    <Pair key="info"><String>☆Updates dos jogos PS3!☆</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+  <Query class="type:x-xmb/folder-pixmap" key="ps1" attr="ps1" src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/ps1.xml#ps1_items"/>
+  <Query class="type:x-xmb/folder-pixmap" key="ps2" attr="ps2" src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/ps2.xml#ps2_items"/>
+  <Query class="type:x-xmb/folder-pixmap" key="psnstuff" attr="psnstuff" src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/station.xml#sony_items"/>
+  <Query class="type:x-xmb/folder-pixmap" key="psp" attr="psp" src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/psp.xml#psp_items"/>
+  <Query class="type:x-xmb/folder-pixmap" key="offline_tcxs" attr="offline_tcxs" src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/psnoff_tcxs.xml#nopsn_items"/>
+  <Query class="type:x-xmb/folder-pixmap" key="offline_tcxs_update" attr="offline_tcxs_update" src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/updates/menu_updates.xml#updates_games"/>
+
+
+
+   </Items>
+  </View>
+
+</XMBML>

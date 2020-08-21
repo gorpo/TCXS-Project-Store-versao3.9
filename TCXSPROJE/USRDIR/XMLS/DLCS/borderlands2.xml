@@ -1,0 +1,132 @@
+<XMBML version="1.0">
+	<View id="borderlands2_items">
+		<Attributes>
+			<Table key="borderlands2_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Captain Scarlett and Her Pirate's Booty</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31162</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1001/BLUS30982_00/jDTnRCQnZnweageQpDEDmpiZcllyxFPvVIltSjBLObIthtucgYbnIrdVIwVhzCao.pkg</String></Pair>
+      </Table>
+			<Table key="borderlands2_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Mr.Torgue's Campaign of Carnage</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31162</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1001/BLUS30982_00/rxDouqIbdxCacIXIBGkpOdPiFqHOPomXgUynYlGrIwEeHPzxCwggYvJHsxNJBFVX.pkg</String></Pair>
+      </Table>
+			<Table key="borderlands2_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Sir Hammerlock's Big Game Hunt</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31162</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1001/BLUS30982_00/EodKlCNPGgGqGvBYzZyMRCDNEeJZAHeqWiULuTdkLUVegQylxbVnuAaTsGHSynDf.pkg</String></Pair>
+      </Table>
+			<Table key="borderlands2_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Tiny Tina's Assault on Dragon Keep</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31162</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1001/BLUS30982_00/VZDFSSUSVkNVLPEzwfyjnPtfbIqAYbLEztbfFxZwWiawUvntWNJudPsaYEkdpyAq.pkg</String></Pair>
+      </Table>
+			<Table key="borderlands2_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Ultimate Vault Hunter Upgrade Pack 2</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31162</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1001/BLUS30982_00/OntriFjAApKmBqmSZWmGvoPgafxfLhgfwVmNiugHzCxvNpNxdSDcpkXLvNyNdVvQ.pkg</String></Pair>
+      </Table>
+			<Table key="borderlands2_item_5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - HeadHunter Pack 1 - TK Baha's Bloody Harvest</String></Pair>
+				<Pair key="info"><String>TCXS - BLES01684/BLUS30982</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1001/BLUS30982_00/MpzeUgkGxhZWdeQTYXDPhunrzhmMHjSSYCAlCaznNuAVhcIdUvQiVDpBgyLPeCnP.pkg</String></Pair>
+      </Table>
+			<Table key="borderlands2_item_6">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - HeadHunter Pack 2 - The Horrible Hunger of the Ravenous Wattle Gobbler</String></Pair>
+				<Pair key="info"><String>TCXS - BLES01684/BLUS30982</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1001/BLUS30982_00/sbgsRHddnFZazOhoTTUPWYVlMplWjpQYtGLcSXymAxtoQoSaEWhoreCHDKAWHaXY.pkg</String></Pair>
+			   </Table>
+			<Table key="borderlands2_item_7">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - HeadHunter Pack 3 - How Marcus saved Mercenary Day</String></Pair>
+				<Pair key="info"><String>TCXS - BLES01684/BLUS30982</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1001/BLUS30982_00/NXKXCplmEtfLeOXzoJDmxNiNyVHDdWvIbmeiSUatAEYuGrQfxoJGgcAzqJuFHYiv.pkg</String></Pair>
+      </Table>
+			<Table key="borderlands2_item_8">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - HeadHunter Pack 4 - Mad Moxxi and the Wedding Day Massacre</String></Pair>
+				<Pair key="info"><String>TCXS - BLES01684/BLUS30982</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1001/BLUS30982_00/EIZwtfsPlavVMYXJWIexjrZOYwcdSwbpJayrqfxvxGkIELZyLUPEQVKGRgodnutz.pkg</String></Pair>
+      </Table>
+			<Table key="borderlands2_item_9">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - HeadHunter Pack 5 - The Son of Crawmerax</String></Pair>
+				<Pair key="info"><String>TCXS - BLES01684/BLUS30982</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1001/BLUS30982_00/dQjMtfRkCVimqfFyszhakHSoJFaluWySeXjOhQqMDWrCleuEBlXmNiwBXZQlvYNx.pkg</String></Pair>
+      </Table>
+			<Table key="borderlands2_item_10">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - DLCS FIX</String></Pair>
+				<Pair key="info"><String>TCXS - BLES01684/BLUS30982 
+[SE SEU JOGO FOR BLES BASTA COPIAR A PASTA DlC DENTRO DA USRDIR DE DENTRO DA PASTA(BLUS30982) PARA PASTA (BLES01684) DO BORDERLANDS 2] 
+!!ESSA ALTERNATIVA SÓ FUNCIONA EM DESBLOQUEIO HEN ou CFW!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/43s2dyvdw39iuun/BLUS30982_BORDERLANDS_2_ALL_DLCS_FIX_v11.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="borderlands2_item_0"
+        attr="borderlands2_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="borderlands2_item_1"
+        attr="borderlands2_item_1"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="borderlands2_item_2"
+        attr="borderlands2_item_2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="borderlands2_item_3"
+        attr="borderlands2_item_3"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="borderlands2_item_4"
+        attr="borderlands2_item_4"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="borderlands2_item_5"
+        attr="borderlands2_item_5"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="borderlands2_item_6"
+        attr="borderlands2_item_6"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="borderlands2_item_7"
+        attr="borderlands2_item_7"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="borderlands2_item_8"
+        attr="borderlands2_item_8"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="borderlands2_item_9"
+        attr="borderlands2_item_9"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="borderlands2_item_10"
+        attr="borderlands2_item_10"/>
+		</Items>
+	</View>
+
+</XMBML>

@@ -1,0 +1,30 @@
+<XMBML version="1.0">
+	<View id="seg_tv_items">
+		<Attributes>
+      <Table key="Bohemian_Rhapsody">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Bohemian Rhapsody:Freddie-Mercury</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/a6s3aazrsjziiiy/Freddie-Mercury_Bohemian_Rhapsody_2018_720p.mp4</String></Pair>
+      </Table>
+      <Table key="Detroit_Cidade_Rock">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Detroit a Cidade do Rock</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/xwnh390m5o3p6zk/Detroit%20a%20Cidade%20do%20Rock_%281999%29_720p.mp4</String></Pair>
+      </Table>
+      <Table key="Taylor_Swift_Reputation">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Taylor Swift: Reputation Stadium Tour</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/fu13rkcwrwyje6w/Taylor.Swift.Reputation.Stadium.Tour.2018.WEBRip.720p.Legendado-WWW.FILMESNOMEGA.INFO.mp4</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+      <Item class="type:x-xmb/module-action" key="Bohemian_Rhapsody" attr="Bohemian_Rhapsody"/>
+      <Item class="type:x-xmb/module-action" key="Detroit_Cidade_Rock" attr="Detroit_Cidade_Rock"/>
+      <Item class="type:x-xmb/module-action" key="Taylor_Swift_Reputation" attr="Taylor_Swift_Reputation"/>
+    </Items>
+	</View>
+
+</XMBML>

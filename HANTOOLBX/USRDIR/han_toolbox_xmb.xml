@@ -1,0 +1,23 @@
+<XMBML version="1.0">
+	<View id="han_toolbox_xmb_main">
+		<Attributes>
+				<Table key="han_main">
+						<Pair key="icon">
+								<String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/XMB/tcxshybrid.png</String>
+						</Pair>
+						<Pair key="icon_notation">
+								<String>WNT_XmbItemAlbum</String>
+						</Pair>
+						<Pair key="title">
+								<String></String>
+						</Pair>
+						<Pair key="info">
+								<String>◉HAN/HEN/CFW|By_TCXS™◉</String>
+						</Pair>
+				</Table>
+		</Attributes>
+		<Items>
+				<Query class="type:x-xmb/folder-pixmap" key="han_main" attr="han_main" src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/tcxsproject_xmb.xml#tcxs_main_items"/>
+		</Items>
+</View>
+</XMBML>

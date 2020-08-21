@@ -1,0 +1,42 @@
+<XMBML version="1.0">
+	<View id="lbp3_items">
+		<Attributes>
+			<Table key="lbp3_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Sackboy's Prehistoric Asset Pack</String></Pair>
+				<Pair key="info"><String>TCXS - BCUS98362</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/BCUS98362_00/UP9000-BCUS98362_00-LBPDLCORIGMP0010_bg_1_4edd78f67f3819b41f81e3d4fd4635741e22b4db.pkg</String></Pair>
+      </Table>
+			<Table key="lbp3_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Station Master Costume</String></Pair>
+				<Pair key="info"><String>TCXS - BCUS98362</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/BCUS98362_00/UP9000-BCUS98362_00-LBPDLCORIGCO0130_bg_1_c4cc8cd577b077928df1d310ec9641ec452117ce.pkg</String></Pair>
+      </Table>
+			<Table key="lbp3_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Sumo Wrestler Costume</String></Pair>
+				<Pair key="info"><String>TCXS - BCUS98362</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/BCUS98362_00/UP9000-BCUS98362_00-LBPDLCORIGCO0128_bg_1_b769aed149f50d72807501e917778e75b0fbbf59.pkg</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="lbp3_item_0"
+        attr="lbp3_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="lbp3_item_1"
+        attr="lbp3_item_1"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="lbp3_item_2"
+        attr="lbp3_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

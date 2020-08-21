@@ -1,0 +1,107 @@
+<XMBML version="1.0">
+	<View id="seg_tv_items">
+		<Attributes>
+      <Table key="mentira">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>A Grande Mentira</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/d6m12euin0ullkg/AGrande_Mentira_2019_1080p.mp4</String></Pair>
+      </Table>
+      <Table key="Beirute">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Beirute</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/admpjvkmz328kdo/Beirute.mp4</String></Pair>
+      </Table>
+      <Table key="facas_segredos">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Entre Facas e Segredos</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/ydw6c2sxbrvjy5m/Entre%20Facas%20e%20Segredos%20%282019%29.1080p.mp4</String></Pair>
+      </Table>
+      <Table key="Invasores_Nenhum_Sistema Está_Salvo">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Invasores Nenhum Sistema Está à Salvo</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/6hi53vytqj9109d/Invasores-Nenhum_Sistema_Est%C3%A1_Salvo%282015%29_720p.mp4</String></Pair>
+      </Table>
+      <Table key="Girl_Spider_Web">
+        <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+        <Pair key="title"><String>Millennium: A Garota Na Teia De Aranha</String></Pair>
+        <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+        <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/wb9nj6ic6nga3if/Millennium%3A%20A%20Garota%20Na%20Teia%20De%20Aranha-2018.720p.Dublado.mp4</String></Pair>
+      </Table>
+      <Table key="banqueiro">
+        <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+        <Pair key="title"><String>O Banqueiro</String></Pair>
+        <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+        <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/h888mpxhoke7hlz/O%20Banqueiro_2020-1080p.mp4</String></Pair>
+      </Table>
+      <Table key="Joker">
+        <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+        <Pair key="title"><String>O Coringa</String></Pair>
+        <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+        <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/bqtg2yyxooq8vv1/O%20Coringa%282019%29.mp4</String></Pair>
+      </Table>
+      <Table key="Irlandês">
+        <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+        <Pair key="title"><String>O Irlandês</String></Pair>
+        <Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+        <Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/pm9ri1m9s6nn6f6/O%20Irland%C3%AAs%20%282019%29.mp4</String></Pair>
+      </Table>
+      <Table key="parasita">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Parasita</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/agotzpkam6dnbdg/Parasita_2019-1080p.mp4</String></Pair>
+      </Table>
+      <Table key="Ponte_Terabitia">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Ponte para Terabitia</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/pae0jeyxra9s7hn/ponte_para_terabitia.mp4</String></Pair>
+      </Table>
+      <Table key="Tal_Pai_Tal_filha">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Tal Pai Tal filha</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/wzlrsjrkcpoybl9/Tal-Pai_Tal-Filha.mp4</String></Pair>
+      </Table>
+      <Table key="togo">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Togo</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/hwfdwtutjb7gk4z/Togo_2019-720p.mp4</String></Pair>
+      </Table>
+      <Table key="teeth">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Vagina Dentada</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/lo0bws5tm9u3hrl/Vagina%20Dentada%5B2007%5D.avi</String></Pair>
+      </Table>
+			<Table key="Vanhelsing">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Vanhelsing</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/i8aucsglinkjz2l/van_helsing.mp4</String></Pair>
+      </Table>
+    </Attributes>
+    <Items>
+      <Item class="type:x-xmb/module-action" key="mentira" attr="mentira"/>
+      <Item class="type:x-xmb/module-action" key="Beirute" attr="Beirute"/>
+      <Item class="type:x-xmb/module-action" key="facas_segredos" attr="facas_segredos"/>
+      <Item class="type:x-xmb/module-action" key="Invasores_Nenhum_Sistema Está_Salvo" attr="Invasores_Nenhum_Sistema Está_Salvo"/>
+      <Item class="type:x-xmb/module-action" key="Girl_Spider_Web" attr="Girl_Spider_Web"/>
+      <Item class="type:x-xmb/module-action" key="banqueiro" attr="banqueiro"/>
+    	<Item class="type:x-xmb/module-action" key="Joker" attr="Joker"/>
+      <Item class="type:x-xmb/module-action" key="Irlandês" attr="Irlandês"/>
+      <Item class="type:x-xmb/module-action" key="parasita" attr="parasita"/>
+      <Item class="type:x-xmb/module-action" key="Ponte_Terabitia" attr="Ponte_Terabitia"/>
+      <Item class="type:x-xmb/module-action" key="Tal_Pai_Tal_filha" attr="Tal_Pai_Tal_filha"/>
+      <Item class="type:x-xmb/module-action" key="togo" attr="togo"/>
+      <Item class="type:x-xmb/module-action" key="teeth" attr="teeth"/>
+      <Item class="type:x-xmb/module-action" key="Vanhelsing" attr="Vanhelsing"/>
+    </Items>
+  </View>
+
+</XMBML>

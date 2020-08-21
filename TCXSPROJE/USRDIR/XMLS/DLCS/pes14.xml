@@ -1,0 +1,42 @@
+<XMBML version="1.0">
+	<View id="pes14_items">
+		<Attributes>
+			<Table key="pes14_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - South American Classic Pack</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31322</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30838_00/VwNNPqTJzPEGCvdpUcEOoJLrvHTYSXIZSJMJyOEvGpscgRNMpGoRKjEFdkKvDpKzKZixvrlVCnytarcxJCYyVdyJKUwZEpMlnCTQn.pkg</String></Pair>
+      </Table>
+			<Table key="pes14_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - European Classic Pack</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31322</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0101/BLUS31322_00/JIgmrYaTSYTGENBuZoJcKvuRCqJiYoQSJENosMnZpdzCWHUgMNDrhTLFGTRHcEwJ.pkg</String></Pair>
+      </Table>
+			<Table key="pes14_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - 3rd Kit Packs</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS31322</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0101/BLUS31322_00/bCILfufXgxGdmwNQVXRFQEoWizdcWtiOHBsZHajhEsEQdyOqaAOhnmnHWXYXNXwq.pkg</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="pes14_item_0"
+        attr="pes14_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="pes14_item_1"
+        attr="pes14_item_1"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="pes14_item_2"
+        attr="pes14_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

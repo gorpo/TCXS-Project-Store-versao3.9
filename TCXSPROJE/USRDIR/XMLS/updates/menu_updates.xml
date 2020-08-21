@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+
+ <View id="updates_games">
+  <Attributes>
+      <Table key="offline_tcxs_update">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/nopsn.png</String></Pair>
+            <Pair key="title"><String>ツTCXS Updates Pt1 ◉</String></Pair>
+            <Pair key="info"><String>☆Updates dos jogos PS3!☆</String></Pair>
+      </Table>
+      <Table key="offline_tcxs_update2">
+            <Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/MENU/nopsn.png</String></Pair>
+            <Pair key="title"><String>ツTCXS Updates Pt2◉</String></Pair>
+            <Pair key="info"><String>☆Updates dos jogos PS3!☆</String></Pair>
+      </Table>
+  </Attributes>
+  <Items>
+        <Query class="type:x-xmb/folder-pixmap" key="offline_tcxs_update" attr="offline_tcxs_update" src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/updates/updates1.xml#aitems"/>
+        <Query class="type:x-xmb/folder-pixmap" key="offline_tcxs_update2" attr="offline_tcxs_update2" src="xmb://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/XMLS/updates/updates2.xml#aitems"/>
+   </Items>
+  </View>
+</XMBML>

@@ -1,0 +1,20 @@
+<XMBML version="1.0">
+	<View id="batcity_items">
+		<Attributes>
+			<Table key="batcity_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Catwoman Bundle</String></Pair>
+				<Pair key="info"><String>TCXS - BLES00926</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP1018/BLES00926_00/IxLVQvkhSSBgBmuzEKZOUwPTyAcXtrAsxUAgnuEMUYvMXdWymzcvfLWFnnzgXstt.pkg</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="batcity_item_0"
+        attr="batcity_item_0"/>
+		</Items>
+	</View>
+
+</XMBML>

@@ -1,0 +1,42 @@
+<XMBML version="1.0">
+	<View id="midnightcelace_items">
+		<Attributes>
+			<Table key="midnightcelace_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - South Central Vehicle Pack 2</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30190</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1004/BLUS30190_00/i8Gi9PpjDIyeITsVK1lhyPfHGmuF6qF0pXS2FY5fD4h0VWBaWImYV0AOY8c39N41s3dTBTdp7GUn5yWHuoAb7k2pDBV11dG65kilO.pkg</String></Pair>
+      </Table>
+			<Table key="midnightcelace_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - DLC 1</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30190</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1004/BLUS30190_00/x5ahwt6QmUuoqDxGvsq9C36b22sFlNDfTYCHK7kh4EBWnXGTL7iH3TPOJ90lKNU8PACu1mjV9IuFWUN9MUj231D7jQdkFqiCRj4CK.pkg</String></Pair>
+      </Table>
+			<Table key="midnightcelace_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - DLC 2</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30190</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP1004/BLUS30190_00/nWAGhAkXKquV737KVW2lBNKm6IFwYspUq8TQSlj3B7PyBPfXnEJwMaBtg8AcsasG7VEAThr7GwuHurS93ck75DgCrQeMU16BaeISH.pkg</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="midnightcelace_item_0"
+        attr="midnightcelace_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="midnightcelace_item_1"
+        attr="midnightcelace_item_1"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="midnightcelace_item_2"
+        attr="midnightcelace_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

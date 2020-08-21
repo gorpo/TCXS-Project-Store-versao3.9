@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > TV > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="1x1"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1x1</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.dropbox.com/s/gqklf5svmutd10z/001%20-%20Pilot.400p.mp4</String></Pair></Table>
+<Table key="1x2"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1x2</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.dropbox.com/s/0s8mkf3ddqp0r4w/002%20-%20Lawnmower%20Dog.720p.mp4</String></Pair></Table>
+<Table key="1x3"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1x3</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.dropbox.com/s/glj76pyhvtv8f2j/003%20-%20Anatomy%20Park.1080p.mp4</String></Pair></Table>
+<Table key="1x4"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1x4</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.dropbox.com/s/kywrrdv3jcmka2c/004%20-%20M.%20Night%20Shaym-Aliens.720p.mp4</String></Pair></Table>
+<Table key="1x5"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1x5</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.dropbox.com/s/8bbys115e9lmyyc/005%20-%20Meeseeks%20and%20Destroy.720p.mp4</String></Pair></Table>
+<Table key="1x6"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1x6</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.dropbox.com/s/d70hn29zb4q8k16/006%20-%20Rick%20Potion%20No.9.720p.mp4</String></Pair></Table>
+<Table key="1x7"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1x7</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.dropbox.com/s/hdn4oht214leu7o/007%20-%20Raising%20Gazorpazorp.720p.mp4</String></Pair></Table>
+<Table key="1x8"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1x8</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.dropbox.com/s/ktji0mrcay5wj4b/008%20-%20Rixty%20Minutes.720p.mp4</String></Pair></Table>
+<Table key="1x9"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1x9</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.dropbox.com/s/88g42xndfktz5ln/009%20-%20Something%20Ricked%20This%20Way%20Comes.720p.mp4</String></Pair></Table>
+<Table key="1x10"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1x10</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.dropbox.com/s/i4fa768rycg4nrc/010%20-%20Close%20Rick-Counters%20of%20the%20Rick%20Kind.720p.mp4</String></Pair></Table>
+<Table key="1X11"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1X11</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://www.dropbox.com/s/zin1iw99345zlu3/011%20-%20Ricksy%20Business.720p.mp4</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="1x1" attr="1x1"/>
+<Item class="type:x-xmb/module-action" key="1x2" attr="1x2"/>
+<Item class="type:x-xmb/module-action" key="1x3" attr="1x3"/>
+<Item class="type:x-xmb/module-action" key="1x4" attr="1x4"/>
+<Item class="type:x-xmb/module-action" key="1x5" attr="1x5"/>
+<Item class="type:x-xmb/module-action" key="1x6" attr="1x6"/>
+<Item class="type:x-xmb/module-action" key="1x7" attr="1x7"/>
+<Item class="type:x-xmb/module-action" key="1x8" attr="1x8"/>
+<Item class="type:x-xmb/module-action" key="1x9" attr="1x9"/>
+<Item class="type:x-xmb/module-action" key="1x10" attr="1x10"/>
+<Item class="type:x-xmb/module-action" key="1X11" attr="1X11"/>
+</Items>
+	</View>
+
+</XMBML>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMBML version="1.0">
+	
+	<!-- Main  > TV > Submenu -->
+	<View id="seg_tv_items">
+		<Attributes>
+<Table key="1X01"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1X01</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/n2b0kempojlz7st/Angel_Beats_Episodio_01.mp4</String></Pair></Table>
+<Table key="1X02"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1X02</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/t80jfdqvm98nxv2/Angel_Beats_Episodio_02.mp4</String></Pair></Table>
+<Table key="1X03"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1X03</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/dflj5rxmb62fl0g/Angel_Beats_Episodio_03.mp4</String></Pair></Table>
+<Table key="1X04"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1X04</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/79ibw8e4giu3fub/Angel_Beats_Episodio_04.mp4</String></Pair></Table>
+<Table key="1X05"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1X05</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/5m4d3w6rcn7hddz/Angel_Beats_Episodio_05.mp4</String></Pair></Table>
+<Table key="1X06"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1X06</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/m0cu3c4wbg949ax/Angel_Beats_Episodio_06.mp4</String></Pair></Table>
+<Table key="1X07"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1X07</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/nd3y9gmol6sishw/Angel_Beats_Episodio_07.mp4</String></Pair></Table>
+<Table key="1X08"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1X08</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/m6upfxo0y5aqzxo/Angel_Beats_Episodio_08.mp4</String></Pair></Table>
+<Table key="1X09"><Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair><Pair key="title"><String>1X09</String></Pair><Pair key="module_name"><String>webbrowser_plugin</String></Pair><Pair key="module_action"><String>https://dl.dropboxusercontent.com/s/8awdtnwx2vv5pr3/Angel_Beats_Episodio_09.mp4</String></Pair></Table>
+</Attributes>
+		<Items>
+<Item class="type:x-xmb/module-action" key="1X01" attr="1X01"/>
+<Item class="type:x-xmb/module-action" key="1X02" attr="1X02"/>
+<Item class="type:x-xmb/module-action" key="1X03" attr="1X03"/>
+<Item class="type:x-xmb/module-action" key="1X04" attr="1X04"/>
+<Item class="type:x-xmb/module-action" key="1X05" attr="1X05"/>
+<Item class="type:x-xmb/module-action" key="1X06" attr="1X06"/>
+<Item class="type:x-xmb/module-action" key="1X07" attr="1X07"/>
+<Item class="type:x-xmb/module-action" key="1X08" attr="1X08"/>
+<Item class="type:x-xmb/module-action" key="1X09" attr="1X09"/>
+</Items>
+	</View>
+
+</XMBML>		

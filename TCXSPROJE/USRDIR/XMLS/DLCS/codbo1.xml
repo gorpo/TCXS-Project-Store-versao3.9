@@ -1,0 +1,64 @@
+<XMBML version="1.0">
+	<View id="black_ops_items">
+		<Attributes>
+			<Table key="black_ops_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Annihilation</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30591</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/cTsAlOMmWAnMRzOwGlYLfrpKtVKaSADUCRzCiwwxpUYTkYBvJrhsQWGDgJFizuRIFBtdArRIDsMToZibSHaudTlQwvBlXCDnyWRFI.pkg</String></Pair>
+      </Table>
+			<Table key="black_ops_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Escalation</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30591</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/CCfYEUcXDaMRmBiIWgEfRGNaPrpgesbZIdForTTUKNUgyoGkTsbzvPTxWerEAVCpJXnvHUIZjZfElIEknipHmzdVbGGOwbxIZnNcU.pkg</String></Pair>
+      </Table>
+			<Table key="black_ops_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - First Strike</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30591</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/vJRVGKbIHJoutbtOKPCddxpdUPzSSFmNoXfSHstUuFjbhvhdYtQdPEdUBJvliujTaohfzmOlWBUQrAhlJtCAfYzHHXRZEcwgGdtNR.pkg</String></Pair>
+      </Table>
+			<Table key="black_ops_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Rezucrrection</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30591</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/BqhPapldVgemWrKhIUCYbqVhkWOaHKYsMJTlBHKwaWNGrLluBWRpozIvMzWdhYHYloAfjexWpYprNUedfKfGlsNjWjbizCePxYCZy.pkg</String></Pair>
+      </Table>
+			<Table key="black_ops_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Mapas do Zombies Classicos</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30591</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/DAFVgH57mq4BINEhRPuyK0u8WRRcsojSq8SjcF3OYrSSe16rKt26KDhtkNdsHlyd0XlhqNSGVKofm6wGMvJSXt9OTGkMhcaQDTWMr.pkg</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="black_ops_item_0"
+        attr="black_ops_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="black_ops_item_1"
+        attr="black_ops_item_1"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="black_ops_item_2"
+        attr="black_ops_item_2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="black_ops_item_3"
+        attr="black_ops_item_3"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="black_ops_item_4"
+        attr="black_ops_item_4"/>
+		</Items>
+	</View>
+
+</XMBML>

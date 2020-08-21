@@ -1,0 +1,119 @@
+<XMBML version="1.0">
+	<View id="oppw2_items">
+		<Attributes>
+			<Table key="oppw2_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Traje Ace strong World Style</String></Pair>
+				<Pair key="info"><String>TCXS - NPUB31295</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0700/NPUB31295_00/lyZeXvmVidoybWSZKqAbSGJSyxizcxAitSKePfzuvePZQiaWbTfPwxzpkSBYNDLq.pkg</String></Pair>
+   </Table>
+			<Table key="oppw2_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Traje Chopper</String></Pair>
+				<Pair key="info"><String>TCXS - NPUB31295</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0700/NPUB31295_00/YiCNzybyxCxjkFaRhIuLGXZqPWogheJQCHVyOTalfWPestryRcLklSwfICwijUNw.pkg</String></Pair>
+   </Table>
+			<Table key="oppw2_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Traje Hancock</String></Pair>
+				<Pair key="info"><String>TCXS - NPUB31295</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0700/NPUB31295_00/YDUWraGGWAwbSBxbHKByQENYwoOElqSPAmlXEVmUzrMokLrMGLtJKiRRcyGCRWpx.pkg</String></Pair>
+   </Table>
+			<Table key="oppw2_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Traje Luffy</String></Pair>
+				<Pair key="info"><String>TCXS - NPUB31295</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0700/NPUB31295_00/ZgwwjLmCHGACYoXZVeuaGoqWkVFWOsiqRoBnAYYdVIvCqccSqenFFtVZzRRTzxRK.pkg</String></Pair>
+   </Table>
+			<Table key="oppw2_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Traje Nami</String></Pair>
+				<Pair key="info"><String>TCXS - NPUB31295</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0700/NPUB31295_00/XCpZRhDsLMIgPQptNseICzoEuEeufWdLUVaiFFVgkOnsoPdPBdjTLiNKmApZicGG.pkg</String></Pair>
+	  </Table>
+			<Table key="oppw2_item_5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Traje Nami strong World Style</String></Pair>
+				<Pair key="info"><String>TCXS - NPUB31295</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0700/NPUB31295_00/zoMkhgKpiRUitzSyCcCOYgGIAKuygtxhLvogiRjYgBQmahdwWKPCSNncNrPEyWqq.pkg</String></Pair> 
+   </Table>
+			<Table key="oppw2_item_6">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Traje Robin</String></Pair>
+				<Pair key="info"><String>TCXS - NPUB31295</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0700/NPUB31295_00/tKojIEirAjfqQxJUgDKHYhWootqFnzrRVminxDfFzvnsOIrmgnVPMuEPKAqsGaCz.pkg</String></Pair>
+   </Table>
+			<Table key="oppw2_item_7">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Traje Sanji</String></Pair>
+				<Pair key="info"><String>TCXS - NPUB31295</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0700/NPUB31295_00/NwUracAcrUhYzWcUuMFibGOxeYVLMFIRArNKbsWaaRZSJNpmDKIrGuXjbdKGIuLE.pkg</String></Pair>
+   </Table>
+			<Table key="oppw2_item_8">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Traje Usopp</String></Pair>
+				<Pair key="info"><String>TCXS - NPUB31295</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0700/NPUB31295_00/YzqQxTevgTWGyMoEbvHTMUatXzNRlzPSxmrVZqyHTfgKXzvYFpozYLPhTGAqxQdi.pkg</String></Pair>
+   </Table>
+			<Table key="oppw2_item_9">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Traje Zoro</String></Pair>
+				<Pair key="info"><String>TCXS - NPUB31295</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0700/NPUB31295_00/EDUrRfEgOBvsSSKlhiPLKmQBcEsPytTKXIlnBrBGYpPXFDKnKTUmKDYhUXlPlufw.pkg</String></Pair>
+   </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="oppw2_item_0"
+        attr="oppw2_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="oppw2_item_1"
+        attr="oppw2_item_1"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="oppw2_item_2"
+        attr="oppw2_item_2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="oppw2_item_3"
+        attr="oppw2_item_3"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="oppw2_item_4"
+        attr="oppw2_item_4"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="oppw2_item_5"
+        attr="oppw2_item_5"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="oppw2_item_6"
+        attr="oppw2_item_6"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="oppw2_item_7"
+        attr="oppw2_item_7"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="oppw2_item_8"
+        attr="oppw2_item_8"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="oppw2_item_9"
+        attr="oppw2_item_9"/>
+		</Items>
+	</View>
+
+</XMBML>

@@ -1,0 +1,31 @@
+<XMBML version="1.0">
+	<View id="infamous2_items">
+		<Attributes>
+			<Table key="infamous2_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Coleção Todas DLCs</String></Pair>
+				<Pair key="info"><String>TCXS - BCUS98125</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/BCUS98125_00/PIEavnHGVrHAaPEBTczudpYiFxgFeGPGIlSKiehRpSkhPuaRqdIAMMvQzaxpZxBNDTXGPFvLvtSSigukGWtqLtaiZMpHYkqEFzNTX.pkg</String></Pair>
+      </Table>
+			<Table key="infamous2_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Gigawatt Power Blades</String></Pair>
+				<Pair key="info"><String>TCXS - BCUS98125</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP9000/BCUS98119_00/2V0pB0VsjxpnKJg54UlaNipXdb4LsQeNsJP5LSXoOVI1cJ02LfnRBB6ocxes0WsQESQYR0SbORRXESQrSQodv81UaODl194PVNVs5.pkg</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="infamous2_item_0"
+        attr="infamous2_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="infamous2_item_1"
+        attr="infamous2_item_1"/>
+		</Items>
+	</View>
+
+</XMBML>

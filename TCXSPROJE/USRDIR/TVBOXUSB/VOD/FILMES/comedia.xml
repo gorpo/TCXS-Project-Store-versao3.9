@@ -1,0 +1,44 @@
+<XMBML version="1.0">
+	<View id="seg_tv_items">
+		<Attributes>
+      <Table key="jexi_filtro">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Jexi:Celular Sem Filtro</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/5ntcvxk1khmmlt3/Jexi-Celular_Sem-Filtro-1080p.mp4</String></Pair>
+      </Table>
+      <Table key="Kung_Fu_Futebol">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Kung Fu Futebol</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/4hwy5ln67ze08ef/kung_futebol.mp4</String></Pair>
+      </Table>
+      <Table key="Minha_Mã_Peça3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Minha Mãe é uma Peça 3</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/5x90b17cz9nouru/Minha_M%C3%A3e_Uma_Pe%C3%A7a3_1080P.MP4</String></Pair>
+      </Table>
+      <Table key="ProjetoX">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Projeto X - Uma Festa Fora de Controle</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/lu3tdmavitou61i/Projeto%20X%20-%20Uma%20Festa%20Fora%20de%20Controle.mp4</String></Pair>
+      </Table>
+			<Table key="Quanto_Mais_Idiota_Melhor">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>Quanto Mais Idiota Melhor</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.dl.dropboxusercontent.com/s/xo7o8p971lecheb/Quanto%20Mais%20Idiota%20Melhor%20%281992%29%20BRrip%20Blu-Ray%20720p%20Dublado%20Dat2015.mp4</String></Pair>
+      </Table>
+    </Attributes>
+    <Items>
+      <Item class="type:x-xmb/module-action" key="jexi_filtro" attr="jexi_filtro"/>
+      <Item class="type:x-xmb/module-action" key="Kung_Fu_Futebol" attr="Kung_Fu_Futebol"/>
+      <Item class="type:x-xmb/module-action" key="Minha_Mã_Peça3" attr="Minha_Mã_Peça3"/>
+      <Item class="type:x-xmb/module-action" key="ProjetoX" attr="ProjetoX"/>
+      <Item class="type:x-xmb/module-action" key="Quanto_Mais_Idiota_Melhor" attr="Quanto_Mais_Idiota_Melhor"/>
+    </Items>
+	</View>
+
+</XMBML>

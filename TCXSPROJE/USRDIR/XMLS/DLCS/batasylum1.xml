@@ -1,0 +1,75 @@
+<XMBML version="1.0">
+	<View id="batasylum1_items">
+		<Attributes>
+			<Table key="batasylum1_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Dem Bones Challenge Map</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30279</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0776/BLUS30279_00/pjuGUHFlvluTpmtiEiGnRd8kjq5piNe0fwjusVGedIkt2AeMOrFTvP0N6Sm3hsCuq7EPAafNpYejjjSWHa2yDj19HcMmhnNpiOBWj.pkg</String></Pair>
+      </Table>
+			<Table key="batasylum1_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Crime Alley Combat Challenge Map</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30279</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0776/BLUS30279_00/llw3lpWwttiOFN3lQBWi4JxX0p8EvroG0fJDoNnOLoy9kpXfjgYXjgswCXH5edL2eoEbUQIuyckVI7XVMg7Ib1ej4NTbS8wJCDM8w.pkg</String></Pair>
+      </Table>
+			<Table key="batasylum1_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Insane Night Challenge Pack</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30279</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0776/BLUS30279_00/3txYuBUvqUvyjn63wu87Y1GsSmYi0QmUqmYGlI1uSHA4Ph9t6GcMbKrfHenExsEkxOotWa3l66wgQRSQlrXCVNwYceTRBLujtNpGs.pkg</String></Pair>
+      </Table>
+			<Table key="batasylum1_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Prey in the Darkness Map Pack</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30279</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0776/BLUS30279_00/B73TuUaqkdhLD4i6IspN62qwwkTlQMdgQcJsbCd9ICvoRQpOmCitRIV2HuCo4DE1tQarmWrLQG5FJxv6W9HVL3GddvT3m04pCanKO.pkg</String></Pair>
+      </Table>
+			<Table key="batasylum1_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Play as the Joker Challenge Map</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30279</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/UP0776/BLUS30279_00/CifhPpy66ncKUEqriOEvKBFlGwjdnhX1bM8cNpBsAXgNQneHYE1xBqIeFq8JoB2iq3aE034w9TdFh9PT6Tpwetr0GaJdgsYML8Av0.pkg</String></Pair>
+      </Table>
+			<Table key="batasylum1_item_5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - DLCS FIX</String></Pair>
+				<Pair key="info"><String>TCXS - BLUS30279</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/sh/rwdxrqgp8ltlnh0/AACTpbxxkWRMjXaFXmpLAt4Sa?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="batasylum1_item_0"
+        attr="batasylum1_item_0"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="batasylum1_item_1"
+        attr="batasylum1_item_1"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="batasylum1_item_2"
+        attr="batasylum1_item_2"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="batasylum1_item_3"
+        attr="batasylum1_item_3"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="batasylum1_item_4"
+        attr="batasylum1_item_4"/>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="batasylum1_item_5"
+        attr="batasylum1_item_5"/>
+		</Items>
+	</View>
+
+</XMBML>
